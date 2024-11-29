@@ -11,37 +11,53 @@ Hello! I am a senior at the School of Cyberspace Security, Nanjing University of
 
 My research interests include AI applications and AI security.
 
-I am interning at ESG Coordination Office, Tencent under the guidance of Elmerpeng, exploring AI governance, cybersecurity and privacy protection.
+I am currently interning at ESG Coordination Office, Tencent under the guidance of Elmerpeng, exploring AI governance, cybersecurity and privacy protection.
 
 I have co-founded 南京云之秘境科技有限公司, and look forward to bringing some of our interesting ideas to life.
 
 Education
 ======
-B.Eng. in Cyberspace Security, Nanjing University of Science and Technology
+B.Eng. in Cyberspace Security, NJUST
 
 Internship
 ======
-2024.09 - present, ESG Coordination Office, Tencent
+ESG Coordination Office, Tencent (2024.09 - present)
 
-2024.01-2024.02, Cloud Network Maintenance Center, China Telecom Co., Ltd.
+China Telecom Co., Ltd. (2024.01-2024.02)
 
-2023.07-2023.08, Judicial Appraisal Institute, CINGHOO Technology Co., Ltd.
+CINGHOO Technology Co., Ltd. (2023.07-2023.08)
 
-2022.07-2022.08, Xuanjia Laboratory, MoreSec Technology Co., Ltd.
+MoreSec Technology Co., Ltd. (2022.07-2022.08)
 
 Publication
 ======
-Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization, CyberSciTech 2024, September 2024 (Accepted)
+Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization, CyberSciTech 2024, September 2024 (Accepted, Co-first Author)
 
-A News Recommendation System Based on Federated Learning and SM Algorithm (Under Review, Invention Patent, CN118094008A, January 2024)
+Invention Paten: A News Recommendation System Based on Federated Learning and SM Algorithm, CN118094008A (Under Review, Second Student Author)
 
-A Guide Cane and its Control Method (Granted, Invention Patent, CN111110531A, June 2024)
+Invention Paten: A Guide Cane and its Control Method, CN111110531A (Granted, First Author)
 
-A Guide Cane (Granted, Utility Model Patent, CN212235240U, January 2020)
+Utility Model Patent: A Guide Cane, CN212235240U (Granted, First Author)
 
-Site-wide configuration
+Awards
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+First Prize of Outstanding Student Scholarship, NJUST (2024.09 & 2024.03)
+
+Success Scholarship, NJUST (2024.09)
+
+Outstanding Class Cadre, NJUST (2024.09 & 2024.04)
+
+Beyond Scholarship, NJUST (2024.03)
+
+Advanced Certified Data Analyst, China Financial Analysis Institute (2024.02)
+
+First Prize of National College Student Data Analysis Competition (2023.12)
+
+Third Prize of National Cryptography Technology Competition (2023.11)
+
+Merit Student, NJUST (2023.11)
+
+Third Prize of Outstanding Student Scholarship, NJUST (2023.09, 2023.03 & 2022.09)
 
 Create content & metadata
 ------
