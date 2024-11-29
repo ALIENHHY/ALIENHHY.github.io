@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a senior at the School of Cyberspace Security, Nanjing University of Science and Technology (NJUST). My major is Cyberspace Security. I am fortunate to be supervised by Prof. Zhichao Lian. 
+Hello! I am a senior at the School of Cyberspace Security, Nanjing University of Science and Technology (NJUST). My major is Cyberspace Security. I am fortunate to be supervised by Prof. [Zhichao Lian](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=6CZPjzcQhmzsS-IjPww!Hw==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=). 
 
 My research interests include AI applications and AI security.
 
