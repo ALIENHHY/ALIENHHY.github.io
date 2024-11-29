@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Haoyang Hu"
+title: "Haoyang Hu（胡皓阳）"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a senior student at Nanjing University of Science and Technology.
+I am a senior at School of Cyber Science and Engineering, Nanjing University of Science and Technology under the guidance of Prof. Zhichao Lian.
 
 I am interning at ESG Coordination Office, Tencent under the guidance of Elmerpeng, exploring AI governance, cybersecurity and privacy protection.
 
