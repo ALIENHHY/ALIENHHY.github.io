@@ -15,6 +15,8 @@ I am currently interning at ESG Coordination Office, Tencent under the guidance 
 
 I have co-founded 南京云之秘境科技有限公司, and look forward to bringing some of our interesting ideas to life.
 
+I am preparing for 25fall intake including mphil, msc, phd (if possible).
+
 Education
 ======
 B.Eng. in Cyberspace Security, NJUST
