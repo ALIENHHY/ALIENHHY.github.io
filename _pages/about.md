@@ -8,8 +8,11 @@ redirect_from:
 ---
 
 I am a senior student at Nanjing University of Science and Technology.
+
 I am interning at ESG Coordination Office, Tencent under the guidance of Elmerpeng, exploring AI governance, cybersecurity and privacy protection.
+
 I am interested in AI applications and AI security.
+
 I have co-founded 南京云之秘境科技有限公司, and look forward to bringing some of our interesting ideas to life.
 
 Internship
