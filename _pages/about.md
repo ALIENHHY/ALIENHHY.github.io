@@ -31,10 +31,16 @@ CINGHOO Technology Co., Ltd. (2023.07-2023.08)
 
 MoreSec Technology Co., Ltd. (2022.07-2022.08)
 
-Publication
+Papers
 ======
-Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization, CyberSciTech 2024, September 2024 (Accepted, Co-first Author)
+ESG Risks and Opportunities in the Development of Artificial Intelligence, Tencent KM, 2024.12 (First Author)
 
+Observations on the Global Governance Landscape of Artificial Intelligence Governance, Tencent KM, 2024.11 (First Author)
+
+Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization, CyberSciTech, 2024.09 (Accepted, Co-first Author)
+
+Patents
+======
 Invention Paten: A News Recommendation System Based on Federated Learning and SM Algorithm, CN118094008A (Under Review, Second Student Author)
 
 Invention Paten: A Guide Cane and its Control Method, CN111110531A (Granted, First Author)
