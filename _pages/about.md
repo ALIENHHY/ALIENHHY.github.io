@@ -18,13 +18,19 @@ I have co-founded 南京云之秘境科技有限公司, and look forward to brin
 Internship
 ======
 2024.09 - present, ESG Coordination Office, Tencent
+2024.01-2024.02, Cloud Network Maintenance Center, China Telecom Co., Ltd.
+2023.07-2023.08, Judicial Appraisal Institute, CINGHOO Technology Co., Ltd.
+2022.07-2022.08, Xuanjia Laboratory, MoreSec Technology Co., Ltd.
 
 Publication
 ======
-Gengyi Can, Haoyang Hu, Zhaoxuan Ge, Zhichao Lian, Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization, CyberSciTech 2024, September 2024 (Accepted, Co-First Author)
-A News Recommendation System Based on Federated Learning and SM Algorithm (Under Review, Second Student Author, Invention Patent, CN118094008A, January 2024)
-A Guide Cane and its Control Method (Granted, First Author, Invention Patent, CN111110531A, June 2024)
-A Guide Cane (Granted, First Author, Utility Model Patent, CN212235240U, January 2020)
+Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization, CyberSciTech 2024, September 2024 (Accepted)
+
+A News Recommendation System Based on Federated Learning and SM Algorithm (Under Review, Invention Patent, CN118094008A, January 2024)
+
+A Guide Cane and its Control Method (Granted, Invention Patent, CN111110531A, June 2024)
+
+A Guide Cane (Granted, Utility Model Patent, CN212235240U, January 2020)
 
 Site-wide configuration
 ------
