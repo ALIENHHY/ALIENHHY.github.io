@@ -81,7 +81,7 @@ I played about 8 seasons of [VEX-EDR Robotics](https://en.wikipedia.org/wiki/VEX
 
 · Silver Award， RoboCom Science Literacy Assessment National Finals, Hangzhou, China, 2018
 
-(Took secondary school exams in 2017)
+(Took High-school Entrance Exams in 2017)
 
 · Runner-up, National VEX Robotics Engineering Challenge, Xian, China, 2016
 
