@@ -7,19 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior at School of Cyber Science and Engineering, Nanjing University of Science and Technology under the guidance of Prof. Zhichao Lian.
+Hello! I am a senior at the School of Cyberspace Security, Nanjing University of Science and Technology (NJUST). My major is Cyberspace Security. I am fortunate to be supervised by Prof. Zhichao Lian. 
+
+My research interests include AI applications and AI security.
 
 I am interning at ESG Coordination Office, Tencent under the guidance of Elmerpeng, exploring AI governance, cybersecurity and privacy protection.
 
-I am interested in AI applications and AI security.
-
 I have co-founded 南京云之秘境科技有限公司, and look forward to bringing some of our interesting ideas to life.
+
+Education
+======
+B.Eng. in Cyberspace Security, Nanjing University of Science and Technology
 
 Internship
 ======
 2024.09 - present, ESG Coordination Office, Tencent
+
 2024.01-2024.02, Cloud Network Maintenance Center, China Telecom Co., Ltd.
+
 2023.07-2023.08, Judicial Appraisal Institute, CINGHOO Technology Co., Ltd.
+
 2022.07-2022.08, Xuanjia Laboratory, MoreSec Technology Co., Ltd.
 
 Publication
