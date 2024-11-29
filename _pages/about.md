@@ -68,24 +68,43 @@ Others
 I like travelling, table games, sports, especially basketball and badminton!
 
 I played about 8 seasons of [VEX-EDR Robotics](https://en.wikipedia.org/wiki/VEX_Robotics) from elementary to high school.
+
 · RoboCom City League 2018 Individual Champion (Top 50 Nationally), 2018
+
 · Most Promising Award (Champion), RoboCom City Hero Challenge, Hangzhou,China, 2018
+
 · First Prize, RoboCom World Robotics Competition Final, Beijing, China, 2018
+
 · Second Runner-up, RoboCom World Robotics Competition Final, Beijing, China, 2018
+
 · Silver Award， RoboCom Science Literacy Assessment National Finals, Hangzhou, China, 2018
+
 (Took secondary school exams in 2017)
+
 · Runner-up, National VEX Robotics Engineering Challenge, Xian, China, 2016
+
 · Glod Award, VEX World Championship, Louisville, USA, 2016
+
 · Glod Award, Asia-Pacific Robotics Championship, Melbourne, Australia, 2015
+
 · Champion, National VEX Robotics Engineering Challenge, Weihai, China, 2015
+
 · First Prize, National VEX Robotics Engineering Challenge, Weihai, China, 2015
+
 · Second Prize, National VEX Robotics Engineering Challenge, Dongguan, China, 2014
+
 · Second Prize, Zhejiang Province VEX Robotics Engineering Challenge, Ningbo, China, 2014
+
 · Second Prize, National VEX Robotics Engineering Challenge, Shenzhen, China, 2013
+
 · Second Prize, East China VEX Robotics Engineering Challenge, Suzhou, China, 2013
+
 · First Prize, East China VEX Robotics Engineering Challenge, Suzhou, China, 2012
+
 · Runner-up, East China VEX Robotics Engineering Challenge, Suzhou, China, 2012
+
 · Third Prize, National VEX Robotics Engineering Challenge, Mianyang, China, 2012
+
 · Third Prize, Zhejiang Province VEX Robotics Engineering Challenge, Ningbo, China, 2012
 
 **Markdown generator**
