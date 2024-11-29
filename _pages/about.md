@@ -41,7 +41,7 @@ Utility Model Patent: A Guide Cane, CN212235240U (Granted, First Author)
 
 Awards
 ------
-First Prize of Outstanding Student Scholarship, NJUST (2024.09 & 2024.03)
+First Prize, Outstanding Student Scholarship, NJUST (2024.09 & 2024.03)
 
 Success Scholarship, NJUST (2024.09)
 
@@ -51,17 +51,42 @@ Beyond Scholarship, NJUST (2024.03)
 
 Advanced Certified Data Analyst, China Financial Analysis Institute (2024.02)
 
-First Prize of National College Student Data Analysis Competition (2023.12)
+First Prize, National College Student Data Analysis Competition (2023.12)
 
-Third Prize of National Cryptography Technology Competition (2023.11)
+Third Prize, National Cryptography Technology Competition (2023.11)
 
 Merit Student, NJUST (2023.11)
 
-Third Prize of Outstanding Student Scholarship, NJUST (2023.09, 2023.03 & 2022.09)
+Third Prize, Outstanding Student Scholarship, NJUST (2023.09, 2023.03 & 2022.09)
 
-Create content & metadata
+VRC Spin Up Head Referee Certification, REC Foundation (2023.04)
+
+Judge Certification, REC Foundation (2023.04)
+
+Others
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+I like travelling, table games, sports, especially basketball and badminton!
+
+I played about 8 seasons of [VEX-EDR Robotics](https://en.wikipedia.org/wiki/VEX_Robotics) from elementary to high school.
+· RoboCom City League 2018 Individual Champion (Top 50 Nationally), 2018
+· Most Promising Award (Champion), RoboCom City Hero Challenge, Hangzhou,China, 2018
+· First Prize, RoboCom World Robotics Competition Final, Beijing, China, 2018
+· Second Runner-up, RoboCom World Robotics Competition Final, Beijing, China, 2018
+· Silver Award， RoboCom Science Literacy Assessment National Finals, Hangzhou, China, 2018
+(Took secondary school exams in 2017)
+· Runner-up, National VEX Robotics Engineering Challenge, Xian, China, 2016
+· Glod Award, VEX World Championship, Louisville, USA, 2016
+· Glod Award, Asia-Pacific Robotics Championship, Melbourne, Australia, 2015
+· Champion, National VEX Robotics Engineering Challenge, Weihai, China, 2015
+· First Prize, National VEX Robotics Engineering Challenge, Weihai, China, 2015
+· Second Prize, National VEX Robotics Engineering Challenge, Dongguan, China, 2014
+· Second Prize, Zhejiang Province VEX Robotics Engineering Challenge, Ningbo, China, 2014
+· Second Prize, National VEX Robotics Engineering Challenge, Shenzhen, China, 2013
+· Second Prize, East China VEX Robotics Engineering Challenge, Suzhou, China, 2013
+· First Prize, East China VEX Robotics Engineering Challenge, Suzhou, China, 2012
+· Runner-up, East China VEX Robotics Engineering Challenge, Suzhou, China, 2012
+· Third Prize, National VEX Robotics Engineering Challenge, Mianyang, China, 2012
+· Third Prize, Zhejiang Province VEX Robotics Engineering Challenge, Ningbo, China, 2012
 
 **Markdown generator**
 
