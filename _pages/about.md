@@ -17,11 +17,12 @@ I am waiting for the opportunities of Fall 25 enrolment, including MPhil/MScR/MR
 Research Interests
 ======
 ---
-AI application: Especially using data-deriven methods to help decition-making.
+* AI application: Especially using data-deriven methods to help decition-making.
+* Trustworthy AI: I'm attempting my graduation project about LLMs security under the guidance of Prof. Lian.
 
-AI security: I'm attempting my graduation project about LLMs security under the guidance of Prof. Lian.
+In addition, I have worked on projects related to federated learning, cryptography, IoT security, computer vision, and embedded systems, and I have a strong interest in these fields.
 
 Education
 ======
 ---
-B.Eng. in Cyberspace Security, NJUST, 2021-2025
+* B.Eng. in Cyberspace Security, NJUST, 2021-2025
