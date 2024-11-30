@@ -27,6 +27,8 @@ Internship
 ======
 ESG Coordination Office, Tencent (Under the guidance of Elmerpeng, 2024.09 - 2024.12)
 
+  · Exploring AI giverance, cybersecurity and privacy protection.
+
 Cloud Network Maintenance Center, China Telecom (2024.01-2024.02)
 
 Judicial Appraisal Institute, CINGHOO Technology (2023.07-2023.08)
@@ -79,19 +81,19 @@ I like travelling and sports, especially basketball and badminton!
 
 I played about 8 seasons of [VEX-EDR Robotics](https://en.wikipedia.org/wiki/VEX_Robotics) from elementary to high school, awards include:
 
-· First Prize, RoboCom World Robotics Competition Final, Beijing, China, 2018
+  · First Prize, RoboCom World Robotics Competition Final, Beijing, China, 2018
 
-· Second Runner-up, RoboCom World Robotics Competition Final, Beijing, China, 2018
+  · Second Runner-up, RoboCom World Robotics Competition Final, Beijing, China, 2018
 
-· Runner-up, National VEX Robotics Engineering Challenge, Xian, China, 2016
+  · Runner-up, National VEX Robotics Engineering Challenge, Xian, China, 2016
 
-· Glod Award, VEX World Championship, Louisville, USA, 2016
+  · Glod Award, VEX World Championship, Louisville, USA, 2016
 
-· Glod Award, Asia-Pacific Robotics Championship, Melbourne, Australia, 2015
+  · Glod Award, Asia-Pacific Robotics Championship, Melbourne, Australia, 2015
 
-· Champion, National VEX Robotics Engineering Challenge, Weihai, China, 2015
+  · Champion, National VEX Robotics Engineering Challenge, Weihai, China, 2015
 
-· First Prize, National VEX Robotics Engineering Challenge, Weihai, China, 2015
+  · First Prize, National VEX Robotics Engineering Challenge, Weihai, China, 2015
 
 **Markdown generator**
 
