@@ -52,9 +52,9 @@ Publications
   * [2024.11] Observations on the Global Governance Landscape of Artificial Intelligence Governance, Tencent Knowledge Management (First Author)
   * [2024.09] Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization, CyberSciTech 2024 (Accepted, Co-first Author)
 * Patents
-  * A News Recommendation System Based on Federated Learning and SM Algorithm, CN118094008A, Invention Patent (Under Review, Second Student Author)
-  * A Guide Cane and its Control Method, CN111110531A, Invention Patent (Granted, First Author)
-  * A Guide Cane, CN212235240U, Utility Model Patent (Granted, First Author)
+  * [Invention Patent] A News Recommendation System Based on Federated Learning and SM Algorithm, CN118094008A (Under Review, Second Student Author)
+  * [Invention Patent] A Guide Cane and its Control Method, CN111110531A (Granted, First Author)
+  * [Utility Model Patent] A Guide Cane, CN212235240U (Granted, First Author)
 
 Awards
 ======
