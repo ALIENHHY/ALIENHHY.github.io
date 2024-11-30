@@ -30,5 +30,5 @@ Patents
 Other Publications
 ======
 ---
-* ESG Risks and Opportunities in the Development of Artificial Intelligence, Tencent KM, 2024.12 (First Author)
-* Observations on the Global Governance Landscape of Artificial Intelligence Governance, Tencent KM, 2024.11 (First Author)
+* ESG Risks and Opportunities in the Development of Artificial Intelligence, Tencent Knowledge Management, 2024.12 (First Author)
+* Observations on the Global Governance Landscape of Artificial Intelligence Governance, Tencent Knowledge Management, 2024.11 (First Author)
