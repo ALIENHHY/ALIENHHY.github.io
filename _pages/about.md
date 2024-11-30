@@ -17,7 +17,7 @@ Research Interests
 ======
 AI application: Especially using data-deriven methods to help decition-making.
 
-AI security: I'm attempting my graduation project about LLMs security.
+AI security: I'm attempting my graduation project about LLMs security under the guidance of Prof. Lian.
 
 Education
 ======
