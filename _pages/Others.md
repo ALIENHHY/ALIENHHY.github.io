@@ -18,7 +18,7 @@ Hobbies
 
 Robotics
 ======
-* I played about 8 seasons of VEX-EDR Robotics from elementary to high school, awards include:
+* I played about 8 seasons of VEX-EDR Robotics from elementary to high school, competition awards include:
   * First Prize, RoboCom World Robotics Competition Final, Beijing, China, 2018
   * Second Runner-up, RoboCom World Robotics Competition Final, Beijing, China, 2018
   * Runner-up, National VEX Robotics Engineering Challenge, Xian, China, 2016
@@ -26,3 +26,4 @@ Robotics
   * Glod Award, Asia-Pacific Robotics Championship, Melbourne, Australia, 2015
   * Champion, National VEX Robotics Engineering Challenge, Weihai, China, 2015
   * First Prize, National VEX Robotics Engineering Challenge, Weihai, China, 2015
+![Editing a markdown file for a talk](/images/asia championship.png)
