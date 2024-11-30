@@ -16,7 +16,7 @@ Hobbies
 ---
 * I love traveling! I've been to North America and Oceania, and my dream is to hike in Antarctica！
 * I like sports, especially basketball and badminton!
-* I like outdoor activities like fishing and hiking!
+* I like outdoor activities, such as fishing and hiking!
 * I enjoy table games, such as billiards, mahjong, and board games！
 * I enjoy listening to music, especially folk songs, but I'm not good at singing.
 
