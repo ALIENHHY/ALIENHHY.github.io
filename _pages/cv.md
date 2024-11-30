@@ -31,7 +31,7 @@ Work Experiences
 ---
 * 2024.11-Current: 南京云之秘境科技有限公司
   * Co-founder
-  * In the exploratory phase of the startup journey...
+  * Duties includes: In the exploratory phase of the startup journey...
 
 * 2024.09-Current: Tencent
   * Digital Rights Protection Intern, ESG Coordination Office
