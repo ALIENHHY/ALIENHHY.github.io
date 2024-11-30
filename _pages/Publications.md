@@ -15,7 +15,7 @@ Conference Papers
 
 Journal Articles
 ======
-
+---
 
 Patents
 ======
