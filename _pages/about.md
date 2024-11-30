@@ -39,50 +39,6 @@ Invention Paten: A Guide Cane and its Control Method, CN111110531A (Granted, Fir
 
 Utility Model Patent: A Guide Cane, CN212235240U (Granted, First Author)
 
-Awards
-------
-First Prize, Outstanding Student Scholarship, NJUST (2024.09 & 2024.03)
-
-Success Scholarship, NJUST (2024.09)
-
-Outstanding Class Cadre, NJUST (2024.09 & 2024.04)
-
-Beyond Scholarship, NJUST (2024.03)
-
-Advanced Certified Data Analyst, China Financial Analysis Institute (2024.02)
-
-First Prize, National College Student Data Analysis Competition (2023.12)
-
-Third Prize, National Cryptography Technology Competition (2023.11)
-
-Merit Student, NJUST (2023.11)
-
-Third Prize, Outstanding Student Scholarship, NJUST (2023.09, 2023.03 & 2022.09)
-
-VRC Spin Up Head Referee Certification, REC Foundation (2023.04)
-
-Judge Certification, REC Foundation (2023.04)
-
-Others
-------
-I like travelling and sports, especially basketball and badminton!
-
-I played about 8 seasons of [VEX-EDR Robotics](https://en.wikipedia.org/wiki/VEX_Robotics) from elementary to high school, awards include:
-
-  · First Prize, RoboCom World Robotics Competition Final, Beijing, China, 2018
-
-  · Second Runner-up, RoboCom World Robotics Competition Final, Beijing, China, 2018
-
-  · Runner-up, National VEX Robotics Engineering Challenge, Xian, China, 2016
-
-  · Glod Award, VEX World Championship, Louisville, USA, 2016
-
-  · Glod Award, Asia-Pacific Robotics Championship, Melbourne, Australia, 2015
-
-  · Champion, National VEX Robotics Engineering Challenge, Weihai, China, 2015
-
-  · First Prize, National VEX Robotics Engineering Challenge, Weihai, China, 2015
-
 **Markdown generator**
 
 The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
