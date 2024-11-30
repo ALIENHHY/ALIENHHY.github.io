@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Achievements"
+title: " My Achievements"
 permalink: /awards/
 author_profile: true
 redirect_from:
@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+革命尚未成功，同志仍需努力...
 
 Competitions (National Levels)
 ======
