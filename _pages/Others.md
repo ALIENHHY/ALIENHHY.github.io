@@ -14,7 +14,7 @@ I believe that work-life balance is very important...
 Hobbies
 ======
 ---
-* I love traveling! I've been to America and Oceania, and my dream is to visit Antarctica.!
+* I love traveling! I've been to North America and Oceania, and my dream is to hike in Antarctica！
 * I like sports, especially basketball and badminton!
 * I like outdoor activities like fishing and hiking!
 * I enjoy table games, such as billiards, mahjong, and board games！
