@@ -15,7 +15,13 @@ I am currently interning at ESG Coordination Office, Tencent under the guidance 
 
 I have co-founded 南京云之秘境科技有限公司, and look forward to bringing some of our interesting ideas to life.
 
-I am preparing for 25fall intake including mphil, msc, phd (if possible).
+I am waiting for the opportunities of 25 Fall enrolment, including mphil, msc, phd (if possible).
+
+Research Interests
+======
+AI application: Especially using data-deriven methods to help decition-making.
+
+AI security: I'm attempting my graduation project about LLMs security.
 
 Education
 ======
@@ -23,13 +29,13 @@ B.Eng. in Cyberspace Security, NJUST
 
 Internship
 ======
-ESG Coordination Office, Tencent (2024.09 - present)
+ESG Coordination Office, Tencent (2024.09 - 2024.12)
 
-China Telecom Co., Ltd. (2024.01-2024.02)
+Cloud Network Maintenance Center, China Telecom (2024.01-2024.02)
 
-CINGHOO Technology Co., Ltd. (2023.07-2023.08)
+Judicial Appraisal Institute, CINGHOO Technology (2023.07-2023.08)
 
-MoreSec Technology Co., Ltd. (2022.07-2022.08)
+Xuanjia Laboratory, MoreSec Technology (2022.07-2022.08)
 
 Papers
 ======
@@ -73,21 +79,13 @@ Judge Certification, REC Foundation (2023.04)
 
 Others
 ------
-I like travelling, table games, sports, especially basketball and badminton!
+I like travelling and sports, especially basketball and badminton!
 
-I played about 8 seasons of [VEX-EDR Robotics](https://en.wikipedia.org/wiki/VEX_Robotics) from elementary to high school.
-
-· RoboCom City League 2018 Individual Champion (Top 50 Nationally), 2018
-
-· Most Promising Award (Champion), RoboCom City Hero Challenge, Hangzhou,China, 2018
+I played about 8 seasons of [VEX-EDR Robotics](https://en.wikipedia.org/wiki/VEX_Robotics) from elementary to high school, awards include:
 
 · First Prize, RoboCom World Robotics Competition Final, Beijing, China, 2018
 
 · Second Runner-up, RoboCom World Robotics Competition Final, Beijing, China, 2018
-
-· Silver Award， RoboCom Science Literacy Assessment National Finals, Hangzhou, China, 2018
-
-(Took High-school Entrance Exams in 2017)
 
 · Runner-up, National VEX Robotics Engineering Challenge, Xian, China, 2016
 
@@ -98,22 +96,6 @@ I played about 8 seasons of [VEX-EDR Robotics](https://en.wikipedia.org/wiki/VEX
 · Champion, National VEX Robotics Engineering Challenge, Weihai, China, 2015
 
 · First Prize, National VEX Robotics Engineering Challenge, Weihai, China, 2015
-
-· Second Prize, National VEX Robotics Engineering Challenge, Dongguan, China, 2014
-
-· Second Prize, Zhejiang Province VEX Robotics Engineering Challenge, Ningbo, China, 2014
-
-· Second Prize, National VEX Robotics Engineering Challenge, Shenzhen, China, 2013
-
-· Second Prize, East China VEX Robotics Engineering Challenge, Suzhou, China, 2013
-
-· First Prize, East China VEX Robotics Engineering Challenge, Suzhou, China, 2012
-
-· Runner-up, East China VEX Robotics Engineering Challenge, Suzhou, China, 2012
-
-· Third Prize, National VEX Robotics Engineering Challenge, Mianyang, China, 2012
-
-· Third Prize, Zhejiang Province VEX Robotics Engineering Challenge, Ningbo, China, 2012
 
 **Markdown generator**
 
