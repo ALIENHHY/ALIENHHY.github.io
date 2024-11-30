@@ -14,7 +14,7 @@ I believe that work-life balance is very important...
 Hobbies
 ======
 ---
-* I love traveling! I've been to North America and Oceania, and my dream is to hike in Antarctica！
+* I love traveling, and my dream is to hike in Antarctica！
 * I like sports, especially basketball and badminton!
 * I like outdoor activities, such as fishing and hiking!
 * I enjoy table games, such as billiards, mahjong, and board games！
@@ -24,7 +24,7 @@ Robotics
 ======
 ---
 * I participated in 8 seasons of the VEX-EDR robotics competition from elementary to high school.
-  * The cities I've visited for competitions, Sort by time:
+  * The cities I've visited for competitions:
     * 2011: Ningbo
     * 2012: Mianyang, Suzhou
     * 2013: Shenzhen, Suzhou
