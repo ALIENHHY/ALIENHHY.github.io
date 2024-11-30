@@ -11,54 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Eng. in Cyberspace Security, NJUST, 2021-2025
 
-Work experience
+Work Experiences
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024.11-Present: CTO
+  * 南京云之秘境科技有限公司
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024.09-Present: Digital Rights Protection Intern
+  * ESG Coordination Office, Tencent
+  * Duties includes:
+      * Exploring AI governance, cybersecurity and privacy protection.
+      * Developing AI-driven efficiency tools.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2024.11-Present: Permanent Representatives
+  * Student Congress, NJUST
+  * Duties includes:
+      * Attend student congress to formulate, monitor and vote on policies.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2021.09-Present: Secretary of the Reunion Branch
+  * Class of 2021 in Cyberspace Security, NJUST
+  * Duties includes:
+      * Managing classes and organising activities.
+
+* 2024.01-2024.02: Equipment Maintenance Support Intern
+  * Cloud Network Maintenance Center, China Telecom Co., Ltd.
+
+* 2023.07-2023.08: Data Forensic Analysis Intern
+  * Judicial Appraisal Institute, CINGHOO Technology Co., Ltd.
+
+* 2022.07-2022.08: Security Service Intern
+  * Xuanjia Laboratory, Hangzhou MoreSec Technology Co., Ltd.
