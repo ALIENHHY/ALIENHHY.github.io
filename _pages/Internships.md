@@ -11,9 +11,7 @@ redirect_from:
 
 Tencent (2024.09-Present)
 ======
-Department: ESG Coordination Office
-
-Works:
+Department: ESG Coordination Office (under the guidance of Elmerpeng)
 
 Exploring the fields of AI governance, cybersecurity and privacy protection:
 
@@ -23,7 +21,7 @@ Exploring the fields of AI governance, cybersecurity and privacy protection:
 
 ====Observations on the Global Governance Landscape of Artificial Intelligence Governance
 
-==Taking responsibility for developing AI-driven efficiency tools:
+Taking responsibility for developing AI-driven efficiency tools:
 
 ====News Reporting System Development: Developed a workflow to automatically collect, summarize, and deliver daily news reports on relevant topics to colleagues' mailboxes, which has been actively used in our team.
 
