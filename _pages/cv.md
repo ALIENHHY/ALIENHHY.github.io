@@ -24,6 +24,8 @@ Research Interests
 * AI application: Especially using data-deriven methods to help decition-making.
 * AI security: I'm attempting my graduation project about LLMs security
 
+In addition, I have worked on projects related to federated learning, cryptography, IoT security, computer vision, and embedded systems, and I have a strong interest in these fields.
+
 Work Experiences
 ======
 ---
@@ -36,13 +38,9 @@ Work Experiences
       * Exploring AI governance, cybersecurity and privacy protection.
       * Developing AI-driven efficiency tools.
 
-* 2024.11-Present: Student Congress, NJUST
+* 2024.05-Current: Student Congress, NJUST
   * Permanent Representatives
   * Duties includes: Attend student congress to formulate, monitor and vote on policies.
-
-* 2021.09-Present: Class of 2021 in Cyberspace Security, NJUST
-  * Secretary of the Reunion Branch
-  * Duties includes: Managing classes and organising activities.
 
 * 2024.01-2024.02: China Telecom Co., Ltd.
   * Equipment Maintenance Support Intern, Cloud Network Maintenance Center
@@ -52,6 +50,10 @@ Work Experiences
 
 * 2022.07-2022.08: MoreSec Technology Co., Ltd.
   * Security Service Intern, Xuanjia Laboratory
+
+* 2021.09-Current: Class of 2021 in Cyberspace Security, NJUST
+  * Secretary of the Reunion Branch
+  * Duties includes: Managing classes and organising activities.
 
 Publications
 ======
