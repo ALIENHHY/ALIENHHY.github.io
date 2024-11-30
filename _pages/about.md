@@ -22,19 +22,3 @@ AI security: I'm attempting my graduation project about LLMs security under the 
 Education
 ======
 B.Eng. in Cyberspace Security, NJUST
-
-Papers
-======
-ESG Risks and Opportunities in the Development of Artificial Intelligence, Tencent KM, 2024.12 (First Author)
-
-Observations on the Global Governance Landscape of Artificial Intelligence Governance, Tencent KM, 2024.11 (First Author)
-
-Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization, CyberSciTech, 2024.09 (Accepted, Co-first Author)
-
-Patents
-======
-Invention Paten: A News Recommendation System Based on Federated Learning and SM Algorithm, CN118094008A (Under Review, Second Student Author)
-
-Invention Paten: A Guide Cane and its Control Method, CN111110531A (Granted, First Author)
-
-Utility Model Patent: A Guide Cane, CN212235240U (Granted, First Author)
