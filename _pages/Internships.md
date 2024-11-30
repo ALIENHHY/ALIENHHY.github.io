@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Internships"
+permalink: /internships/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,56 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Tencent (2024.09-Present)
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Department: ESG Coordination Office
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Mentor: Elmerpeng
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Works:
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Exploring the fields of AI governance, cybersecurity and privacy protection:
 
-Publications
+· Delved deeper into the industry, wrote and published two articles on Tencent KM:
+
+····ESG Risks and Opportunities in the Development of Artificial Intelligence
+
+····Observations on the Global Governance Landscape of Artificial Intelligence Governance
+
+· Taking responsibility for developing AI-driven efficiency tools:
+
+····News Reporting System Development: Developed a workflow to automatically collect, summarize, and deliver daily news reports on relevant topics to colleagues' mailboxes, which has been actively used in our team.
+
+····LLM Training: Built a proprietary knowledge base for training, fine-tuned the model, designed specialized prompts, and developed a large language model specifically tailored for ESG report writing, which is set to be deployed in our team.
+
+····CV Model Development: Deployed an image recognition model for the 'Emin Environmental Protection Action Group' mini program using ResNet and OCR. Which has been successfully launched and actively used by over 3,000 employees.
+
+China Telecom Co., Ltd. (2024.01-2024.02)
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+Department: Cloud Network Maintenance Center
+
+CINGHOO Technology Co., Ltd. (2023.07-2023.08)
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+Department: Judicial Appraisal Institute
+
+MoreSec Technology Co., Ltd. (2022.07-2022.08)
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Department: Xuanjia Laboratory
