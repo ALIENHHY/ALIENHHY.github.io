@@ -25,12 +25,12 @@ In addition, I have worked on projects related to machine learning, federated le
 Education
 ======
 ---
-* B.Eng. in Cyberspace Security, NJUST, 2021-2025
+* [2021-2025] B.Eng. in Cyberspace Security, NJUST
 
 News
 ======
 ---
-[2024.09] I started my internship at Tencent!
+* [2024.09] I started my internship at Tencent!
 
 ---
 
