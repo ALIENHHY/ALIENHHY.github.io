@@ -11,12 +11,14 @@ redirect_from:
 
 Education
 ======
+---
 * B.Eng. in Cyberspace Security, NJUST, 2021-2025
   * GPA: 85.25/100
   * Rank: Top 12%, ranked 1st in junior year
 
 Work Experiences
 ======
+---
 * 2024.11-Present: CTO
   * 南京云之秘境科技有限公司
 
@@ -47,6 +49,7 @@ Work Experiences
 
 Publications
 ======
+---
 * Papers
   * ESG Risks and Opportunities in the Development of Artificial Intelligence, Tencent KM, 2024.12 (First Author)
   * Observations on the Global Governance Landscape of Artificial Intelligence Governance, Tencent KM, 2024.11 (First Author)
@@ -58,6 +61,7 @@ Publications
 
 Awards
 ======
+---
 * Competitions (National Levels)
   * First Prize, National College Student Data Analysis Competition, 2023.12
   * Third Prize, National Cryptography Technology Competition, 2023.11
