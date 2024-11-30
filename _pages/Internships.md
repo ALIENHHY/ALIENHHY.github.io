@@ -11,7 +11,7 @@ redirect_from:
 
 I have experienced four different companies and positions during my spare time, exploring my career path...
 
-Tencent (2024.09-Current)
+[2024.09-Current] Tencent
 ======
 ---
 * Department: ESG Coordination Office (under the guidance of Elmerpeng)
@@ -26,19 +26,19 @@ Tencent (2024.09-Current)
   * CV Model Development: Deployed an image recognition model for the "鹅民环保行动派" mini program using ResNet and OCR. Which has been successfully launched and actively used by over 3,000 employees.
 
 
-China Telecom Co., Ltd. (2024.01-2024.02)
+[2024.01-2024.02] China Telecom Co., Ltd.
 ======
 ---
 * Department: Cloud Network Maintenance Center
 
 
-CINGHOO Technology Co., Ltd. (2023.07-2023.08)
+[2023.07-2023.08] CINGHOO Technology Co., Ltd.
 ======
 ---
 * Department: Judicial Appraisal Institute
 
 
-MoreSec Technology Co., Ltd. (2022.07-2022.08)
+[2022.07-2022.08] MoreSec Technology Co., Ltd.
 ======
 ---
 * Department: Xuanjia Laboratory
