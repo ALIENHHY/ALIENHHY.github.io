@@ -18,7 +18,7 @@ Hobbies
 * I like sports, especially basketball and badminton!
 * I like outdoor activities like fishing and hiking!
 * I enjoy table games, such as billiards, mahjong, and other board games！
-* I enjoy listening to music, especially folk songs, but I'm not very good at singing.
+* I enjoy listening to music, especially folk songs, but I'm not good at singing.
 
 Robotics
 ======
