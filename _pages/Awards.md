@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Awards"
+title: "Achievements"
 permalink: /awards/
 author_profile: true
 redirect_from:
