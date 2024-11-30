@@ -11,9 +11,6 @@ main:
   - title: "Internships"
     url: /internships/
     
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
 
