@@ -12,8 +12,9 @@ redirect_from:
 Hobbies
 ======
 * I like travelling!
-* I like sports, especially basketball and badminton.
-* I like table games, such as billiards, mahjong and murder mystery games.
+* I like sports, especially basketball and badminton!
+* I like outdoor activities like fishing and hiking!
+* I like table games, such as billiards, mahjong and murder mystery games!
 
 Robotics
 ======
