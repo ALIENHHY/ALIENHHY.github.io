@@ -13,8 +13,6 @@ Tencent (2024.09-Present)
 ======
 Department: ESG Coordination Office
 
-Mentor: Elmerpeng
-
 Works:
 
 Exploring the fields of AI governance, cybersecurity and privacy protection:
