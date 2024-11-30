@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
----
+
 Tencent (2024.09-Present)
 ======
-
+---
 Department: ESG Coordination Office (under the guidance of Elmerpeng)
 
 * Exploring the fields of AI governance, cybersecurity and privacy protection:
@@ -26,20 +26,20 @@ Department: ESG Coordination Office (under the guidance of Elmerpeng)
   * LLM Training: Built a proprietary knowledge base for training, fine-tuned the model, designed specialized prompts, and developed a large language model specifically tailored for ESG report writing, which is set to be deployed in our team.
   * CV Model Development: Deployed an image recognition model for the '鹅民环保行动派' mini program using ResNet and OCR. Which has been successfully launched and actively used by over 3,000 employees.
 
----
+
 China Telecom Co., Ltd. (2024.01-2024.02)
 ======
-
+---
 Department: Cloud Network Maintenance Center
 
----
+
 CINGHOO Technology Co., Ltd. (2023.07-2023.08)
 ======
-
+---
 Department: Judicial Appraisal Institute
 
----
+
 MoreSec Technology Co., Ltd. (2022.07-2022.08)
 ======
-
+---
 Department: Xuanjia Laboratory
