@@ -14,10 +14,10 @@ I believe that work-life balance is very important...
 Hobbies
 ======
 ---
-* I like travelling!
+* I love traveling! I've been to America and Oceania, and my dream is to visit Antarctica.!
 * I like sports, especially basketball and badminton!
 * I like outdoor activities like fishing and hiking!
-* I enjoy table games, such as billiards, mahjong, and other board games！
+* I enjoy table games, such as billiards, mahjong, and board games！
 * I enjoy listening to music, especially folk songs, but I'm not good at singing.
 
 Robotics
