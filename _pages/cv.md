@@ -27,31 +27,31 @@ Research Interests
 Work Experiences
 ======
 ---
-* 2024.11-Present: CTO
-  * 南京云之秘境科技有限公司
+* 2024.11-Present: 南京云之秘境科技有限公司
+  * CTO
 
-* 2024.09-Present: Digital Rights Protection Intern
-  * ESG Coordination Office, Tencent
+* 2024.09-Present: Tencent
+  * Digital Rights Protection Intern, ESG Coordination Office
   * Duties includes:
       * Exploring AI governance, cybersecurity and privacy protection.
       * Developing AI-driven efficiency tools.
 
-* 2024.11-Present: Permanent Representatives
-  * Student Congress, NJUST
+* 2024.11-Present: Student Congress, NJUST
+  * Permanent Representatives
   * Duties includes: Attend student congress to formulate, monitor and vote on policies.
 
-* 2021.09-Present: Secretary of the Reunion Branch
-  * Class of 2021 in Cyberspace Security, NJUST
+* 2021.09-Present: Class of 2021 in Cyberspace Security, NJUST
+  * Secretary of the Reunion Branch
   * Duties includes: Managing classes and organising activities.
 
-* 2024.01-2024.02: Equipment Maintenance Support Intern
-  * Cloud Network Maintenance Center, China Telecom Co., Ltd.
+* 2024.01-2024.02: China Telecom Co., Ltd.
+  * Equipment Maintenance Support Intern, Cloud Network Maintenance Center
 
-* 2023.07-2023.08: Data Forensic Analysis Intern
-  * Judicial Appraisal Institute, CINGHOO Technology Co., Ltd.
+* 2023.07-2023.08: CINGHOO Technology Co., Ltd.
+  * Data Forensic Analysis Intern, Judicial Appraisal Institute
 
-* 2022.07-2022.08: Security Service Intern
-  * Xuanjia Laboratory, MoreSec Technology Co., Ltd.
+* 2022.07-2022.08: MoreSec Technology Co., Ltd.
+  * Security Service Intern, Xuanjia Laboratory
 
 Publications
 ======
