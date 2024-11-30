@@ -30,31 +30,19 @@ Work Experiences
 ======
 ---
 * 2024.11-Current: 南京云之秘境科技有限公司
-  * Co-founder
+  * Position: Co-founder
   * Duties includes: In the exploratory phase of the startup journey...
-
 * 2024.09-Current: Tencent
-  * Digital Rights Protection Intern, ESG Coordination Office
+  * Position: Digital Rights Protection Intern, ESG Coordination Office
   * Duties includes:
       * Exploring AI governance, cybersecurity and privacy protection.
       * Developing AI-driven efficiency tools.
-
-* 2024.05-Current: Student Congress, NJUST
-  * Permanent Representatives
-  * Duties includes: Attend student congress to formulate, monitor and vote on policies.
-
 * 2024.01-2024.02: China Telecom Co., Ltd.
-  * Equipment Maintenance Support Intern, Cloud Network Maintenance Center
-
+  * Position: Equipment Maintenance Support Intern, Cloud Network Maintenance Center
 * 2023.07-2023.08: CINGHOO Technology Co., Ltd.
-  * Data Forensic Analysis Intern, Judicial Appraisal Institute
-
+  * Position: Data Forensic Analysis Intern, Judicial Appraisal Institute
 * 2022.07-2022.08: MoreSec Technology Co., Ltd.
-  * Security Service Intern, Xuanjia Laboratory
-
-* 2021.09-Current: Class of 2021 in Cyberspace Security, NJUST
-  * Secretary of the Reunion Branch
-  * Duties includes: Managing classes and organising activities.
+  * Position: Security Service Intern, Xuanjia Laboratory
 
 Publications
 ======
@@ -89,6 +77,27 @@ Awards
 * Certifications
   * Advanced Certified Data Analyst, China Financial Analysis Institute, 2024.02
   * Junior Industrial Internet platform development engineer, Talent Exchange Centre of MIIT, 2023.06
-  * Student Member, Chinese Society of Preferential Methods, Integration Methods and Economic Mathematics, 2023.04
   * VRC Spin Up Head Referee Certification, REC Foundation, 2023.04
   * Judge Certification, REC Foundation, 2023.04
+
+Student Activities
+======
+---
+* 2024.05-Current: Student Congress, NJUST
+  * Position: Permanent Representatives
+  * Duties includes: Attend student congress to formulate, monitor and vote on policies.
+* 2023.07-2023.08: Summer Social Practice Activities (Recommended Provincial Core Project)
+  * Position: Project leader
+  * Topic: From Beautiful Island to Beautiful Economy
+  * Led the team on a field trip to the fishing villages around Zhoushan.
+* 2022.07-2022.08: Summer Social Practice Activities (Recommended Core Project at University Level)
+  * Position: Project leader
+  * Topic: From Beautiful Island to Beautiful Economy
+  * Lead the team on a field trip to the historical sites around the South Lake in Jiaxing.
+* 2021.09-Current: Basketball Team of the School of Cyberspace Security, NJUST
+  * Position: Team Member
+* 2021.09-Current: Badminton Team of the School of Cyberspace Security, NJUST
+  * Position: Team Member
+* 2021.09-Current: Class of 2021 in Cyberspace Security, NJUST
+  * Position: Secretary of the Reunion Branch
+  * Duties includes: Managing classes and organising activities.
