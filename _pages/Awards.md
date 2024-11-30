@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Awards"
+permalink: /awards/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,56 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Competitions (National Levels)
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* First Prize, National College Student Data Analysis Competition, 2023.12
+* Third Prize, National Cryptography Technology Competition, 2023.11
+* Third Prize, “TIPDM CUP” Data Mining Challenge, 2023.06
 
-Work experience
+School Honours
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* First Prize, Outstanding Student Scholarship, NJUST, 2024.09 & 2024.03 (Top 4%)
+* Success Scholarship, NJUST, 2024.09
+* Outstanding Class Cadre, NJUST, 2024.09
+* Outstanding Reunion Branch Officer, 2024.04
+* Beyond Scholarship, NJUST, 2024.03
+* Merit Student, NJUST, 2023.11
+* Third Prize, Outstanding Student Scholarship, NJUST, 2023.09, 2023.03 & 2022.09 (Top 15%)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Certifications
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Advanced Certified Data Analyst, China Financial Analysis Institute, 2024.02
+* Junior Industrial Internet platform development engineer, Talent Exchange Centre of MIIT, 2023.06
+* Student Member, Chinese Society of Preferential Methods, Integration Methods and Economic Mathematics, 2023.04
+* VRC Spin Up Head Referee Certification, REC Foundation, 2023.04
+* Judge Certification, REC Foundation, 2023.04
