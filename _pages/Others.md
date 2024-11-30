@@ -17,7 +17,7 @@ Hobbies
 * I love traveling, and my dream is to fish under the Northern Lights in the Arctic！
 * I like sports, especially basketball and badminton!
 * I like outdoor activities, such as fishing and hiking!
-* I enjoy table games, such as billiards, mahjong, and board games！
+* I enjoy table games, such as billiards, mahjong, chess and go！
 * I enjoy music, especially folk songs, but I'm not good at singing.
 
 Robotics
