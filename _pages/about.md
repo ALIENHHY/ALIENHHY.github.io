@@ -23,18 +23,6 @@ Education
 ======
 B.Eng. in Cyberspace Security, NJUST
 
-Internship
-======
-ESG Coordination Office, Tencent (under the guidance of Elmerpeng, 2024.09 - 2024.12)
-
-  · Exploring AI giverance, cybersecurity and privacy protection.
-
-Cloud Network Maintenance Center, China Telecom (2024.01-2024.02)
-
-Judicial Appraisal Institute, CINGHOO Technology (2023.07-2023.08)
-
-Xuanjia Laboratory, MoreSec Technology (2022.07-2022.08)
-
 Papers
 ======
 ESG Risks and Opportunities in the Development of Artificial Intelligence, Tencent KM, 2024.12 (First Author)
