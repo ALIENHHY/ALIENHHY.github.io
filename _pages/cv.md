@@ -16,6 +16,12 @@ Education
   * GPA: 85.25/100
   * Rank: Top 12%, ranked 1st in junior year
 
+Education
+======
+---
+* AI application: Especially using data-deriven methods to help decition-making.
+* AI security: I'm attempting my graduation project about LLMs security
+
 Work Experiences
 ======
 ---
