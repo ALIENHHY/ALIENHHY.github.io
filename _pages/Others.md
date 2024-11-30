@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Interests
+Hobbies
 ======
 * I like travelling!
 * I like sports, especially basketball and badminton.
