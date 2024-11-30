@@ -31,7 +31,7 @@ Robotics
     * 2014: Jiaxing, Dongguan
     * 2015: Weihai, Melbourne
     * 2016: Louisville, Xi'an
-    * (2017: took my high school entrance exam)
+    * (Took my high school entrance exam in 2017)
     * 2018: Beijing, Hangzhou.
   * The awards I received, including but not limited to:
     * First Prize, RoboCom World Robotics Competition Final, Beijing, China, 2018
