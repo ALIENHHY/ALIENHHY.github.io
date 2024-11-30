@@ -11,7 +11,7 @@ Hello! I am a senior at the School of Cyberspace Security, Nanjing University of
 
 I have co-founded 南京云之秘境科技有限公司, and look forward to bringing some of our interesting ideas to life.
 
-I am waiting for the opportunities of 25 Fall enrolment, including mphil, msc, phd (if possible).
+I am waiting for the opportunities of 25 Fall enrolment, including mphil/MScR/MRes, MSc, PhD (if possible).
 
 Research Interests
 ======
