@@ -7,7 +7,10 @@
 main:
   - title: "Publications"
     url: /publications/
-        
+    
+  - title: "Internships"
+    url: /internships/
+    
   - title: "Blog Posts"
     url: /year-archive/
     
