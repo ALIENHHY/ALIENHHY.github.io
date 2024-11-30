@@ -30,7 +30,7 @@ Work Experiences
 ======
 ---
 * 2024.11-Current: 南京云之秘境科技有限公司
-  * CTO
+  * Co-founder
 
 * 2024.09-Current: Tencent
   * Digital Rights Protection Intern, ESG Coordination Office
