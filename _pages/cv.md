@@ -16,7 +16,7 @@ Education
   * GPA: 85.25/100
   * Rank: Top 12%, ranked 1st in junior year
 
-Education
+Research Interests
 ======
 ---
 * AI application: Especially using data-deriven methods to help decition-making.
@@ -36,13 +36,11 @@ Work Experiences
 
 * 2024.11-Present: Permanent Representatives
   * Student Congress, NJUST
-  * Duties includes:
-      * Attend student congress to formulate, monitor and vote on policies.
+  * Duties includes: Attend student congress to formulate, monitor and vote on policies.
 
 * 2021.09-Present: Secretary of the Reunion Branch
   * Class of 2021 in Cyberspace Security, NJUST
-  * Duties includes:
-      * Managing classes and organising activities.
+  * Duties includes: Managing classes and organising activities.
 
 * 2024.01-2024.02: Equipment Maintenance Support Intern
   * Cloud Network Maintenance Center, China Telecom Co., Ltd.
