@@ -89,7 +89,7 @@ Student Activities
 * 2023.07-2023.08: Summer Social Practice Activity (Provincial Core Project)
   * Position: Project leader
   * Topic: From Beautiful Island to Beautiful Economy
-  * Led a team to research at fishing villages around Zhoushan.
+  * Led a team to research at fishing villages in the Zhoushan Islands.
 * 2022.07-2022.08: Summer Social Practice Activity (Core Project at University Level)
   * Position: Project leader
   * Topic: From Beautiful Island to Beautiful Economy
