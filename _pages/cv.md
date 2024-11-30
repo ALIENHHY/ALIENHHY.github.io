@@ -85,15 +85,15 @@ Student Activities
 ---
 * 2024.05-Current: Student Congress, NJUST
   * Position: Permanent Representatives
-  * Duties includes: Attend student congress to formulate, monitor and vote on policies.
-* 2023.07-2023.08: Summer Social Practice Activities (Recommended Provincial Core Project)
+  * Duties includes: Attend student congress to formulate, monitor and vote.
+* 2023.07-2023.08: Summer Social Practice Activity (Provincial Core Project)
   * Position: Project leader
   * Topic: From Beautiful Island to Beautiful Economy
-  * Led the team on a field trip to the fishing villages around Zhoushan.
-* 2022.07-2022.08: Summer Social Practice Activities (Recommended Core Project at University Level)
+  * Led a team to research at fishing villages around Zhoushan.
+* 2022.07-2022.08: Summer Social Practice Activity (Core Project at University Level)
   * Position: Project leader
   * Topic: From Beautiful Island to Beautiful Economy
-  * Lead the team on a field trip to the historical sites around the South Lake in Jiaxing.
+  * Lead a team to research at historical sites around the South Lake in Jiaxing.
 * 2021.09-Current: Basketball Team of the School of Cyberspace Security, NJUST
   * Position: Team Member
 * 2021.09-Current: Badminton Team of the School of Cyberspace Security, NJUST
