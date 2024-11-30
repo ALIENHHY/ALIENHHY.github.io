@@ -41,4 +41,4 @@ Work Experiences
   * Judicial Appraisal Institute, CINGHOO Technology Co., Ltd.
 
 * 2022.07-2022.08: Security Service Intern
-  * Xuanjia Laboratory, Hangzhou MoreSec Technology Co., Ltd.
+  * Xuanjia Laboratory, MoreSec Technology Co., Ltd.
