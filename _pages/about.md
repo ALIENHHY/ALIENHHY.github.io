@@ -21,4 +21,4 @@ AI security: I'm attempting my graduation project about LLMs security under the 
 
 Education
 ======
-B.Eng. in Cyberspace Security, NJUST
+B.Eng. in Cyberspace Security, NJUST, 2021-2025
