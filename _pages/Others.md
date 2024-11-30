@@ -27,4 +27,4 @@ Robotics
   * Champion, National VEX Robotics Engineering Challenge, Weihai, China, 2015
   * First Prize, National VEX Robotics Engineering Challenge, Weihai, China, 2015
 
-# ![Asia-Pacific Robotics Championship](/images/asia championship.png)
+[//]: # (![Asia-Pacific Robotics Championship](/images/asia championship.png))
