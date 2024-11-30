@@ -11,6 +11,7 @@ redirect_from:
 
 Tencent (2024.09-Present)
 ======
+---
 Department: ESG Coordination Office (under the guidance of Elmerpeng)
 
 * Exploring the fields of AI governance, cybersecurity and privacy protection:
@@ -26,12 +27,15 @@ Department: ESG Coordination Office (under the guidance of Elmerpeng)
 
 China Telecom Co., Ltd. (2024.01-2024.02)
 ======
+---
 Department: Cloud Network Maintenance Center
 
 CINGHOO Technology Co., Ltd. (2023.07-2023.08)
 ======
+---
 Department: Judicial Appraisal Institute
 
 MoreSec Technology Co., Ltd. (2022.07-2022.08)
 ======
+---
 Department: Xuanjia Laboratory
