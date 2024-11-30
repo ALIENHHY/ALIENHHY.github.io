@@ -23,7 +23,7 @@ Hobbies
 Robotics
 ======
 ---
-* I participated in 8 seasons of the VEX-EDR robotics competition from elementary to high school, , and the awards I received include:
+* I participated in 8 seasons of the VEX-EDR robotics competition from elementary to high school, and the awards I received include:
   * First Prize, RoboCom World Robotics Competition Final, Beijing, China, 2018
   * Second Runner-up, RoboCom World Robotics Competition Final, Beijing, China, 2018
   * Runner-up, National VEX Robotics Engineering Challenge, Xian, China, 2016
