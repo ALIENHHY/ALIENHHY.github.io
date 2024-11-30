@@ -11,7 +11,7 @@ redirect_from:
 
 I have experienced four different companies and positions during my spare time, exploring my career path...
 
-Tencent (2024.09-Present)
+Tencent (2024.09-Current)
 ======
 ---
 * Department: ESG Coordination Office (under the guidance of Elmerpeng)
