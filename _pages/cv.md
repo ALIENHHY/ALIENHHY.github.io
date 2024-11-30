@@ -27,10 +27,10 @@ Research Interests
 Work Experiences
 ======
 ---
-* 2024.11-Present: 南京云之秘境科技有限公司
+* 2024.11-Current: 南京云之秘境科技有限公司
   * CTO
 
-* 2024.09-Present: Tencent
+* 2024.09-Current: Tencent
   * Digital Rights Protection Intern, ESG Coordination Office
   * Duties includes:
       * Exploring AI governance, cybersecurity and privacy protection.
