@@ -11,7 +11,7 @@ redirect_from:
 
 Conference Papers
 ======
-Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization, CyberSciTech 2024, 2024.09 (Accepted, Co-first Author)
+* Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization, CyberSciTech 2024, 2024.09 (Accepted, Co-first Author)
 
 Journal Articles
 ======
