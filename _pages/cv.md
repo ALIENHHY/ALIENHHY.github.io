@@ -22,9 +22,9 @@ Research Interests
 ======
 ---
 * AI application: Especially using data-deriven methods to help decition-making.
-* AI security: I'm attempting my graduation project about LLMs security
+* Trustworthy AI: I'm attempting my graduation project about LLMs' security
 
-In addition, I have worked on projects related to machine learning, LLMs, federated learning, cryptography, IoT security, computer vision, and embedded systems, and I have a strong interest in these fields.
+In addition, I have worked on projects related to machine learning, federated learning, cryptography, IoT security, computer vision, and embedded systems, and I have a strong interest in these fields.
 
 Work Experiences
 ======
