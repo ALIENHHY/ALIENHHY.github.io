@@ -25,21 +25,21 @@ Robotics
 ---
 * I participated in 8 seasons of the VEX-EDR robotics competition from elementary to high school.
   * The cities I've visited for competitions:
-    * 2011: Ningbo
-    * 2012: Mianyang, Suzhou
-    * 2013: Shenzhen, Suzhou
-    * 2014: Jiaxing, Dongguan
-    * 2015: Weihai, Melbourne
-    * 2016: Louisville, Xi'an
+    * [2011] Ningbo
+    * [2012] Mianyang, Suzhou
+    * [2013] Shenzhen, Suzhou
+    * [2014] Jiaxing, Dongguan
+    * [2015] Weihai, Melbourne
+    * [2016] Louisville, Xi'an
     * (Took my high school entrance exam in 2017)
-    * 2018: Beijing, Hangzhou.
+    * [2018] Beijing, Hangzhou.
   * The awards I received, including but not limited to:
-    * First Prize, RoboCom World Robotics Competition Final, Beijing, China, 2018
-    * Second Runner-up, RoboCom World Robotics Competition Final, Beijing, China, 2018
-    * Runner-up, National VEX Robotics Engineering Challenge, Xian, China, 2016
-    * Glod Award, VEX World Championship, Louisville, USA, 2016
-    * Glod Award, Asia-Pacific Robotics Championship, Melbourne, Australia, 2015
-    * Champion, National VEX Robotics Engineering Challenge, Weihai, China, 2015
-    * First Prize, National VEX Robotics Engineering Challenge, Weihai, China, 2015
+    * [2018] First Prize, RoboCom World Robotics Competition Final, Beijing, China
+    * [2018] Second Runner-up, RoboCom World Robotics Competition Final, Beijing, China
+    * [2016] Runner-up, National VEX Robotics Engineering Challenge, Xian, China
+    * [2016] Glod Award, VEX World Championship, Louisville, USA
+    * [2015] Glod Award, Asia-Pacific Robotics Championship, Melbourne, Australia
+    * [2015] Champion, National VEX Robotics Engineering Challenge, Weihai, China
+    * [2015] First Prize, National VEX Robotics Engineering Challenge, Weihai, China
 
 [//]: # (![Asia-Pacific Robotics Championship](/images/asia championship.png))
