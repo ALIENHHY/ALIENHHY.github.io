@@ -39,6 +39,5 @@ Certifications
 ---
 * [2024.02] Advanced Certified Data Analyst, China Financial Analysis Institute
 * [2023.06] Junior Industrial Internet platform development engineer, Talent Exchange Centre of MIIT
-* [2023.04] Student Member, Chinese Society of Preferential Methods, Integration Methods and Economic Mathematics
 * [2023.04] VRC Spin Up Head Referee Certification, REC Foundation
 * [2023.04] Judge Certification, REC Foundation
