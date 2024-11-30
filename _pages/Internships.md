@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+I have gained internship experience in four different companies and positions during my spare time, exploring my career path...
 
 Tencent (2024.09-Present)
 ======
