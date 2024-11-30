@@ -25,7 +25,7 @@ B.Eng. in Cyberspace Security, NJUST
 
 Internship
 ======
-ESG Coordination Office, Tencent (Under the guidance of Elmerpeng, 2024.09 - 2024.12)
+ESG Coordination Office, Tencent (under the guidance of Elmerpeng, 2024.09 - 2024.12)
 
   · Exploring AI giverance, cybersecurity and privacy protection.
 
