@@ -11,6 +11,7 @@ redirect_from:
 
 Hobbies
 ======
+---
 * I like travelling!
 * I like sports, especially basketball and badminton!
 * I like outdoor activities like fishing and hiking!
@@ -18,6 +19,7 @@ Hobbies
 
 Robotics
 ======
+---
 * I played about 8 seasons of VEX-EDR Robotics from elementary to high school, competition awards include:
   * First Prize, RoboCom World Robotics Competition Final, Beijing, China, 2018
   * Second Runner-up, RoboCom World Robotics Competition Final, Beijing, China, 2018
