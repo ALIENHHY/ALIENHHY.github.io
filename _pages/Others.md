@@ -26,4 +26,5 @@ Robotics
   * Glod Award, Asia-Pacific Robotics Championship, Melbourne, Australia, 2015
   * Champion, National VEX Robotics Engineering Challenge, Weihai, China, 2015
   * First Prize, National VEX Robotics Engineering Challenge, Weihai, China, 2015
+
 ![Editing a markdown file for a talk](/images/asia championship.png)
