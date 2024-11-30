@@ -23,13 +23,16 @@ Hobbies
 Robotics
 ======
 ---
-* I participated in 8 seasons of the VEX-EDR robotics competition from elementary to high school, and the awards I received include:
-  * First Prize, RoboCom World Robotics Competition Final, Beijing, China, 2018
-  * Second Runner-up, RoboCom World Robotics Competition Final, Beijing, China, 2018
-  * Runner-up, National VEX Robotics Engineering Challenge, Xian, China, 2016
-  * Glod Award, VEX World Championship, Louisville, USA, 2016
-  * Glod Award, Asia-Pacific Robotics Championship, Melbourne, Australia, 2015
-  * Champion, National VEX Robotics Engineering Challenge, Weihai, China, 2015
-  * First Prize, National VEX Robotics Engineering Challenge, Weihai, China, 2015
+* I participated in 8 seasons of the VEX-EDR robotics competition from elementary to high school.
+  * The cities I've visited for competitions, Sort by time:
+    * Ningbo, Mianyang, Suzhou, Shenzhen, Jiaxing, Dongguan, Weihai, Melbourne, Louisville, Xi'an, Beijing, and Hangzhou.
+  * The awards I received include:
+    * First Prize, RoboCom World Robotics Competition Final, Beijing, China, 2018
+    * Second Runner-up, RoboCom World Robotics Competition Final, Beijing, China, 2018
+    * Runner-up, National VEX Robotics Engineering Challenge, Xian, China, 2016
+    * Glod Award, VEX World Championship, Louisville, USA, 2016
+    * Glod Award, Asia-Pacific Robotics Championship, Melbourne, Australia, 2015
+    * Champion, National VEX Robotics Engineering Challenge, Weihai, China, 2015
+    * First Prize, National VEX Robotics Engineering Challenge, Weihai, China, 2015
 
 [//]: # (![Asia-Pacific Robotics Championship](/images/asia championship.png))
