@@ -27,6 +27,10 @@ Education
 ---
 * B.Eng. in Cyberspace Security, NJUST, 2021-2025
 
+News
+======
+[2024.09] I started my internship at Tencent!
+
 ---
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6wfR7GC9nCyJQPKiqnKV-XvXiwNpKSA2Zv_onF9ga-g&cl=ffffff&w=a"></script>
