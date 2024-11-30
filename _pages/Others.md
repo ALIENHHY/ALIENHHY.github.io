@@ -26,7 +26,7 @@ Robotics
 * I participated in 8 seasons of the VEX-EDR robotics competition from elementary to high school.
   * The cities I've visited for competitions, Sort by time:
     * Ningbo, Mianyang, Suzhou, Shenzhen, Jiaxing, Dongguan, Weihai, Melbourne, Louisville, Xi'an, Beijing, and Hangzhou.
-  * The awards I received include:
+  * The awards I received, including but not limited to:
     * First Prize, RoboCom World Robotics Competition Final, Beijing, China, 2018
     * Second Runner-up, RoboCom World Robotics Competition Final, Beijing, China, 2018
     * Runner-up, National VEX Robotics Engineering Challenge, Xian, China, 2016
