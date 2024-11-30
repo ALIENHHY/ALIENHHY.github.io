@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+I believe that work-life balance is very important.
 
 Hobbies
 ======
