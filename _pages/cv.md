@@ -68,7 +68,7 @@ Awards
   * [2024.09] First Prize, Outstanding Student Scholarship, NJUST (Top 4%)
   * [2024.09] Success Scholarship, NJUST
   * [2024.09] Outstanding Class Cadre, NJUST (2/70)
-  * [2024.04] Outstanding Reunion Branch Officer (2/70)
+  * [2024.04] Outstanding Reunion Branch Officer (1/70)
   * [2024.03] First Prize, Outstanding Student Scholarship, NJUST (Top 4%)
   * [2024.03] Beyond Scholarship, NJUST
   * [2023.11] Merit Student, NJUST (6/70)
