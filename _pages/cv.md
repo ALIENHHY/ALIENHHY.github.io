@@ -47,14 +47,15 @@ Work Experiences
 Publications
 ======
 ---
+\*: These authors contributed equally to this work.
 * Papers
-  * [2024.12] ESG Risks and Opportunities in the Development of Artificial Intelligence, Tencent Knowledge Management (First Author)
-  * [2024.11] Observations on the Global Governance Landscape of Artificial Intelligence Governance, Tencent Knowledge Management (First Author)
-  * [2024.09] Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization, CyberSciTech 2024 (Accepted, Co-first Author)
+  * [1] **Haoyang Hu** and Zhen Peng. *"ESG Risks and Opportunities in the Development of Artificial Intelligence."* in Tencent Knowledge Management, Dec. 2024.
+  * [2] **Haoyang Hu** and Zhen Peng. *"Observations on the Global Governance Landscape of Artificial Intelligence Governance."* in Tencent Knowledge Management, Nov. 2024.
+  * [3] Yican Geng\*, **Haoyang Hu\***, Zhaoxuan Ge and Zhichao Lian. "Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization." 2024 IEEE Cyber Science and Technology Congress (CyberSciTech), 2024. DOI: 10.1109/CyberSciTech64112.2024.00021.
 * Patents
-  * [Invention Patent] A News Recommendation System Based on Federated Learning and SM Algorithm, CN118094008A (Under Review, Second Student Author)
-  * [Invention Patent] A Guide Cane and its Control Method, CN111110531A (Granted, First Author)
-  * [Utility Model Patent] A Guide Cane, CN212235240U (Granted, First Author)
+  * [1] Chanying Huang, Changji Yao, **Haoyang Hu**, Kedong Yan. *"A News Recommendation System Based on Federated Learning and SM Algorithm."* CN118094008A (Under Review)
+  * [2] **Haoyang Hu**. *"A Guide Cane and its Control Method."* CN111110531A (Granted)
+  * [3] **Haoyang Hu**. *"A Guide Cane."* CN212235240U (Granted)
 
 Awards
 ======
