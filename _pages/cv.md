@@ -37,7 +37,7 @@ Work Experiences
   * Duties includes:
       * Exploring AI governance, cybersecurity and privacy protection.
       * Developing AI-driven efficiency tools.
-* [2024.01-2024.02] China Telecom Co., Ltd.
+* [2024.01-2024.02] China Telecom
   * Position: Equipment Maintenance Support Intern, Cloud Network Maintenance Center
 * [2023.07-2023.08] CINGHOO Technology Co., Ltd.
   * Position: Data Forensic Analysis Intern, Judicial Appraisal Institute
