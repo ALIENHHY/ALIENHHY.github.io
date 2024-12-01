@@ -24,13 +24,15 @@ School Honours
 ---
 * [2024.09] First Prize, Outstanding Student Scholarship, NJUST (Top 4%)
 * [2024.09] Success Scholarship, NJUST
-* [2024.09] Outstanding Class Cadre, NJUST
-* [2024.04] Outstanding Reunion Branch Officer
+* [2024.09] Outstanding Class Cadre, NJUST (2/70)
+* [2024.04] Outstanding Reunion Branch Officer (1/70)
 * [2024.03] First Prize, Outstanding Student Scholarship, NJUST (Top 4%)
 * [2024.03] Beyond Scholarship, NJUST
-* [2023.11] Merit Student, NJUST
+* [2023.11] Merit Student, NJUST (6/70)
 * [2023.09] Third Prize, Outstanding Student Scholarship, NJUST (Top 15%)
 * [2023.03] Third Prize, Outstanding Student Scholarship, NJUST (Top 15%)
+* [2022.11] Sports activists, NJUST (1/70)
+* [2022.11] Runner-up, Badminton Team Championships 2022, NJUST
 * [2022.09] Third Prize, Outstanding Student Scholarship, NJUST (Top 15%)
 
 
