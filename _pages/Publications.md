@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-My publications are steadily increasing...
+\*: These authors contributed equally to this work.
 
 Conference Papers
 ======
 ---
-* Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization, CyberSciTech 2024, 2024.09 (Accepted, Co-first Author)
+* [1] Yican Geng\*, **Haoyang Hu\***, Zhaoxuan Ge and Zhichao Lian. *"Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization."* 2024 IEEE Cyber Science and Technology Congress (CyberSciTech), 2024. DOI: 10.1109/CyberSciTech64112.2024.00021.
 
 Journal Articles
 ======
@@ -23,12 +23,12 @@ Journal Articles
 Patents
 ======
 ---
-* A News Recommendation System Based on Federated Learning and SM Algorithm, CN118094008A, Invention Patent (Under Review, Second Student Author)
-* A Guide Cane and its Control Method, CN111110531A, Invention Patent (Granted, First Author)
-* A Guide Cane, CN212235240U, Utility Model Patent (Granted, First Author)
+* [1] Chanying Huang, Changji Yao, **Haoyang Hu**, Kedong Yan. *"A News Recommendation System Based on Federated Learning and SM Algorithm."* CN118094008A (Under Review)
+* [2] **Haoyang Hu**. *"A Guide Cane and its Control Method."* CN111110531A (Granted)
+* [3] **Haoyang Hu**. *"A Guide Cane."* CN212235240U (Granted)
 
 Other Publications
 ======
 ---
-* ESG Risks and Opportunities in the Development of Artificial Intelligence, Tencent Knowledge Management, 2024.12 (First Author)
-* Observations on the Global Governance Landscape of Artificial Intelligence Governance, Tencent Knowledge Management, 2024.11 (First Author)
+* [1] **Haoyang Hu** and Zhen Peng. *"ESG Risks and Opportunities in the Development of Artificial Intelligence."* Tencent Knowledge Management, Dec. 2024.
+* [2] **Haoyang Hu** and Zhen Peng. *"Observations on the Global Governance Landscape of Artificial Intelligence Governance."* Tencent Knowledge Management, Nov. 2024.
