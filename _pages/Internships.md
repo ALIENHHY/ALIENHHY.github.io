@@ -24,7 +24,7 @@ I have experienced four different companies and positions during my spare time, 
   * CV Model Development: Deployed an image recognition model for the "鹅民环保行动派" mini program using ResNet and OCR. Which has been successfully launched and actively used by over 3,000 employees.
 
 
-[2024.01-2024.02] China Telecom Co., Ltd.
+[2024.01-2024.02] China Telecom
 ======
 ---
 * **Department: Cloud Network Maintenance Center**
