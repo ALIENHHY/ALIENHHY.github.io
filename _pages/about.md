@@ -14,8 +14,6 @@ I have co-founded 南京云之秘境科技有限公司, and look forward to brin
 
 I am waiting for opportunities at 2025 Fall, including MPhil/MRes, MSc, PhD (if possible).
 
-Email: hhynb@njust.edu.cn
-
 Research Interests
 ======
 ---
