@@ -14,6 +14,8 @@ I have co-founded 南京云之秘境科技有限公司, and look forward to brin
 
 I am waiting for opportunities at 2025 Fall, including MPhil/MRes, MSc, PhD (if possible).
 
+Email: hhynb@njust.edu.cn
+
 Research Interests
 ======
 ---
@@ -30,7 +32,10 @@ Education
 News
 ======
 ---
+* [2024.11] I presented our work at the CyberSciTech 2024 conference！
 * [2024.09] I started my internship at Tencent!
+* [2024.09] Our work has been accepted by the CyberSciTech 2024 conference!
+* [2024.07] My work has been granted as invention patent！
 
 ---
 
