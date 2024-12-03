@@ -22,7 +22,7 @@ Current Research Interests
   * I'm attempting my graduation project about LLMs' security.
   * I'm exploring AI governance and privacy protection at Tencent.
 
-In addition, as an undergraduate student, I am still in the process of exploring and shaping my research interests. I have worked on projects related to **machine learning**, **data mining**, **federated learning**, **computer vision**, **cryptography** and **IoT security**, I find these areas deeply fascinating too.
+In addition, as an undergraduate student, I am still in the process of exploring and shaping my research interests. I have worked on projects related to **machine learning**, **computer vision**, **data mining**, **federated learning**, **cryptography** and **IoT security**, I found these areas deeply fascinating too.
 
 Education
 ======
