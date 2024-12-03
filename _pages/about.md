@@ -14,13 +14,15 @@ I have co-founded 南京云之秘境科技有限公司, and look forward to brin
 
 I am waiting for opportunities at 2025 Fall, including MPhil/MRes, MSc, PhD (if possible).
 
-Research Interests
+Current Research Interests
 ======
 ---
 * AI application: Especially using data-deriven methods to aid decition-making.
-* Trustworthy AI: I'm attempting my graduation project about LLMs' security.
+* Trustworthy AI:
+  * I'm attempting my graduation project about LLMs' security.
+  * I'm exploring AI governance and privacy protection at Tencent.
 
-In addition, I have worked on projects related to machine learning, federated learning, computer vision, cryptography, IoT security, and embedded systems, and I have interest in these fields.
+In addition, I am still in the process of exploring and shaping my research interests. I have worked on projects related to **machine learning**, **data mining**, **federated learning**, **computer vision**, **cryptography** and **IoT security**, I find these areas deeply fascinating too.
 
 Education
 ======
