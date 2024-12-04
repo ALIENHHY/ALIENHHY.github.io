@@ -47,7 +47,7 @@ Work Experiences
 Publications
 ======
 ---
-\*: These authors contributed equally to this work.
+\* : These authors contributed equally to this work.
 * Papers
   * [1] **Haoyang Hu** and Zhen Peng. *"ESG Risks and Opportunities in the Development of Artificial Intelligence."* Tencent Knowledge Management, Dec. 2024.
   * [2] **Haoyang Hu** and Zhen Peng. *"Observations on the Global Governance Landscape of Artificial Intelligence Governance."* Tencent Knowledge Management, Nov. 2024.
