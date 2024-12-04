@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-\*: These authors contributed equally to this work.
+\* : These authors contributed equally to this work.
 
 Conference Papers
 ======
