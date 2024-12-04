@@ -15,7 +15,7 @@ Hobbies
 ======
 ---
 * I love traveling, and my dream is to fish under the Northern Lights in the Arctic！
-* I like sports, especially basketball and badminton!
+* I love basketball and badminton, and I'm a menber of our college team!
 * I like outdoor activities, such as fishing and hiking!
 * I enjoy table games, such as billiards, mahjong, chess and go！
 * I enjoy music, especially folk songs, but I'm not good at singing.
