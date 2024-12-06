@@ -29,7 +29,7 @@ As an undergraduate student, I am still exploring and shaping my research intere
 Work Experiences
 ======
 ---
-* [2024.11-Current] 南京云之秘境科技有限公司
+* [2024.11-Current] Nanjing Nebulorix Co., Ltd.
   * Position: Co-founder
   * Duties includes: In the exploratory phase of the startup journey...
 * [2024.09-Current] Tencent
@@ -48,23 +48,24 @@ Publications
 ======
 ---
 \* : These authors contributed equally to this work.
-* Papers
-  * [1] **Haoyang Hu** and Zhen Peng. *"ESG Risks and Opportunities in the Development of Artificial Intelligence."* Tencent Knowledge Management, Dec. 2024.
-  * [2] **Haoyang Hu** and Zhen Peng. *"Observations on the Global Governance Landscape of Artificial Intelligence Governance."* Tencent Knowledge Management, Nov. 2024. (Awarded as **'KM Good Article'**)
-  * [3] Yican Geng\*, **Haoyang Hu\***, Zhaoxuan Ge and Zhichao Lian. *"Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization."* 2024 IEEE Cyber Science and Technology Congress (CyberSciTech), 2024. DOI: 10.1109/CyberSciTech64112.2024.00021.
-* Patents
+* **Conference Papers**
+  * [1] Yican Geng\*, **Haoyang Hu\***, Zhaoxuan Ge and Zhichao Lian. *"Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization."* 2024 IEEE Cyber Science and Technology Congress (CyberSciTech), 2024. DOI: 10.1109/CyberSciTech64112.2024.00021.
+* **Patents**
   * [1] Chanying Huang, Changji Yao, **Haoyang Hu**, Kedong Yan. *"A News Recommendation System Based on Federated Learning and SM Algorithm."* CN118094008A (Under Review)
   * [2] **Haoyang Hu**. *"A Guide Cane and its Control Method."* CN111110531A (Granted)
   * [3] **Haoyang Hu**. *"A Guide Cane."* CN212235240U (Granted)
+* **Other Articles**
+  * [1] **Haoyang Hu** and Zhen Peng. *"ESG Risks and Opportunities in the Development of Artificial Intelligence."* Tencent Knowledge Management, Dec. 2024.
+  * [2] **Haoyang Hu** and Zhen Peng. *"Observations on the Global Governance Landscape of Artificial Intelligence Governance."* Tencent Knowledge Management, Nov. 2024. (Awarded as **'KM Good Article'**)
 
 Awards
 ======
 ---
-* Competitions (National Levels)
+* **Competitions (National Levels)**
   * [2023.12] First Prize, National College Student Data Analysis Competition
   * [2023.11] Third Prize, National Cryptography Technology Competition
   * [2023.06] Third Prize, “TIPDM CUP” Data Mining Challenge
-* School Honours
+* **School Honours**
   * [2024.09] First Prize, Outstanding Student Scholarship, NJUST (Top 4%)
   * [2024.09] Success Scholarship, NJUST
   * [2024.09] Outstanding Class Cadre, NJUST (2/70)
@@ -77,7 +78,7 @@ Awards
   * [2022.11] Sports activists, NJUST (1/70)
   * [2022.11] Runner-up, Badminton Team Championships 2022, NJUST
   * [2022.09] Third Prize, Outstanding Student Scholarship, NJUST (Top 15%)
-* Certifications
+* **Certifications**
   * [2024.02] Advanced Certified Data Analyst, China Financial Analysis Institute
   * [2023.06] Junior Industrial Internet platform development engineer, Talent Exchange Centre of MIIT
   * [2023.04] VRC Spin Up Head Referee Certification, REC Foundation
