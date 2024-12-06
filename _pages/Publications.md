@@ -27,7 +27,7 @@ Patents
 * [2] **Haoyang Hu**. *"A Guide Cane and its Control Method."* CN111110531A (Granted)
 * [3] **Haoyang Hu**. *"A Guide Cane."* CN212235240U (Granted)
 
-Other Publications
+Other Articles
 ======
 ---
 * [1] **Haoyang Hu** and Zhen Peng. *"ESG Risks and Opportunities in the Development of Artificial Intelligence."* Tencent Knowledge Management, Dec. 2024.
