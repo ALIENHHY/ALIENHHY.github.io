@@ -17,8 +17,8 @@ I am waiting for opportunities at 2025 Fall, including MPhil/MRes, MSc, PhD (if 
 Current Research Interests
 ======
 ---
-* AI application: Especially using data-deriven methods to aid decition-making.
-* Trustworthy AI:
+* **AI for Security**: Especially using data-deriven methods to aid decition-making.
+* **Trustworthy AI**:
   * I'm attempting my graduation project about LLMs' security.
   * I'm exploring AI governance and privacy protection at Tencent.
 
