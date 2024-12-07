@@ -97,7 +97,7 @@ Student Activities
 * [2022.07-2022.08] Summer Social Practice Activity (Core Project at University Level)
   * Position: Team leader
   * Topic: Reflecting on the Founding of the Party and Inheriting the Spirit of the Red Boat
-  * Lead a team to research at historical sites around the South Lake in Jiaxing.
+  * Led a team to research at historical sites around the South Lake in Jiaxing.
 * [2021.09-Current] Basketball Team of the School of Cyberspace Security, NJUST
   * Position: Team Member
 * [2021.09-Current] Badminton Team of the School of Cyberspace Security, NJUST
