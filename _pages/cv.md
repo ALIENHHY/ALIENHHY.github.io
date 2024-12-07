@@ -21,8 +21,8 @@ Education
 Research Interests
 ======
 ---
-* AI application: Especially using data-deriven methods to help decition-making.
-* Trustworthy AI: I'm attempting my graduation project about LLMs' security
+* **AI application:** Especially using data-deriven methods to help decition-making.
+* **Trustworthy AI:** I'm attempting my graduation project about LLMs' security
 
 As an undergraduate student, I am still exploring and shaping my research interests. I have worked on projects related to **machine learning**, **computer vision**, **data mining**, **federated learning**, **cryptography** and **IoT security**, I found these areas deeply fascinating too.
 
