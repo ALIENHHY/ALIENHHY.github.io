@@ -91,11 +91,11 @@ Student Activities
   * Position: Permanent Representatives
   * Duties includes: Attend student congress to formulate, monitor and vote.
 * [2023.07-2023.08] Summer Social Practice Activity (Provincial Core Project)
-  * Position: Project leader
+  * Position: Team leader
   * Topic: From Beautiful Island to Beautiful Economy
   * Led a team to research at fishing villages in the Zhoushan Islands.
 * [2022.07-2022.08] Summer Social Practice Activity (Core Project at University Level)
-  * Position: Project leader
+  * Position: Team leader
   * Topic: Reflecting on the Founding of the Party and Inheriting the Spirit of the Red Boat
   * Lead a team to research at historical sites around the South Lake in Jiaxing.
 * [2021.09-Current] Basketball Team of the School of Cyberspace Security, NJUST
