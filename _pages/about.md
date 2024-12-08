@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ---
-Welcome to my personal website! I am a senior at the School of Cyberspace Security, Nanjing University of Science and Technology (NJUST). My major is Cyberspace Security. I am fortunate to be supervised by Prof. [Zhichao Lian](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=6CZPjzcQhmzsS-IjPww!Hw==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=). I am currently interning at Tencent!
+Welcome to my personal website! I am a senior at the School of Cyberspace Security, Nanjing University of Science and Technology (NJUST). My major is Cyberspace Security. I am fortunate to be supervised by Prof. [Zhichao Lian](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=6CZPjzcQhmzsS-IjPww!Hw==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=)!
 
 I have co-founded *Nanjing Nebulorix Co., Ltd.*, and look forward to bringing some of our interesting ideas to life!
 
@@ -30,7 +30,7 @@ Education
 News
 ======
 ---
-* [2024.12] I have completed my internship at Tencen, thanks to everyone!
+* [2024.12] I have completed my internship at Tencent, thanks to everyone!
 * [2024.11] I presented our work at the CyberSciTech 2024 conference！
 * [2024.09] I started my internship at Tencent!
 * [2024.09] Our work has been accepted by the CyberSciTech 2024 conference!
