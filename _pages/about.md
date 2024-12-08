@@ -18,9 +18,7 @@ Current Research Interests
 ======
 ---
 * **AI for Security**: Especially using data-deriven methods to aid decition-making.
-* **Trustworthy AI**:
-  * I'm attempting my graduation project about LLMs' security.
-  * I'm exploring AI governance and privacy protection at Tencent.
+* **Trustworthy AI**: I'm attempting my graduation project about LLMs' security.
 
 As an undergraduate student, I am still exploring and shaping my research interests. I have worked on projects related to **machine learning**, **computer vision**, **data mining**, **federated learning**, **cryptography** and **IoT security**, I found these areas deeply fascinating too.
 
@@ -32,6 +30,7 @@ Education
 News
 ======
 ---
+* [2024.12] I have completed my internship at Tencen, thanks to everyone!
 * [2024.11] I presented our work at the CyberSciTech 2024 conference！
 * [2024.09] I started my internship at Tencent!
 * [2024.09] Our work has been accepted by the CyberSciTech 2024 conference!
