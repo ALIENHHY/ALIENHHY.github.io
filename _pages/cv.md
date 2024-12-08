@@ -16,7 +16,7 @@ Education
 ---
 * B.Eng. in Cyberspace Security, NJUST, 2021-2025
   * GPA: 85.25/100
-  * Rank: Top 12%, ranked 1st in junior year
+  * Rank: Top 12%
 
 Research Interests
 ======
