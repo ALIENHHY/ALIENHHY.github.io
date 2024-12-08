@@ -12,7 +12,7 @@ Welcome to my personal website! I am a senior at the School of Cyberspace Securi
 
 I have co-founded *Nanjing Nebulorix Co., Ltd.*, and look forward to bringing some of our interesting ideas to life!
 
-I am waiting for opportunities at 2025 Fall, including MPhil/MRes, MSc, PhD (if possible).
+I am looking for opportunities at 2025 Fall, including MPhil/MRes, MSc, PhD (if possible).
 
 <a href="https://ALIENHHY.github.io/_pages/12.13CV_Haoyang_Hu_NJUST.pdf" target="_blank">[CV-PDF]</a>    <a href="https://ALIENHHY.github.io/_pages/12.13胡皓阳中文简历.pdf" target="_blank">[中文简历]</a>
 
