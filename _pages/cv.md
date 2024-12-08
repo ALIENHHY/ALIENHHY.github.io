@@ -32,7 +32,7 @@ Work Experiences
 * [2024.11-Current] Nanjing Nebulorix Co., Ltd.
   * Position: Co-founder
   * Duties includes: In the exploratory phase of the startup journey...
-* [2024.09-Current] Tencent
+* [2024.09-2024.12] Tencent
   * Position: Digital Rights Protection Intern, ESG Coordination Office
   * Duties includes:
       * Exploring AI governance, cybersecurity and privacy protection.
