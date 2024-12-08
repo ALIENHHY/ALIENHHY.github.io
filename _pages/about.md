@@ -14,6 +14,8 @@ I have co-founded *Nanjing Nebulorix Co., Ltd.*, and look forward to bringing so
 
 I am waiting for opportunities at 2025 Fall, including MPhil/MRes, MSc, PhD (if possible).
 
+<a href="ALIENHHY.github.io/files/2024.12.08-CV_Haoyang_Hu_NJUST.pdf" target="_blank">PDF.</a>
+
 Current Research Interests
 ======
 ---
