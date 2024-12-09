@@ -14,7 +14,7 @@ redirect_from:
 Conference Papers
 ======
 ---
-* [1] Yican Geng\*, **Haoyang Hu\***, Zhaoxuan Ge and Zhichao Lian. *"Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization."* 2024 IEEE Cyber Science and Technology Congress (CyberSciTech), 2024. DOI: 10.1109/CyberSciTech64112.2024.00021. <a href="https://ALIENHHY.github.io/_publications/CyberSciTech2024.pdf" target="_blank">[PDF]</a>
+* [1] Yican Geng\*, **Haoyang Hu\***, Zhaoxuan Ge and Zhichao Lian. *"Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization."* 2024 IEEE Cyber Science and Technology Congress (CyberSciTech), 2024. DOI: 10.1109/CyberSciTech64112.2024.00021. <a href="https://ALIENHHY.github.io/_pages/CyberSciTech2024.pdf" target="_blank">[PDF]</a>
 
 Journal Articles
 ======
