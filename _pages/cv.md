@@ -56,7 +56,7 @@ Publications
   * [3] **Haoyang Hu**. *"A Guide Cane."* CN212235240U, Active. <a href="https://patents.google.com/patent/CN212235240U" target="_blank">[Link]</a>
 * **Other Articles**
   * [1] **Haoyang Hu** and Zhen Peng. *"ESG Risks and Opportunities in the Development of Artificial Intelligence."* Tencent Knowledge Management, Dec. 2024.
-  * [2] **Haoyang Hu** and Zhen Peng. *"Observations on the Global Governance Landscape of Artificial Intelligence Governance."* Tencent Knowledge Management, Nov. 2024. (Awarded as **'KM Good Article'**)
+  * [2] **Haoyang Hu** and Zhen Peng. *"Observations on the Global Governance Landscape of Artificial Intelligence Governance."* Tencent Knowledge Management, Nov. 2024. (Awarded as **'KM Good Article'**) <a href="https://ALIENHHY.github.io/_pages/人工智能治理全球治理态势观察.pdf" target="_blank">[PDF]</a>
 
 Awards
 ======
