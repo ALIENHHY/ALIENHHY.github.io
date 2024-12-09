@@ -49,7 +49,7 @@ Publications
 ---
 \* : These authors contributed equally to this work.
 * **Conference Papers**
-  * [1] Yican Geng\*, **Haoyang Hu\***, Zhaoxuan Ge and Zhichao Lian. *"Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization."* 2024 IEEE Cyber Science and Technology Congress (CyberSciTech), 2024. DOI: 10.1109/CyberSciTech64112.2024.00021.
+  * [1] Yican Geng\*, **Haoyang Hu\***, Zhaoxuan Ge and Zhichao Lian. *"Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization."* 2024 IEEE Cyber Science and Technology Congress (CyberSciTech), 2024. DOI: 10.1109/CyberSciTech64112.2024.00021. <a href="https://ALIENHHY.github.io/_pages/CyberSciTech2024.pdf" target="_blank">[PDF]</a>
 * **Patents**
   * [1] Chanying Huang, Changji Yao, **Haoyang Hu**, Kedong Yan. *"News recommendation method and system based on national secret algorithm and federated learning."* CN118094008A (Under Review)
   * [2] **Haoyang Hu**. *"A Guide Cane and its Control Method."* CN111110531A (Granted)
