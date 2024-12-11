@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-(Last updated on December 10, 2024)
+Last updated on December 11, 2024. <a href="https://ALIENHHY.github.io/_pages/CV_Haoyang_Hu_NJUST.pdf" target="_blank">[CV-PDF]</a>
 
 Education
 ======
