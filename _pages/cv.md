@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Last updated on December 11, 2024. <a href="https://ALIENHHY.github.io/_pages/CV_Haoyang_Hu_NJUST.pdf" target="_blank">[CV-PDF]</a>
+Last updated on December 11, 2024. <a href="https://ALIENHHY.github.io/_pages/CV_Haoyang_Hu_NJUST.pdf" target="_blank">[CV-PDF]</a>    <a href="https://ALIENHHY.github.io/_pages/12.13胡皓阳中文简历.pdf" target="_blank">[中文简历]</a>
 
 Education
 ======
