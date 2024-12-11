@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Hobbies
-======
----
+[//]Hobbies
+[//]======
+[//]---
 * I love traveling, and my dream is to fish under the Northern Lights in the Arctic！
 * I love basketball and badminton, and I'm a menber of our college team!
 * I like outdoor activities, such as fishing and hiking!
