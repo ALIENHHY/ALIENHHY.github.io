@@ -21,8 +21,9 @@ Education
 Research Interests
 ======
 ---
-* **AI for Security:** Especially using data-deriven methods to help decition-making.
+* **AI for Everything:** Especially using data-deriven methods to help decition-making.
 * **Trustworthy AI:** I'm attempting my graduation project about LLMs' security
+* **Intelligent Robotics:** I have won Gold-Award at the VEX Robotics World Championship.
 
 As an undergraduate student, I am still exploring and shaping my research interests. I have worked on projects related to **machine learning**, **computer vision**, **data mining**, **federated learning**, **cryptography** and **IoT security**, I found these areas deeply fascinating too.
 
