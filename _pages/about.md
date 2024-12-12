@@ -21,7 +21,7 @@ Current Research Interests
 ---
 * **AI for Everything**: Especially using data-deriven methods to aid decition-making.
 * **Trustworthy AI**: I'm attempting my graduation project about LLMs' security.
-* **Intelligent Robotics**: I was a gold medalist at the VEX-EDR Robotics World Championship, and although I had limited exposure to this field during my undergraduate studies, I am deeply interested in it and eager to explore it further in the future.
+* **Intelligent Robotics**: I was a gold medalist at the VEX-EDR Robotics World Championship. I am deeply interested in this field and eager to explore it further.
 
 As an undergraduate student, I am still exploring and shaping my research interests. I have worked on projects related to **machine learning**, **computer vision**, **data mining**, **federated learning**, **cryptography** and **IoT security**, I found these areas deeply fascinating too.
 
