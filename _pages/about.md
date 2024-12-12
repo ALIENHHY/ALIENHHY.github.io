@@ -16,12 +16,12 @@ I am looking for opportunities at 2025 Fall, including MPhil/MRes, MSc, PhD (if 
 
 <a href="https://ALIENHHY.github.io/_pages/CV_Haoyang_Hu_NJUST.pdf" target="_blank">[CV-PDF]</a>    <a href="https://ALIENHHY.github.io/_pages/12.13胡皓阳中文简历.pdf" target="_blank">[中文简历]</a>
 
-Current Research Interests
+Research Interests
 ======
 ---
 * **AI for Everything**: Especially using data-deriven methods to aid decition-making.
 * **Trustworthy AI**: I'm attempting my graduation project about LLMs' security.
-* **Intelligent Robotics**: I have won Gold-Award at the VEX Robotics World Championship. I am deeply interested in this field and eager to explore it further.
+* **Intelligent Robotics**: I have won Gold-Award at the VEX Robotics World Championship.
 
 As an undergraduate student, I am still exploring and shaping my research interests. I have worked on projects related to **machine learning**, **computer vision**, **data mining**, **federated learning**, **cryptography** and **IoT security**, I found these areas deeply fascinating too.
 
