@@ -19,7 +19,7 @@ I am looking for opportunities at 2025 Fall, including MPhil/MRes, MSc, PhD (if 
 Current Research Interests
 ======
 ---
-* **AI for Security**: Especially using data-deriven methods to aid decition-making.
+* **AI for Everything**: Especially using data-deriven methods to aid decition-making.
 * **Trustworthy AI**: I'm attempting my graduation project about LLMs' security.
 * **Intelligent Robotics**: I was a gold medalist at the VEX-EDR Robotics World Championship, and although I had limited exposure to this field during my undergraduate studies, I am deeply interested in it and eager to explore it further in the future.
 
