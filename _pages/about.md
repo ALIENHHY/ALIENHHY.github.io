@@ -21,6 +21,7 @@ Current Research Interests
 ---
 * **AI for Security**: Especially using data-deriven methods to aid decition-making.
 * **Trustworthy AI**: I'm attempting my graduation project about LLMs' security.
+* **Intelligent Robotics**: I was a gold medalist at the VEX-EDR Robotics World Championship, and although I had limited exposure to this field during my undergraduate studies, I am deeply interested in it and eager to explore it further in the future.
 
 As an undergraduate student, I am still exploring and shaping my research interests. I have worked on projects related to **machine learning**, **computer vision**, **data mining**, **federated learning**, **cryptography** and **IoT security**, I found these areas deeply fascinating too.
 
