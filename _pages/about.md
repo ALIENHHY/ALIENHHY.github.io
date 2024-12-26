@@ -11,7 +11,7 @@ I am a fourth-year bachelor student in [the School of Cyberspace Security](https
 
 <span style="color: red;">I am seeking a MPhil/MRes or PhD opportunity starting in Fall 2025 or Spring/Fall 2026, as well as Research Assistant/Intern or Visiting Student positions available at any time.</span> If my research interests align with yours and you are interested with my past experiences, please feel free to contact me via email at <span style="color: red;">hhynb@njust.edu.cn</span>. I would be grateful for any information or opportunities you may have and am eager to explore potential collaborations with you!
 
-<a href="https://ALIENHHY.github.io/_pages/CV_Haoyang_Hu_NJUST.pdf" target="_blank">[CV-PDF]</a>    <a href="https://ALIENHHY.github.io/_pages/胡皓阳中文简历.pdf" target="_blank">[中文简历]</a> (Last updated on December 26, 2024)
+Here are my <a href="https://ALIENHHY.github.io/_pages/CV_Haoyang_Hu_NJUST.pdf" target="_blank">[CV-PDF]</a> and <a href="https://ALIENHHY.github.io/_pages/胡皓阳中文简历.pdf" target="_blank">[中文简历]</a>, last updated on December 26, 2024.
 
 Research Interests
 ======
