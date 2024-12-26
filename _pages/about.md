@@ -37,7 +37,7 @@ News
 * [2024.11] I presented our work at the CyberSciTech 2024 conference！
 * [2024.09] I started my internship at Tencent!
 * [2024.09] Our work has been accepted by the CyberSciTech 2024 conference!
-* [2024.07] My work has been granted as invention patent！
+* [2024.07] My work has been granted as an invention patent！
 
 ---
 
