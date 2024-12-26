@@ -10,7 +10,7 @@ redirect_from:
 ---
 Welcome to my personal website! 
 
-I am a senior at the School of Cyberspace Security, Nanjing University of Science and Technology (NJUST). My major is *Cyberspace Security*, which is also translated as *Cyber Science and Engineering*. I am fortunate to be supervised by [Prof. Zhichao Lian](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=6CZPjzcQhmzsS-IjPww!Hw==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=)!
+I am a senior at the School of Cyberspace Security, Nanjing University of Science and Technology (NJUST). My major is ***Cyberspace Security***, which is also translated as ***Cyber Science and Engineering***. I am fortunate to be supervised by [Prof. Zhichao Lian](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=6CZPjzcQhmzsS-IjPww!Hw==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=)!
 
 I co-founded *Nanjing Nebulorix Co., Ltd. (南京云之秘境科技有限公司)* with my friends, looking forward to bring some of our interesting ideas to life!
 
