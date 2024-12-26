@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: "Haoyang Hu（胡皓阳）"
+title: "Welcome to my homepage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
----
-Welcome to my personal website! 
 
 I am a fourth-year bachelor in [the School of Cyberspace Security](https://scs.njust.edu.cn/), [Nanjing University of Science and Technology (NJUST)](https://www.njust.edu.cn/), supervised by [Prof. Zhichao Lian](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=6CZPjzcQhmzsS-IjPww!Hw==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=). I am fortunate to have conducted research on AI governance and cybersecurity at [Tencent](https://www.tencent.com/zh-cn/)! And I have co-founded Nanjing Nebulorix Co., Ltd. (南京云之秘境科技有限公司) with my friends, looking forward to bring some of our interesting ideas to life!
 
