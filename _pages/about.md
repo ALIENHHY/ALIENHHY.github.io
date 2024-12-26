@@ -8,11 +8,13 @@ redirect_from:
 ---
 
 ---
-Welcome to my personal website! I am a senior at the School of Cyberspace Security, Nanjing University of Science and Technology (NJUST). My major is Cyberspace Security. I am fortunate to be supervised by [Prof. Zhichao Lian](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=6CZPjzcQhmzsS-IjPww!Hw==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=)!
+Welcome to my personal website! 
 
-I co-founded *Nanjing Nebulorix Co., Ltd.（南京云之秘境科技有限公司）* with my friends, looking forward to bring some of our interesting ideas to life!
+I am a senior at the School of Cyberspace Security, Nanjing University of Science and Technology (NJUST). My major is *Cyberspace Security*, which is also translated as *Cyber Science and Engineering*. I am fortunate to be supervised by [Prof. Zhichao Lian](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=6CZPjzcQhmzsS-IjPww!Hw==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=)!
 
-I am looking for opportunities at 2025 Fall, including MPhil/MRes, MSc, PhD (if possible).
+I co-founded *Nanjing Nebulorix Co., Ltd. (南京云之秘境科技有限公司)* with my friends, looking forward to bring some of our interesting ideas to life!
+
+I am looking for opportunities at 2025 Fall, including MPhil/MRes, MSc and PhD (if possible).
 
 Last updated on December 26, 2024: <a href="https://ALIENHHY.github.io/_pages/CV_Haoyang_Hu_NJUST.pdf" target="_blank">[CV-PDF]</a>    <a href="https://ALIENHHY.github.io/_pages/胡皓阳中文简历.pdf" target="_blank">[中文简历]</a>
 
