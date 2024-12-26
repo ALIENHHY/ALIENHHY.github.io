@@ -10,7 +10,7 @@ redirect_from:
 ---
 Welcome to my personal website! 
 
-I am a fourth-year bachelor in the School of Cyberspace Security, Nanjing University of Science and Technology (NJUST), supervised by [Prof. Zhichao Lian](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=6CZPjzcQhmzsS-IjPww!Hw==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=). I am fortunate to have conducted research on AI governance and cybersecurity at ***Tencent***! And I have co-founded ***Nanjing Nebulorix Co., Ltd. (南京云之秘境科技有限公司)*** with my friends, looking forward to bring some of our interesting ideas to life!
+I am a fourth-year bachelor in [the School of Cyberspace Security](https://scs.njust.edu.cn/), [Nanjing University of Science and Technology (NJUST)](https://www.njust.edu.cn/), supervised by [Prof. Zhichao Lian](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=6CZPjzcQhmzsS-IjPww!Hw==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=). I am fortunate to have conducted research on AI governance and cybersecurity at [Tencent](https://www.tencent.com/zh-cn/)! And I have co-founded ***Nanjing Nebulorix Co., Ltd. (南京云之秘境科技有限公司) with my friends, looking forward to bring some of our interesting ideas to life!
 
 I am seeking a MPhil/MRes or PhD opportunity starting in Fall 2025 or Spring/Fall 2026, as well as RA positions available at any time. If my research interests align with yours and you are open to considering me as a potential advisee, please feel free to contact me via email at hhynb@njust.edu.cn. I am eager to explore potential collaborations and opportunities with you!
 
