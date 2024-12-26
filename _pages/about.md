@@ -10,11 +10,11 @@ redirect_from:
 ---
 Welcome to my personal website! 
 
-I am a senior at the School of Cyberspace Security, Nanjing University of Science and Technology (NJUST). My major is ***Cyberspace Security***, which is also translated as ***Cyber Science and Engineering***. I am fortunate to be supervised by [Prof. Zhichao Lian](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=6CZPjzcQhmzsS-IjPww!Hw==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=)!
+I am a fourth-year bachelor in the School of Cyberspace Security, Nanjing University of Science and Technology (NJUST), supervised by [Prof. Zhichao Lian](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=6CZPjzcQhmzsS-IjPww!Hw==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=). My major is ***Cyberspace Security***, which is also translated as ***Cyber Science and Engineering***. I am fortunate to have conducted research on AI governance and cybersecurity at Tencent! And I have co-founded *Nanjing Nebulorix Co., Ltd. (南京云之秘境科技有限公司)* with my friends, looking forward to bring some of our interesting ideas to life!
 
-I co-founded *Nanjing Nebulorix Co., Ltd. (南京云之秘境科技有限公司)* with my friends, looking forward to bring some of our interesting ideas to life!
+I am seeking a MPhil/MRes or PhD opportunity starting in Fall 2025 or Spring/Fall 2026, as well as RA positions available at any time. If my research interests align with yours and you are open to considering me as a potential advisee, please feel free to contact me via email at hhynb@njust.edu.cn. I am eager to explore potential collaborations and opportunities with you!
 
-I am looking for opportunities at 2025 Fall, including MPhil/MRes, MSc and PhD (if possible).
+I am also searching for a research internship, I am available from February to August 2025. I would greatly appreciate any information or opportunities you could share. Feel free to reach out to me.
 
 <a href="https://ALIENHHY.github.io/_pages/CV_Haoyang_Hu_NJUST.pdf" target="_blank">[CV-PDF]</a>    <a href="https://ALIENHHY.github.io/_pages/胡皓阳中文简历.pdf" target="_blank">[中文简历]</a> (Last updated on December 26, 2024)
 
@@ -26,11 +26,6 @@ Research Interests
 * **Intelligent Robotics:** I have won Gold-Award at the VEX Robotics World Championship.
 
 As an undergraduate student, I am still exploring and shaping my research interests. I have worked on projects related to **machine learning**, **computer vision**, **federated learning** and **cryptography**, I found these areas deeply fascinating too.
-
-Education
-======
----
-* [2021-2025] B.Eng. in Cyberspace Security, NJUST
 
 News
 ======
