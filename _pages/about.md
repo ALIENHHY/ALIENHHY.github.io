@@ -15,7 +15,6 @@ I am a fourth-year bachelor student in [the School of Cyberspace Security](https
 
 Research Interests
 ======
----
 * **AI for Everything**: Especially using data-deriven methods to aid decition-making.
 * **Trustworthy AI**: I'm attempting my graduation project about LLMs' security.
 * **Intelligent Robotics:** I have won Gold-Award at the VEX Robotics World Championship.
@@ -24,7 +23,6 @@ As an undergraduate student, I am still exploring and shaping my research intere
 
 News
 ======
----
 * [2024.12] I have completed my internship at Tencent, thanks to everyone!
 * [2024.11] I presented our work at the CyberSciTech 2024 conference！
 * [2024.09] I started my internship at Tencent!
