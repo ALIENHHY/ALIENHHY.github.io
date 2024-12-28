@@ -14,7 +14,7 @@ Last updated on December 26, 2024: <a href="https://ALIENHHY.github.io/_pages/CV
 Education
 ======
 ---
-* B.Eng. in Cyberspace Security, NJUST, 2021-2025
+* B.Eng in Cyberspace Security, NJUST, 2021-2025
   * GPA: 85.25/100
   * Rank: Top 12%
   * Transcripts: <a href="https://ALIENHHY.github.io/_pages/Transcripts-Haoyang Hu.pdf" target="_blank">[PDF]</a>
