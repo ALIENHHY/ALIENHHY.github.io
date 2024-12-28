@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Last updated on December 26, 2024: <a href="https://ALIENHHY.github.io/_pages/CV_Haoyang_Hu_NJUST.pdf" target="_blank">[CV-PDF]</a>    <a href="https://ALIENHHY.github.io/_pages/Transcripts-Haoyang Hu .pdf" target="_blank">[中文简历]</a>
+Last updated on December 26, 2024: <a href="https://ALIENHHY.github.io/_pages/CV_Haoyang_Hu_NJUST.pdf" target="_blank">[CV-PDF]</a>    <a href="https://ALIENHHY.github.io/_pages/胡皓阳中文简历.pdf" target="_blank">[中文简历]</a>
 
 {% include base_path %}
 
@@ -17,7 +17,7 @@ Education
 * B.Eng. in Cyberspace Security, NJUST, 2021-2025
   * GPA: 85.25/100
   * Rank: Top 12%
-  * Transcripts: <a href="https://ALIENHHY.github.io/_pages/CyberSciTech2024.pdf" target="_blank">[PDF]</a>
+  * Transcripts: <a href="https://ALIENHHY.github.io/_pages/Transcripts-Haoyang Hu.pdf" target="_blank">[PDF]</a>
 
 Research Interests
 ======
