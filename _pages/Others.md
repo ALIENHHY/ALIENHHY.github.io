@@ -15,6 +15,26 @@ redirect_from:
 * I enjoy table games, such as billiards, mahjong, chess and go！
 * I enjoy music, especially folk songs, but I'm not good at singing.
 
+Students’ Activities
+======
+---
+* [2024 - Current] Student Congress, NJUST
+  * Permanent Representatives
+* [2021 - Current] Major of 2021 in Cyberspace Security, NJUST
+  * Secretary of the Reunion Branch
+* [2024 - Current] Basketball & Badminton Team of the School of Cyberspace Security, NJUST
+  * Team Member
+* [2023 & 2022] Summer Social Practice Activity (Provincial Core Project)
+  * Team Leader
+
+Certifications
+======
+---
+* [2024] Advanced Certified Data Analyst, China Financial Analysis Institute
+* [2023] Junior Industrial Internet platform development engineer, Talent Exchange Centre of MIIT
+* [2023] VRC Spin Up Head Referee Certification, REC Foundation
+* [2023] Judge Certification, REC Foundation
+
 Robotics
 ======
 ---
