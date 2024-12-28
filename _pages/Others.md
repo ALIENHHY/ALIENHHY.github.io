@@ -22,7 +22,7 @@ Students’ Activities
   * Permanent Representatives
 * [2021 - Current] Major of 2021 in Cyberspace Security, NJUST
   * Secretary of the Reunion Branch
-* [2024 - Current] Basketball & Badminton Team of the School of Cyberspace Security, NJUST
+* [2021 - Current] Basketball & Badminton Team of the School of Cyberspace Security, NJUST
   * Team Member
 * [2023 & 2022] Summer Social Practice Activity (Provincial Core Project)
   * Team Leader
