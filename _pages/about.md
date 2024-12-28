@@ -17,7 +17,7 @@ Research Interests
 ======
 * **Large Language Models:** Particularly focus on their security aspects.
 * **AI for Everything:** Especially using data-deriven methods to aid decition-making.
-[//]: # * **Trustworthy AI:** I'm attempting my graduation project about LLMs' security.
+[//]: # (!# * **Trustworthy AI:** I'm attempting my graduation project about LLMs' security.)
 * **Intelligent Robotics:** I have won Gold-Award at the VEX Robotics World Championship.
 
 As an undergraduate student, I am still exploring and shaping my research interests. I have worked on projects related to **machine learning**, **computer vision**, **federated learning** and **cryptography**, I found these areas deeply fascinating too.
