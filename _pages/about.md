@@ -26,7 +26,7 @@ While I am still in the early stages of building a deeper understanding of these
 
 News
 ======
-* [2024.12] I have completed my internship at Tencent, thanks to everyone!
+* [2024.12] I completed my internship at Tencent, thanks to my mentor, thanks to everyone!
 * [2024.11] I presented our work at the CyberSciTech 2024 conference！
 * [2024.09] I started my internship at Tencent!
 * [2024.09] Our work has been accepted by the CyberSciTech 2024 conference!
