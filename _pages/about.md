@@ -22,6 +22,8 @@ Research Interests
 
 As an undergraduate student, I am still exploring and shaping my research interests. I have worked on projects related to **machine learning**, **computer vision**, **federated learning** and **cryptography**, I found these areas deeply fascinating too.
 
+While I am still in the early stages of building a deeper understanding of these systems, I am confident in my abilities and passionate about expanding my knowledge.
+
 News
 ======
 * [2024.12] I have completed my internship at Tencent, thanks to everyone!
