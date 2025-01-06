@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications/
 author_profile: true
 redirect_from:
@@ -9,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-\* : These authors contributed equally to this work.
+*\* : These authors contributed equally to this work.*
 
 Conference Papers
 ---
