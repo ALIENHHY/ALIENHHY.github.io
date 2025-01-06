@@ -12,7 +12,6 @@ redirect_from:
 革命尚未成功，同志仍需努力...
 
 Competitions (National Levels)
-======
 ---
 * [2023.12] First Prize, National College Student Data Analysis Competition
 * [2023.11] Third Prize, National Cryptography Technology Competition
@@ -20,7 +19,6 @@ Competitions (National Levels)
 
 
 School Honours
-======
 ---
 * [2024.09] First Prize, Outstanding Student Scholarship, NJUST (Top 4%)
 * [2024.09] Success Scholarship, NJUST
@@ -37,7 +35,6 @@ School Honours
 
 
 Certifications
-======
 ---
 * [2024.02] Advanced Certified Data Analyst, China Financial Analysis Institute
 * [2023.06] Junior Industrial Internet platform development engineer, Talent Exchange Centre of MIIT
