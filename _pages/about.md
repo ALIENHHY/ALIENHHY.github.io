@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year bachelor student in [the School of Cyberspace Security](https://scs.njust.edu.cn/), [Nanjing University of Science and Technology (NJUST)](https://www.njust.edu.cn/), supervised by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=6CZPjzcQhmzsS-IjPww!Hw==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=) and [*Dr. Shuangquan Zhang*](https://teacher.njust.edu.cn/wlkjaq/zsq/list.htm). I am fortunate to have conducted research on AI for efficiency, AI governance and cybersecurity at [Tencent](https://www.tencent.com/zh-cn/), supervised by *Elmer Peng*!
+I am a fourth-year bachelor student in [the School of Cyberspace Security](https://scs.njust.edu.cn/), [Nanjing University of Science and Technology (NJUST)](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [*Dr. Shuangquan Zhang*](https://teacher.njust.edu.cn/wlkjaq/zsq/list.htm). I am fortunate to have conducted research on AI for efficiency, AI governance and cybersecurity at [Tencent](https://www.tencent.com/zh-cn/), supervised by *Elmer Peng*!
 
 I am seeking <span style="color: red;">MPhil/MRes or PhD</span> opportunities starting in <span style="color: red;">Fall 2025 or Spring/Fall 2026</span>, as well as <span style="color: red;">Research Assistant, Intern, or Visiting Student</span> positions available <span style="color: red;">from Feb. to Aug. 2025</span>.
 
