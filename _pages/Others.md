@@ -18,7 +18,7 @@ redirect_from:
 Startup Experience
 ======
 ---
-I co-founded Nanjing Nebulorix Co., Ltd. with my friends in Nov. 2024, looking forward to bring some of our interesting ideas to fruition!
+I co-founded *Nanjing Nebulorix Co., Ltd.* with my friends, looking forward to bring our interesting ideas to fruition!
 
 Robotics
 ======
