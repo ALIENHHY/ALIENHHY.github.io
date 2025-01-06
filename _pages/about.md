@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year bachelor student in [the School of Cyberspace Security](https://scs.njust.edu.cn/), [Nanjing University of Science and Technology (NJUST)](https://www.njust.edu.cn/), supervised by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=6CZPjzcQhmzsS-IjPww!Hw==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=). I am fortunate to have conducted research on AI for efficiency, AI governance and cybersecurity at [Tencent](https://www.tencent.com/zh-cn/), supervised by *Elmer Peng*! And I have co-founded Nanjing Nebulorix Co., Ltd. (南京云之秘境科技有限公司) with my friends, looking forward to bring some of our interesting ideas to fruition!
+I am a fourth-year bachelor student in [the School of Cyberspace Security](https://scs.njust.edu.cn/), [Nanjing University of Science and Technology (NJUST)](https://www.njust.edu.cn/), supervised by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=6CZPjzcQhmzsS-IjPww!Hw==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=) and [*Dr. Shuangquan Zhang*]([https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=6CZPjzcQhmzsS-IjPww!Hw==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=](https://teacher.njust.edu.cn/wlkjaq/zsq/list.htm)). I am fortunate to have conducted research on AI for efficiency, AI governance and cybersecurity at [Tencent](https://www.tencent.com/zh-cn/), supervised by *Elmer Peng*!
 
-I am seeking <span style="color: red;">MPhil/MRes or PhD</span> opportunities starting at <span style="color: red;">Fall 2025 or Spring/Fall 2026</span>, as well as <span style="color: red;">Research Assistant, Intern, or Visiting Student</span> positions available <span style="color: red;">from Feb. to Aug. 2025</span>.
+I am seeking <span style="color: red;">MPhil/MRes or PhD</span> opportunities starting in <span style="color: red;">Fall 2025 or Spring/Fall 2026</span>, as well as <span style="color: red;">Research Assistant, Intern, or Visiting Student</span> positions available <span style="color: red;">from Feb. to Aug. 2025</span>.
 
 Here are my <a href="https://ALIENHHY.github.io/_pages/CV_Haoyang_Hu_NJUST.pdf" target="_blank">[CV-PDF]</a> and <a href="https://ALIENHHY.github.io/_pages/胡皓阳中文简历.pdf" target="_blank">[中文简历]</a>, last updated on December 26, 2024.
 
