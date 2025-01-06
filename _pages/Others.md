@@ -21,7 +21,7 @@ I co-founded *Nanjing Nebulorix Co., Ltd.* with my friends, looking forward to b
 
 Robotics
 ---
-* I participated in 8 seasons of the VEX-EDR robotics competition from elementary to high school.
+* I have participated in 8 seasons of VEX-EDR (now known as [VEX-V5](https://www.vexrobotics.com/v5)) robotics competitions since elementary school.
   * The cities I've visited for competitions:
     * [2011] Ningbo
     * [2012] Mianyang and Suzhou
