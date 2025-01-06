@@ -8,11 +8,11 @@ redirect_from:
 
 {% include base_path %}
 
-I have experienced four different companies and positions during my spare time, exploring my career path...
+*I have experienced four different companies and positions during my spare time, exploring my career path...*
 
 [2024.09-2024.12] Tencent
 ---
-* Department: ESG Coordination Office (ECO LAB), mentored by senior expert Elmer Peng
+* Department: ESG Coordination Office (ECO LAB), mentored by senior expert *Elmer Peng*
   * **Exploring the fields of AI governance, cybersecurity and privacy protection:**
     * Contributed to the collection, analysis, and visualization of ESG data.
     * Delved deeper into the industry, wrote and published two articles.
