@@ -12,7 +12,6 @@ Last updated on December 26, 2024: <a href="https://ALIENHHY.github.io/_pages/CV
 {% include base_path %}
 
 Education
-======
 ---
 * B.Eng in Cyberspace Security, NJUST, 2021-2025
   * GPA: 85.25/100
@@ -20,7 +19,6 @@ Education
   * Transcripts: <a href="https://ALIENHHY.github.io/_pages/Transcripts-Haoyang Hu.pdf" target="_blank">[PDF]</a>
 
 Research Interests
-======
 ---
 * **AI for Everything:** Especially using data-deriven methods to help decition-making.
 * **Trustworthy AI:** I'm attempting my graduation project about LLMs' security
@@ -29,7 +27,6 @@ Research Interests
 As an undergraduate student, I am still exploring and shaping my research interests. I have worked on projects related to **machine learning**, **computer vision**, **federated learning** and **cryptography**, I found these areas deeply fascinating too.
 
 Work Experiences
-======
 ---
 * [2024.11-Current] Nanjing Nebulorix Co., Ltd.
   * Position: Co-founder
@@ -47,7 +44,6 @@ Work Experiences
   * Position: Security Service Intern, Xuanjia Laboratory
 
 Publications
-======
 ---
 \* : These authors contributed equally to this work.
 * **Conference Papers**
@@ -61,7 +57,6 @@ Publications
   * [2] **Haoyang Hu** and Zhen Peng. *"Observations on the Global Governance Landscape of Artificial Intelligence Governance."* Tencent Knowledge Management, Nov. 2024. (Awarded as **'KM Good Article'**) <a href="https://ALIENHHY.github.io/_pages/人工智能治理全球治理态势观察.pdf" target="_blank">[PDF]</a>
 
 Awards
-======
 ---
 * **Competitions (National Levels)**
   * [2023.12] First Prize, National College Student Data Analysis Competition
@@ -87,7 +82,6 @@ Awards
   * [2023.04] Judge Certification, REC Foundation
 
 Student Activities
-======
 ---
 * [2024.05-Current] Student Congress, NJUST
   * Position: Permanent Representatives
