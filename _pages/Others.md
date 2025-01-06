@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Beyond Work & Studies"
+title: "Beyond Works & Studies"
 permalink: /other/
 author_profile: true
 redirect_from:
