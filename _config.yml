@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Haoyang's Homepage"
 title_separator          : "-"
-name                     : &name "Haoyang Hu"
+name                     : &name "Haoyang Hu （胡皓阳 in Chinese）"
 description              : &description "personal description"
 url                      : https://alienhhy.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
