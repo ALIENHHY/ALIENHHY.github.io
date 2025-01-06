@@ -15,6 +15,11 @@ redirect_from:
 * I enjoy table games, such as billiards, mahjong, chess and go！
 * I enjoy music, especially folk songs, but I'm not good at singing.
 
+Startup Experience
+======
+---
+I have co-founded Nanjing Nebulorix Co., Ltd. (南京云之秘境科技有限公司) with my friends in Nov. 2024, looking forward to bring some of our interesting ideas to fruition!
+
 Students’ Activities
 ======
 ---
