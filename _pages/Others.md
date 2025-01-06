@@ -20,26 +20,6 @@ Startup Experience
 ---
 I co-founded Nanjing Nebulorix Co., Ltd. with my friends in Nov. 2024, looking forward to bring some of our interesting ideas to fruition!
 
-Students’ Activities
-======
----
-* [2024 - Current] Student Congress, NJUST
-  * Permanent Representatives
-* [2021 - Current] Major of 2021 in Cyberspace Security, NJUST
-  * Secretary of the Reunion Branch
-* [2021 - Current] Basketball & Badminton Team of the School of Cyberspace Security, NJUST
-  * Team Member
-* [2023 & 2022] Summer Social Practice Activity (Provincial Core Project)
-  * Team Leader
-
-Certifications
-======
----
-* [2024] Advanced Certified Data Analyst, China Financial Analysis Institute
-* [2023] Junior Industrial Internet platform development engineer, Talent Exchange Centre of MIIT
-* [2023] VRC Spin Up Head Referee Certification, REC Foundation
-* [2023] Judge Certification, REC Foundation
-
 Robotics
 ======
 ---
@@ -61,5 +41,25 @@ Robotics
     * [2015] Glod Award, Asia-Pacific Robotics Championship, Melbourne, Australia
     * [2015] Champion, National VEX Robotics Engineering Challenge, Weihai, China
     * [2015] First Prize, National VEX Robotics Engineering Challenge, Weihai, China
+
+Students’ Activities
+======
+---
+* [2024 - Current] Student Congress, NJUST
+  * Permanent Representatives
+* [2021 - Current] Major of 2021 in Cyberspace Security, NJUST
+  * Secretary of the Reunion Branch
+* [2021 - Current] Basketball & Badminton Team of the School of Cyberspace Security, NJUST
+  * Team Member
+* [2023 & 2022] Summer Social Practice Activity (Provincial Core Project)
+  * Team Leader
+
+Certifications
+======
+---
+* [2024] Advanced Certified Data Analyst, China Financial Analysis Institute
+* [2023] Junior Industrial Internet platform development engineer, Talent Exchange Centre of MIIT
+* [2023] VRC Spin Up Head Referee Certification, REC Foundation
+* [2023] Judge Certification, REC Foundation
 
 [//]: # (![Asia-Pacific Robotics Championship](/images/asia championship.png))
