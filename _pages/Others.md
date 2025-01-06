@@ -16,7 +16,7 @@ redirect_from:
 * I enjoy music, especially folk songs, but I'm not good at singing.
 
 Startup Experience
-======
+---
 I co-founded *Nanjing Nebulorix Co., Ltd.* with my friends, looking forward to bring our interesting ideas to fruition!
 
 Robotics
@@ -41,7 +41,6 @@ Robotics
     * [2015] First Prize, National VEX Robotics Engineering Challenge, Weihai, China
 
 Students’ Activities
-======
 ---
 * [2024 - Current] Student Congress, NJUST
   * Permanent Representatives
@@ -53,7 +52,6 @@ Students’ Activities
   * Team Leader
 
 Certifications
-======
 ---
 * [2024] Advanced Certified Data Analyst, China Financial Analysis Institute
 * [2023] Junior Industrial Internet platform development engineer, Talent Exchange Centre of MIIT
