@@ -12,9 +12,8 @@ redirect_from:
 I have experienced four different companies and positions during my spare time, exploring my career path...
 
 [2024.09-2024.12] Tencent
-======
 ---
-* Department: ESG Coordination Office (ECO LAB), under the guidance of Elmerpeng
+* Department: ESG Coordination Office (ECO LAB), mentored by senior expert Elmer Peng
   * **Exploring the fields of AI governance, cybersecurity and privacy protection:**
     * Contributed to the collection, analysis, and visualization of ESG data.
     * Delved deeper into the industry, wrote and published two articles.
@@ -25,18 +24,15 @@ I have experienced four different companies and positions during my spare time, 
 
 
 [2024.01-2024.02] China Telecom
-======
 ---
 * Department: Cloud Network Maintenance Center
 
 
 [2023.07-2023.08] CINGHOO Technology Co., Ltd.
-======
 ---
 * Department: Judicial Appraisal Institute
 
 
 [2022.07-2022.08] MoreSec Technology Co., Ltd.
-======
 ---
 * Department: Xuanjia Laboratory
