@@ -17,11 +17,9 @@ redirect_from:
 
 Startup Experience
 ======
----
 I co-founded *Nanjing Nebulorix Co., Ltd.* with my friends, looking forward to bring our interesting ideas to fruition!
 
 Robotics
-======
 ---
 * I participated in 8 seasons of the VEX-EDR robotics competition from elementary to high school.
   * The cities I've visited for competitions:
