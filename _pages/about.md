@@ -14,7 +14,7 @@ I am seeking <span style="color: red;">MPhil/MRes or PhD</span> opportunities st
 Here are my <a href="https://ALIENHHY.github.io/_pages/CV_Haoyang_Hu_NJUST.pdf" target="_blank">[CV-PDF]</a> and <a href="https://ALIENHHY.github.io/_pages/胡皓阳中文简历.pdf" target="_blank">[中文简历]</a>, last updated on December 26, 2024.
 
 Research Interests
-======
+---
 * **LLMs Security:** I am studying attack methods on LLMs, particularly focus on jailbreaks.
 * **AI for Everything:** Especially using data-deriven methods to aid decition-making.
 <!--* **Trustworthy AI:** I'm attempting my graduation project about LLMs' security.-->
@@ -25,7 +25,7 @@ As an undergraduate student, I am still exploring and shaping my research intere
 <span style="color: blue;">While I am still in the early stages of building a deeper understanding of these systems, I am confident in my abilities and passionate about expanding my knowledge.</span>
 
 News
-======
+---
 * [2024.12] I completed my internship at Tencent, thanks to my mentor, thanks to everyone!
 * [2024.11] I presented our work at the CyberSciTech 2024 conference！
 * [2024.09] I started my internship at Tencent!
