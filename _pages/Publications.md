@@ -16,7 +16,7 @@ Conference Papers
 
 Journal Articles
 ---
-Waiting...
+*Waiting...*
 
 Patents
 ---
