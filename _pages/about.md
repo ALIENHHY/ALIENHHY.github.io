@@ -15,7 +15,7 @@ Here are my <a href="https://ALIENHHY.github.io/_pages/CV_Haoyang_Hu_NJUST.pdf" 
 
 Research Interests
 ======
-* **Large Language Models:** Particularly focus on their security aspects.
+* **LLMs Security:** I am studying attack methods on LLMs, particularly focus on jailbreaks.
 * **AI for Everything:** Especially using data-deriven methods to aid decition-making.
 <!--* **Trustworthy AI:** I'm attempting my graduation project about LLMs' security.-->
 * **Intelligent Robotics:** I have won Gold-Award at the VEX Robotics World Championship.
