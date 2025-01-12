@@ -26,11 +26,11 @@ As an undergraduate student, I am still actively exploring and shaping my resear
 News
 ---
 * ![](https://img.shields.io/badge/Jan.%202025-00FF00) I accept the offer of admission to the MSc(CompSc) program at HKU, see you in HK!
-* ![](https://img.shields.io/badge/Dec.%202024-00FF00) I completed my internship at Tencent, thanks to my mentor, thanks to everyone!
-* ![](https://img.shields.io/badge/Nov.%202024-00FF00) I presented our work at the CyberSciTech 2024 conference!
-* ![](https://img.shields.io/badge/Sep.%202024-00FF00) I started my internship at Tencent!
-* ![](https://img.shields.io/badge/Sep.%202024-00FF00) Our work about ***"IDS"*** was accepted by the CyberSciTech 2024 conference!
-* ![](https://img.shields.io/badge/Jul.%202024-00FF00) My work about ***"Smart Guide Cane"*** was granted as an invention patent!
+* ![](https://img.shields.io/badge/Dec.%202024-00FF00) I complete my internship at Tencent, thanks to my mentor, thanks to everyone!
+* ![](https://img.shields.io/badge/Nov.%202024-00FF00) I presente our work at the CyberSciTech 2024 conference!
+* ![](https://img.shields.io/badge/Sep.%202024-00FF00) I starte my internship at Tencent!
+* ![](https://img.shields.io/badge/Sep.%202024-00FF00) Our work about ***"IDS"*** is accepted by the CyberSciTech 2024 conference!
+* ![](https://img.shields.io/badge/Jul.%202024-00FF00) My work about ***"Smart Guide Cane"*** is granted as an invention patent!
 
 ---
 
