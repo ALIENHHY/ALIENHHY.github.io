@@ -15,14 +15,13 @@ Here are my <a href="https://ALIENHHY.github.io/_pages/CV_Haoyang_Hu_NJUST.pdf" 
 
 Research Interests
 ---
-* **LLMs Security:** I am studying attack methods on LLMs, particularly focus on jailbreaks.
-* **AI for Everything:** Especially using data-deriven methods to aid decition-making.
-<!--* **Trustworthy AI:** I'm attempting my graduation project about LLMs' security.-->
-* **Intelligent Robotics:** I have won Gold-Award at the VEX Robotics World Championship.
+* **Trustworthy AI:** particularly focus on the security of LLMs, like jailbreaking attacks.
+* **AI for Everything:** Exploring data-driven methods to enhance decision-making processes.
+* **Intelligent Robotics:** I have achieved Gold Award at the VEX Robotics World Championship.
 
-As an undergraduate student, I am still exploring and shaping my research interests. I have worked on projects related to **machine learning**, **computer vision**, **federated learning** and **cryptography**, I found these areas deeply fascinating too.
+As an undergraduate student, I am still actively exploring and shaping my research interests. I have worked on projects related to **machine learning**, **computer vision**, **federated learning** and **cryptography**, all of which I find deeply fascinating too.
 
-<span style="color: blue;">While I am still in the early stages of building a deeper understanding of these systems, I am confident in my abilities and passionate about expanding my knowledge.</span>
+<span style="color: blue;">While I am still in the early stages of gaining a deeper understanding of these fields, I am confident in my abilities and deeply passionate about broadening my expertise.</span>
 
 News
 ---
