@@ -17,7 +17,7 @@ Research Interests
 ---
 * **Trustworthy AI:** particularly focus on the security of LLMs, like jailbreaking attacks.
 * **AI for Everything:** Exploring data-driven methods to enhance decision-making processes.
-* **Intelligent Robotics:** I have achieved Gold Award at the VEX Robotics World Championship.
+* **Intelligent Robotics:** I have won Gold Award at the VEX Robotics World Championship.
 
 As an undergraduate student, I am still actively exploring and shaping my research interests. I have worked on projects related to **machine learning**, **computer vision**, **federated learning** and **cryptography**, all of which I find deeply fascinating too.
 
