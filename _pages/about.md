@@ -25,11 +25,11 @@ As an undergraduate student, I am still actively exploring and shaping my resear
 
 News
 ---
-* [](https://img.shields.io/badge/Dec.%202024-8A2BE2) I completed my internship at Tencent, thanks to my mentor, thanks to everyone!
-* [](https://img.shields.io/badge/Nov.%202024-8A2BE2) I presented our work at the CyberSciTech 2024 conference！
-* [](https://img.shields.io/badge/Sep.%202024-8A2BE2) I started my internship at Tencent!
-* [](https://img.shields.io/badge/Sep.%202024-8A2BE2) Our work has been accepted by the CyberSciTech 2024 conference!
-* [](https://img.shields.io/badge/Jul.%202024-8A2BE2) My work about *smart guide cane* has been granted as an invention patent！
+* ![](https://img.shields.io/badge/Dec.%202024-8A2BE2) I completed my internship at Tencent, thanks to my mentor, thanks to everyone!
+* ![](https://img.shields.io/badge/Nov.%202024-8A2BE2) I presented our work at the CyberSciTech 2024 conference！
+* ![](https://img.shields.io/badge/Sep.%202024-8A2BE2) I started my internship at Tencent!
+* ![](https://img.shields.io/badge/Sep.%202024-8A2BE2) Our work has been accepted by the CyberSciTech 2024 conference!
+* ![](https://img.shields.io/badge/Jul.%202024-8A2BE2) My work about *smart guide cane* has been granted as an invention patent！
 
 ---
 
