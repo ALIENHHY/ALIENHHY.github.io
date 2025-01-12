@@ -23,39 +23,39 @@ Robotics
 ---
 * I have participated in 8 seasons of VEX-EDR (now known as [VEX-V5](https://www.vexrobotics.com/v5)) robotics competitions since elementary school.
   * The cities I've visited for competitions:
-    * [2011] Ningbo
-    * [2012] Mianyang and Suzhou
-    * [2013] Shenzhen and Suzhou
-    * [2014] Jiaxing and Dongguan
-    * [2015] Weihai and Melbourne
-    * [2016] Louisville and Xi'an
+    * ![](https://img.shields.io/badge/2011-0000FF) Ningbo
+    * ![](https://img.shields.io/badge/2012-0000FF) Mianyang and Suzhou
+    * ![](https://img.shields.io/badge/2013-0000FF) Shenzhen and Suzhou
+    * ![](https://img.shields.io/badge/2014-0000FF) Jiaxing and Dongguan
+    * ![](https://img.shields.io/badge/2015-0000FF) Weihai and Melbourne
+    * ![](https://img.shields.io/badge/2016-0000FF) Louisville and Xi'an
     * (Took my high school entrance exam in 2017)
-    * [2018] Beijing and Hangzhou
+    * ![](https://img.shields.io/badge/2018-0000FF) Beijing and Hangzhou
   * The awards I received, including but not limited to:
-    * [2018] First Prize, RoboCom World Robotics Competition Final, Beijing, China
-    * [2018] Second Runner-up, RoboCom World Robotics Competition Final, Beijing, China
-    * [2016] Runner-up, National VEX Robotics Engineering Challenge, Xian, China
-    * [2016] Glod Award, VEX World Championship, Louisville, USA
-    * [2015] Glod Award, Asia-Pacific Robotics Championship, Melbourne, Australia
-    * [2015] Champion, National VEX Robotics Engineering Challenge, Weihai, China
-    * [2015] First Prize, National VEX Robotics Engineering Challenge, Weihai, China
+    * ![](https://img.shields.io/badge/2018-0000FF) First Prize, RoboCom World Robotics Competition Final, Beijing, China
+    * ![](https://img.shields.io/badge/2018-0000FF) Second Runner-up, RoboCom World Robotics Competition Final, Beijing, China
+    * ![](https://img.shields.io/badge/2016-0000FF) Runner-up, National VEX Robotics Engineering Challenge, Xian, China
+    * ![](https://img.shields.io/badge/2016-0000FF) Glod Award, VEX World Championship, Louisville, USA
+    * ![](https://img.shields.io/badge/2015-0000FF) Glod Award, Asia-Pacific Robotics Championship, Melbourne, Australia
+    * ![](https://img.shields.io/badge/2015-0000FF) Champion, National VEX Robotics Engineering Challenge, Weihai, China
+    * ![](https://img.shields.io/badge/2015-0000FF) First Prize, National VEX Robotics Engineering Challenge, Weihai, China
 
 Students’ Activities
 ---
-* [2024 - Current] Student Congress, NJUST
+* ![](https://img.shields.io/badge/2024--Current-A020F0) Student Congress, NJUST
   * Permanent Representatives
-* [2021 - Current] Major of 2021 in Cyberspace Security, NJUST
+* ![](https://img.shields.io/badge/2021--Current-A020F0) Major of 2021 in Cyberspace Security, NJUST
   * Secretary of the Reunion Branch
-* [2021 - Current] Basketball & Badminton Team of the School of Cyberspace Security, NJUST
+* ![](https://img.shields.io/badge/2021--Current-A020F0) Basketball & Badminton Team of the School of Cyberspace Security, NJUST
   * Team Member
-* [2023 & 2022] Summer Social Practice Activity (Provincial Core Project)
+* ![](https://img.shields.io/badge/2022%20&%202023-A020F0) Summer Social Practice Activity (Provincial Core Project)
   * Team Leader
 
 Certifications
 ---
-* [2024] Advanced Certified Data Analyst, China Financial Analysis Institute
-* [2023] Junior Industrial Internet platform development engineer, Talent Exchange Centre of MIIT
-* [2023] VRC Spin Up Head Referee Certification, REC Foundation
-* [2023] Judge Certification, REC Foundation
+* ![](https://img.shields.io/badge/2024-FFC0CB0) Advanced Certified Data Analyst, China Financial Analysis Institute
+* ![](https://img.shields.io/badge/2023-FFC0CB0) Junior Industrial Internet platform development engineer, Talent Exchange Centre of MIIT
+* ![](https://img.shields.io/badge/2023-FFC0CB0) VRC Spin Up Head Referee Certification, REC Foundation
+* ![](https://img.shields.io/badge/2023-FFC0CB0) Judge Certification, REC Foundation
 
 [//]: # (![Asia-Pacific Robotics Championship](/images/asia championship.png))
