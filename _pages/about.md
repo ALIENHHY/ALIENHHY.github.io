@@ -25,7 +25,7 @@ As an undergraduate student, I am still actively exploring and shaping my resear
 
 News
 ---
-* [2024.12] I completed my internship at Tencent, thanks to my mentor, thanks to everyone!
+* <span class="label label-success">Dec 2024</span> I completed my internship at Tencent, thanks to my mentor, thanks to everyone!
 * [2024.11] I presented our work at the CyberSciTech 2024 conference！
 * [2024.09] I started my internship at Tencent!
 * [2024.09] Our work has been accepted by the CyberSciTech 2024 conference!
