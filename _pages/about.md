@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year undergraduate student in [the School of Cyberspace Security](https://scs.njust.edu.cn/) at [Nanjing University of Science and Technology (NJUST)](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=), where I am fortunate to be supervised by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [*Dr. Shuangquan Zhang*](https://teacher.njust.edu.cn/wlkjaq/zsq/list.htm). Previously, I had the opportunity to intern at [Tencent](https://www.tencent.com/zh-cn/), mentored by senior expert *Elmer Peng*. Starting September 2025, I will be pursuing my studies in [the Department of Computer Science](https://www.cs.hku.hk/) at [the University of Hong Kong (HKU)](https://www.hku.hk/), see you in Hong Kong!
+I am a fourth-year undergraduate student in [the School of Cyberspace Security](https://scs.njust.edu.cn/) at [Nanjing University of Science and Technology (NJUST)](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=), where I am fortunate to be supervised by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [*Dr. Shuangquan Zhang*](https://teacher.njust.edu.cn/wlkjaq/zsq/list.htm). Previously, I had the opportunity to intern at [Tencent](https://www.tencent.com/zh-cn/), mentored by senior expert *Elmer Peng*. Starting September 2025, I will be pursing studies in [the Department of Computer Science](https://www.cs.hku.hk/) at [the University of Hong Kong (HKU)](https://www.hku.hk/), see you in Hong Kong!
 
 I am seeking <span style="color: red;">Research Assistant, Intern, or Visiting Student</span> positions available <span style="color: red;">from Feb. to Aug. 2025</span>, as well as <span style="color: red;">PhD or MPhil/MRes</span> opportunities starting in <span style="color: red;">Fall 2026 or Spring/Fall 2027</span>.
 
@@ -25,7 +25,7 @@ As an undergraduate student, I am still actively exploring and shaping my resear
 
 News
 ---
-* ![](https://img.shields.io/badge/Jan.%202025-00FF00) I accept the offer of admission to the MSc(CompSc) program at HKU, see you in HK!
+* ![](https://img.shields.io/badge/Jan.%202025-00FF00) I accept the offer of admission from HKU, see you in Hong Kong!
 * ![](https://img.shields.io/badge/Dec.%202024-00FF00) I complete my internship at Tencent, thanks to my mentor, thanks to everyone!
 * ![](https://img.shields.io/badge/Nov.%202024-00FF00) I presente our work at the CyberSciTech 2024 conference!
 * ![](https://img.shields.io/badge/Sep.%202024-00FF00) I starte my internship at Tencent!
