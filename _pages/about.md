@@ -28,8 +28,8 @@ News
 * ![](https://img.shields.io/badge/Dec.%202024-00FF00) I completed my internship at Tencent, thanks to my mentor, thanks to everyone!
 * ![](https://img.shields.io/badge/Nov.%202024-00FF00) I presented our work at the CyberSciTech 2024 conference!
 * ![](https://img.shields.io/badge/Sep.%202024-00FF00) I started my internship at Tencent!
-* ![](https://img.shields.io/badge/Sep.%202024-00FF00) Our work about ***IDS*** was accepted by the CyberSciTech 2024 conference!
-* ![](https://img.shields.io/badge/Jul.%202024-00FF00) My work about ***smart guide cane*** was granted as an invention patent!
+* ![](https://img.shields.io/badge/Sep.%202024-00FF00) Our work about ***"IDS"*** was accepted by the CyberSciTech 2024 conference!
+* ![](https://img.shields.io/badge/Jul.%202024-00FF00) My work about ***"Smart Guide Cane"*** was granted as an invention patent!
 
 ---
 
