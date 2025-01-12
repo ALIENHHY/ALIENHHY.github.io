@@ -9,8 +9,6 @@ redirect_from:
 
 I am a fourth-year undergraduate student in [the School of Cyberspace Security](https://scs.njust.edu.cn/) at [Nanjing University of Science and Technology (NJUST)](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=), where I am fortunate to be supervised by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [*Dr. Shuangquan Zhang*](https://teacher.njust.edu.cn/wlkjaq/zsq/list.htm). Previously, I had the opportunity to intern at [Tencent](https://www.tencent.com/zh-cn/), mentored by senior expert *Elmer Peng*. Starting September 2025, I will be pursuing my studies at [the Department of Computer Science](https://www.cs.hku.hk/), [the University of Hong Kong (HKU)](https://www.hku.hk/), see you in Hong Kong!
 
-I am seeking <span style="color: red;">MPhil/MRes or PhD</span> opportunities starting in <span style="color: red;">Fall 2026 or Spring/Fall 2026</span>, as well as <span style="color: red;">Research Assistant, Intern, or Visiting Student</span> positions available <span style="color: red;">from Feb. to Aug. 2025</span>.
-
 I am seeking <span style="color: red;">Research Assistant, Intern, or Visiting Student</span> positions available <span style="color: red;">from Feb. to Aug. 2025</span>, as well as <span style="color: red;">PhD or MPhil/MRes</span> opportunities starting in <span style="color: red;">Fall 2026 or Spring/Fall 2027</span>.
 
 Here are my <a href="https://ALIENHHY.github.io/_pages/CV_Haoyang_Hu_NJUST.pdf" target="_blank">[CV-PDF]</a> and <a href="https://ALIENHHY.github.io/_pages/胡皓阳中文简历.pdf" target="_blank">[中文简历]</a>, last updated on December 26, 2024.
