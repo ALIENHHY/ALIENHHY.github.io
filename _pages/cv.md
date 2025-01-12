@@ -18,14 +18,6 @@ Education
   * Rank: Top 12%
   * Transcripts: <a href="https://ALIENHHY.github.io/_pages/Transcripts-Haoyang Hu.pdf" target="_blank">[PDF]</a>
 
-Research Interests
----
-* **AI for Everything:** Especially using data-deriven methods to help decition-making.
-* **Trustworthy AI:** I'm attempting my graduation project about LLMs' security
-* **Intelligent Robotics:** I have won Gold-Award at the VEX Robotics World Championship.
-
-As an undergraduate student, I am still exploring and shaping my research interests. I have worked on projects related to **machine learning**, **computer vision**, **federated learning** and **cryptography**, I found these areas deeply fascinating too.
-
 Work Experiences
 ---
 * ![](https://img.shields.io/badge/Nov.%202024--Current-FFFF00) Nanjing Nebulorix Co., Ltd.
