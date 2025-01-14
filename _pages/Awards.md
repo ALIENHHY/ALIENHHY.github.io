@@ -13,9 +13,9 @@ redirect_from:
 
 Competitions (National Levels)
 ---
-* ![](https://img.shields.io/badge/Dec.%202023-FF0000) First Prize, National College Student Data Analysis Competition
-* ![](https://img.shields.io/badge/Nov.%202023-FF0000) Third Prize, National Cryptography Technology Competition
-* ![](https://img.shields.io/badge/Jun.%202023-FF0000) Third Prize, “TIPDM CUP” Data Mining Challenge
+* ![](https://img.shields.io/badge/Dec.%202023-Online-blue) First Prize, National College Student Data Analysis Competition
+* ![](https://img.shields.io/badge/Nov.%202023-Urumqi,%20China-blue) Third Prize, National Cryptography Technology Competition
+* ![](https://img.shields.io/badge/Jun.%202023-Online-blue) Third Prize, “TIPDM CUP” Data Mining Challenge
 
 
 School Honours
@@ -23,7 +23,7 @@ School Honours
 * ![](https://img.shields.io/badge/Sep.%202024-FF0000) First Prize, Outstanding Student Scholarship, NJUST (Top 4%)
 * ![](https://img.shields.io/badge/Sep.%202024-FF0000) Success Scholarship, NJUST
 * ![](https://img.shields.io/badge/Sep.%202024-FF0000) Outstanding Class Cadre, NJUST (2/70)
-* ![](https://img.shields.io/badge/Apr.%202024-FF0000) Outstanding Reunion Branch Officer (1/70)
+* ![](https://img.shields.io/badge/Apr.%202024-FF0000) Outstanding Reunion Branch Officer, NJUST (1/70)
 * ![](https://img.shields.io/badge/Mar.%202024-FF0000) First Prize, Outstanding Student Scholarship, NJUST (Top 4%)
 * ![](https://img.shields.io/badge/Mar.%202024-FF0000) Beyond Scholarship, NJUST
 * ![](https://img.shields.io/badge/Nov.%202023-FF0000) Merit Student, NJUST (6/70)
