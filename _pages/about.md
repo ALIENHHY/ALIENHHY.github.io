@@ -28,7 +28,7 @@ News
 * ![](https://img.shields.io/badge/Jan.%202025-00FF00) I accept the offer of admission from HKU, see you in Hong Kong!
 * ![](https://img.shields.io/badge/Dec.%202024-00FF00) I complete my internship at Tencent, thanks to my mentor, thanks to everyone!
 * ![](https://img.shields.io/badge/Nov.%202024-00FF00) I presente our work at the CyberSciTech 2024 conference!
-* ![](https://img.shields.io/badge/Sep.%202024-00FF00) I starte my internship at Tencent!
+* ![](https://img.shields.io/badge/Sep.%202024-00FF00) I start my internship at Tencent!
 * ![](https://img.shields.io/badge/Sep.%202024-00FF00) Our work about ***"IDS"*** is accepted by the CyberSciTech 2024 conference!
 * ![](https://img.shields.io/badge/Jul.%202024-00FF00) My work about ***"Smart Guide Cane"*** is granted as an invention patent!
 
