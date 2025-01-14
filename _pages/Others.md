@@ -31,7 +31,7 @@ Robotics
     * ![](https://img.shields.io/badge/2016-0000FF) Louisville and Xi'an
     * (Took my high school entrance exam in 2017)
     * ![](https://img.shields.io/badge/2018-0000FF) Beijing and Hangzhou
-  * The awards I received, including but not limited to:
+  * Selected awards:
     * ![](https://img.shields.io/badge/2018-0000FF) First Prize, RoboCom World Robotics Competition Final, Beijing, China
     * ![](https://img.shields.io/badge/2018-0000FF) Second Runner-up, RoboCom World Robotics Competition Final, Beijing, China
     * ![](https://img.shields.io/badge/2016-0000FF) Runner-up, National VEX Robotics Engineering Challenge, Xian, China
