@@ -32,13 +32,13 @@ Robotics
     * (Took my high school entrance exam in 2017)
     * ![](https://img.shields.io/badge/2018-0000FF) Beijing and Hangzhou
   * Selected awards:
-    * ![](https://img.shields.io/badge/2018-Beijing,%20China-blue) First Prize, RoboCom World Robotics Competition Final, Beijing, China
-    * ![](https://img.shields.io/badge/2018-Beijing,%20China-blue) Second Runner-up, RoboCom World Robotics Competition Final, Beijing, China
-    * ![](https://img.shields.io/badge/2016-Xi'an,%20China-blue) Runner-up, National VEX Robotics Engineering Challenge, Xian, China
-    * ![](https://img.shields.io/badge/2016-Louisville,%20USA-blue) Glod Award, VEX World Championship, Louisville, USA
-    * ![](https://img.shields.io/badge/2015-Melbourne,%20Australia-blue) Glod Award, Asia-Pacific Robotics Championship, Melbourne, Australia
-    * ![](https://img.shields.io/badge/2015-Weihai,%20China-blue) Champion, National VEX Robotics Engineering Challenge, Weihai, China
-    * ![](https://img.shields.io/badge/2015-Weihai,%20China-blue) First Prize, National VEX Robotics Engineering Challenge, Weihai, China
+    * ![](https://img.shields.io/badge/2018-Beijing,%20China-blue) **First Prize** at *RoboCom World Robotics Competition Final*.
+    * ![](https://img.shields.io/badge/2018-Beijing,%20China-blue) **Second Runner-up** at *RoboCom World Robotics Competition Final*.
+    * ![](https://img.shields.io/badge/2016-Xi'an,%20China-blue) **Runner-up** at *National VEX Robotics Engineering Challenge*.
+    * ![](https://img.shields.io/badge/2016-Louisville,%20USA-blue) **Glod Award** at *VEX World Championship*.
+    * ![](https://img.shields.io/badge/2015-Melbourne,%20Australia-blue) **Glod Award** at *Asia-Pacific Robotics Championship*.
+    * ![](https://img.shields.io/badge/2015-Weihai,%20China-blue) **Champion** at *National VEX Robotics Engineering Challenge*.
+    * ![](https://img.shields.io/badge/2015-Weihai,%20China-blue) **First Prize** at *National VEX Robotics Engineering Challenge*.
 
 Students’ Activities
 ---
