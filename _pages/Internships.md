@@ -19,7 +19,7 @@ redirect_from:
   * **Developing AI-driven efficiency tools:**
     * ***News Reporting System Development:*** Developed a workflow to automatically collect, summarize, and deliver daily news reports on relevant topics to colleagues' mailboxes, which has been actively used.
     * ***Agent Development:*** Built a proprietary knowledge base for training, designed specialized prompts, and developed a agent specifically tailored for ESG report writing, which is set to be deployed.
-    * ***CV Model Development:*** Deployed an image classification model for the "Emin Environmental Protection Action Group" mini program using ResNet. Which has been successfully launched and registered by over 5,000 employees.
+    * ***CV Model Development:*** Deployed an image classification model for the WeChat mini program "鹅民环保行动派" using ResNet. Which has been successfully launched and registered by over 5,000 employees.
 
 
 ![](https://img.shields.io/badge/Jan.%202024--Feb.%202024-000000) China Telecom
