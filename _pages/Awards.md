@@ -36,7 +36,7 @@ School Honours
 
 Certifications
 ---
-* ![](https://img.shields.io/badge/Feb.%202024-China Financial Analysis Institute-blue) Advanced Certified Data Analyst
+* ![](https://img.shields.io/badge/Feb.%202024-China%20Financial%20Analysis%20Institute-blue) Advanced Certified Data Analyst
 * ![](https://img.shields.io/badge/Jun.%202023-FF0000) Junior Industrial Internet platform development engineer, Talent Exchange Centre of MIIT
 * ![](https://img.shields.io/badge/Apr.%202023-FF0000) VRC Spin Up Head Referee Certification, REC Foundation
 * ![](https://img.shields.io/badge/Apr.%202023-FF0000) Judge Certification, REC Foundation
