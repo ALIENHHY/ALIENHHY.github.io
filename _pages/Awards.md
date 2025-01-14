@@ -11,7 +11,7 @@ redirect_from:
 
 革命尚未成功，同志仍需努力...
 
-Competitions (National Levels)
+Competitions (Selected Awards)
 ---
 * ![](https://img.shields.io/badge/Dec.%202023-Online-blue) First Prize, National College Student Data Analysis Competition
 * ![](https://img.shields.io/badge/Nov.%202023-Urumqi,%20China-blue) Third Prize, National Cryptography Technology Competition
@@ -36,7 +36,7 @@ School Honours
 
 Certifications
 ---
-* ![](https://img.shields.io/badge/Feb.%202024-FF0000) Advanced Certified Data Analyst, China Financial Analysis Institute
+* ![](https://img.shields.io/badge/Feb.%202024-China Financial Analysis Institute-blue) Advanced Certified Data Analyst
 * ![](https://img.shields.io/badge/Jun.%202023-FF0000) Junior Industrial Internet platform development engineer, Talent Exchange Centre of MIIT
 * ![](https://img.shields.io/badge/Apr.%202023-FF0000) VRC Spin Up Head Referee Certification, REC Foundation
 * ![](https://img.shields.io/badge/Apr.%202023-FF0000) Judge Certification, REC Foundation
