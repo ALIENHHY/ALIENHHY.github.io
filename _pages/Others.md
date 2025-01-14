@@ -32,13 +32,13 @@ Robotics
     * (Took my high school entrance exam in 2017)
     * ![](https://img.shields.io/badge/2018-0000FF) Beijing and Hangzhou
   * Selected awards:
-    * ![](https://img.shields.io/badge/2018-0000FF) First Prize, RoboCom World Robotics Competition Final, Beijing, China
-    * ![](https://img.shields.io/badge/2018-0000FF) Second Runner-up, RoboCom World Robotics Competition Final, Beijing, China
-    * ![](https://img.shields.io/badge/2016-0000FF) Runner-up, National VEX Robotics Engineering Challenge, Xian, China
-    * ![](https://img.shields.io/badge/2016-0000FF) Glod Award, VEX World Championship, Louisville, USA
-    * ![](https://img.shields.io/badge/2015-0000FF) Glod Award, Asia-Pacific Robotics Championship, Melbourne, Australia
-    * ![](https://img.shields.io/badge/2015-0000FF) Champion, National VEX Robotics Engineering Challenge, Weihai, China
-    * ![](https://img.shields.io/badge/2015-0000FF) First Prize, National VEX Robotics Engineering Challenge, Weihai, China
+    * ![](https://img.shields.io/badge/2018-Beijing,%20China-blue) First Prize, RoboCom World Robotics Competition Final, Beijing, China
+    * ![](https://img.shields.io/badge/2018-Beijing,%20China-blue) Second Runner-up, RoboCom World Robotics Competition Final, Beijing, China
+    * ![](https://img.shields.io/badge/2016-Xi'an,%20China-blue) Runner-up, National VEX Robotics Engineering Challenge, Xian, China
+    * ![](https://img.shields.io/badge/2016-Louisville,%20USA-blue) Glod Award, VEX World Championship, Louisville, USA
+    * ![](https://img.shields.io/badge/2015-Melbourne,%20Australia-blue) Glod Award, Asia-Pacific Robotics Championship, Melbourne, Australia
+    * ![](https://img.shields.io/badge/2015-Weihai,%20China-blue) Champion, National VEX Robotics Engineering Challenge, Weihai, China
+    * ![](https://img.shields.io/badge/2015-Weihai,%20China-blue) First Prize, National VEX Robotics Engineering Challenge, Weihai, China
 
 Students’ Activities
 ---
