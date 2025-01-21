@@ -32,6 +32,14 @@ News
 * ![](https://img.shields.io/badge/Sep.%202024-00FF00) Our work about ***"IDS"*** is accepted by the CyberSciTech 2024 conference!
 * ![](https://img.shields.io/badge/Jul.%202024-00FF00) My work about ***"Smart Guide Cane"*** is granted as an invention patent!
 
+Documenting my Fall 2025 Master's Applications:
+---
+I have received offers from the following programs for Fall 2025:
+* ![](https://img.shields.io/badge/Jan.%202025-FF00FF)MSc. Computer and Information Engineering at The Chinese University of Hong Kong (Shenzhen), with a scholarship of 30,000 RMB
+* ![](https://img.shields.io/badge/Jan.%202025-FF00FF)MSc. Computer Science at the University of Hong Kong
+* ![](https://img.shields.io/badge/Nov.%202024-FF00FF)MSc. Cyber Security, Privacy and Trust at the University of Edinburgh
+* ![](https://img.shields.io/badge/Dec.%202024-FF00FF)MSc. Robotics at the University of Bristol
+
 ---
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6wfR7GC9nCyJQPKiqnKV-XvXiwNpKSA2Zv_onF9ga-g&cl=ffffff&w=a"></script>
