@@ -15,7 +15,7 @@ Here are my <a href="https://ALIENHHY.github.io/_pages/CV_Haoyang_Hu_NJUST.pdf" 
 
 Research Interests
 ---
-* **Trustworthy AI:** particularly focus on the security of LLMs, like jailbreaking attacks.
+* **Trustworthy AI:** Particularly focus on the security of LLMs, like jailbreaking attacks.
 * **AI for Everything:** Exploring data-driven methods to enhance decision-making processes.
 * **Intelligent Robotics:** I have won Gold Award at the VEX Robotics World Championship.
 
