@@ -34,4 +34,4 @@ redirect_from:
 
 ![](https://img.shields.io/badge/Jul.%202022--Aug.%202022-000000) MoreSec Technology Co., Ltd.
 ---
-* Department: Xuanjia Laboratory
+* Department: Xuanjia Lab
