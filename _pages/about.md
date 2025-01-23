@@ -16,12 +16,12 @@ Here are my <a href="https://ALIENHHY.github.io/_pages/CV_Haoyang_Hu_NJUST.pdf" 
 Research Interests
 ---
 * **Trustworthy AI:** Particularly focus on the security of LLMs, like jailbreaking attacks.
-* **AI for Everything:** Exploring data-driven approaches to enhance decision-making processes.
+* **AI for Everything:** Exploring data-driven methods to enhance decision-making processes.
 * **Intelligent Robotics:** I have won Gold Award at the VEX Robotics World Championship.
 
-As an undergraduate student, I am actively exploring and shaping my research interests. My experience spans projects in ***machine learning***, ***computer vision***, ***federated learning*** and ***cryptography***, all of which I find deeply fascinating too.
+As an undergraduate student, I am still actively exploring and shaping my research interests. My past research experience spans projects in ***machine learning***, ***computer vision***, ***federated learning*** and ***cryptography***, all of which I find deeply fascinating too.
 
-Currently, I am leading a project on the security of LLMs, developing a black-box jailbreaking attack toolkit. I am also contributing to a project on applying AI in the pharmaceutical industry, which is nearing implementation.
+Currently, I am leading a project on the security of LLMs, developing a black-box jailbreaking attack toolkit, which is also my graduation thesis. I am also contributing to a project on applying AI in the pharmaceutical industry, which is nearing implementation.
 
 <span style="color: blue;">While I am still in the early stages of gaining a deeper understanding of these fields, I am confident in my abilities and deeply passionate about broadening my expertise.</span>
 
