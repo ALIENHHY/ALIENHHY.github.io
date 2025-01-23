@@ -21,7 +21,7 @@ Research Interests
 
 As an undergraduate student, I am still actively exploring and shaping my research interests. My past research experience spans projects in ***machine learning***, ***computer vision***, ***federated learning*** and ***cryptography***, all of which I find deeply fascinating too.
 
-Currently, I am leading a project on the security of LLMs, developing a black-box jailbreaking attack toolkit, which is also my graduation thesis. I am also contributing to a project on applying AI in the pharmaceutical industry, which is nearing implementation.
+Currently, I am leading a project on ***the security of LLMs***, developing a black-box jailbreaking attack toolkit, which is also my graduation thesis. I am also contributing to a project on ***the AI application in pharmaceutical industry***, which is nearing implementation.
 
 <span style="color: blue;">While I am still in the early stages of gaining a deeper understanding of these fields, I am confident in my abilities and deeply passionate about broadening my expertise.</span>
 
