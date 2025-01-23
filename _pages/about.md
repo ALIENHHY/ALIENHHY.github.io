@@ -25,20 +25,16 @@ As an undergraduate student, I am still actively exploring and shaping my resear
 
 News
 ---
-* ![](https://img.shields.io/badge/Jan.%202025-00FF00) I accept the offer of admission from HKU, see you in Hong Kong!
-* ![](https://img.shields.io/badge/Dec.%202024-00FF00) I complete my internship at Tencent, thanks to my mentor, thanks to everyone!
-* ![](https://img.shields.io/badge/Nov.%202024-00FF00) I presente our work at the CyberSciTech 2024 conference!
-* ![](https://img.shields.io/badge/Sep.%202024-00FF00) I start my internship at Tencent!
-* ![](https://img.shields.io/badge/Sep.%202024-00FF00) Our work about ***"IDS"*** is accepted by the CyberSciTech 2024 conference!
-* ![](https://img.shields.io/badge/Jul.%202024-00FF00) My work about ***"Smart Guide Cane"*** is granted as an invention patent!
-
-Documenting my Fall 2025 Master's Applications:
----
-I have received offers from the following programs for Fall 2025:
-* ![](https://img.shields.io/badge/Jan.%202025-FF00FF) MSc. Computer and Information Engineering at The Chinese University of Hong Kong, Shenzhen, *with a scholarship of 30,000 RMB*! <a href="https://sse.cuhk.edu.cn/en/page/1727" target="_blank">[Link]</a>
-* ![](https://img.shields.io/badge/Jan.%202025-FF00FF) MSc. Computer Science at the University of Hong Kong! **<span style="color: red;">(Final Choice)</span>** <a href="https://www.msc-cs.hku.hk/" target="_blank">[Link]</a>
-* ![](https://img.shields.io/badge/Nov.%202024-FF00FF) MSc. Cyber Security, Privacy and Trust at the University of Edinburgh! <a href="https://postgraduate.degrees.ed.ac.uk/index.php?r=site/view&edition=2025&id=971" target="_blank">[Link]</a>
-* ![](https://img.shields.io/badge/Dec.%202024-FF00FF) MSc. Robotics at the University of Bristol! <a href="https://www.bristol.ac.uk/study/postgraduate/taught/msc-robotics/" target="_blank">[Link]</a>
+* ![](https://img.shields.io/badge/Jan.%202025-00FF00) I received an offer from <a href="https://sse.cuhk.edu.cn/en/page/1727" target="_blank">the MSc. CIE program at CUHK-SZ</a>, *with a scholarship of RMB 30,000*!
+* ![](https://img.shields.io/badge/Jan.%202025-00FF00) I accepted the offer of admission from HKU, see you in Hong Kong!
+* ![](https://img.shields.io/badge/Jan.%202025-00FF00) I received an offer from <a href="https://www.msc-cs.hku.hk/" target="_blank">the MSc. CS program at HKU</a>
+* ![](https://img.shields.io/badge/Dec.%202024-00FF00) I completed my internship at Tencent, thanks to my mentor, thanks to everyone!
+* ![](https://img.shields.io/badge/Nov.%202024-00FF00) I presented our work at the CyberSciTech 2024 conference!
+* ![](https://img.shields.io/badge/Oct.%202025-00FF00) I received an offer from <a href="https://postgraduate.degrees.ed.ac.uk/index.php?r=site/view&edition=2025&id=971" target="_blank">the MSc. Cyber Security, Privacy and Trust program at the University of Edinburgh</a>
+* ![](https://img.shields.io/badge/Oct.%202025-00FF00) I received an offer from <a href="[https://postgraduate.degrees.ed.ac.uk/index.php?r=site/view&edition=2025&id=971](https://www.bristol.ac.uk/study/postgraduate/taught/msc-robotics/)" target="_blank">the MSc. Robotics at the University of Bristol</a>
+* ![](https://img.shields.io/badge/Sep.%202024-00FF00) I started my internship at Tencent!
+* ![](https://img.shields.io/badge/Sep.%202024-00FF00) Our work about ***"IDS"*** was accepted by the CyberSciTech 2024 conference!
+* ![](https://img.shields.io/badge/Jul.%202024-00FF00) My work about ***"Smart Guide Cane"*** was granted as an invention patent!
 
 ---
 
