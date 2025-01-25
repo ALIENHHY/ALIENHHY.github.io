@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 * I love traveling, fishing, hiking and any other outdoor activities!
-* I love basketball and badminton, and I'm a member of our college team!
+* I love basketball and badminton, and I'm a member of our school's team!
 * I enjoy table games, such as billiards, mahjong, chess and go!
 * I enjoy music, especially folk songs, but I'm not good at singing.
 
