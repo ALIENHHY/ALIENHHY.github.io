@@ -14,7 +14,7 @@ redirect_from:
 * I enjoy table games, such as billiards, mahjong, chess and go!
 * I enjoy music, especially folk songs, but I'm not good at singing.
 
-Documenting my Fall 2025 Master's Applications:
+Documenting my Fall 2025 Master's Applications
 ---
 I have received offers from the following programs for Fall 2025:
 * ![](https://img.shields.io/badge/Jan.%202025-FF00FF) MSc. CIE at CUHKSZ, *with a scholarship of 30,000 RMB*! <a href="https://sse.cuhk.edu.cn/en/page/1727" target="_blank">[Link]</a>
