@@ -53,7 +53,9 @@ Students’ Activities
   * Permanent Representatives
 * ![](https://img.shields.io/badge/2021--Current-A020F0) Major of 2021 in Cyberspace Security, NJUST
   * Secretary of the Reunion Branch
-* ![](https://img.shields.io/badge/2021--Current-A020F0) Basketball & Badminton Team of the School of Cyberspace Security, NJUST
+* ![](https://img.shields.io/badge/2021--Current-A020F0) Basketball Team of the School of Cyberspace Security, NJUST
+  * Team Member
+* ![](https://img.shields.io/badge/2021--Current-A020F0) Badminton Team of the School of Cyberspace Security, NJUST
   * Team Member
 * ![](https://img.shields.io/badge/2022%20&%202023-A020F0) Summer Social Practice Activity (Provincial Core Project)
   * Team Leader
