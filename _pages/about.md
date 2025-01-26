@@ -29,12 +29,7 @@ News
 ---
 * ![](https://img.shields.io/badge/Jan.%202025-00FF00) I received an offer of *MSc. CIE* from CUHKSZ, with a scholarship of RMB 30,000!🤑
 * ![](https://img.shields.io/badge/Jan.%202025-00FF00) I accepted the offer from HKU, thanks to everyone!😘 **<span style="color: red;">See you in Hong Kong!</span>**🤗
-* ![](https://img.shields.io/badge/Dec.%202024-00FF00) I received an offer of *MSc. CS* from HKU@font-face {
-  font-family: 'iconfont';  /* Project id 4818854 */
-  src: url('//at.alicdn.com/t/c/font_4818854_5g00ixtk3zv.woff2?t=1737901076244') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4818854_5g00ixtk3zv.woff?t=1737901076244') format('woff'),
-       url('//at.alicdn.com/t/c/font_4818854_5g00ixtk3zv.ttf?t=1737901076244') format('truetype');
-}!🤤
+* ![](https://img.shields.io/badge/Dec.%202024-00FF00) I received an offer of *MSc. CS* from HKU!🤤
 * ![](https://img.shields.io/badge/Dec.%202024-00FF00) I completed my internship at Tencent, thanks to my mentor, thanks to everyone!
 * ![](https://img.shields.io/badge/Nov.%202024-00FF00) I presented our work at the CyberSciTech 2024 conference!
 * ![](https://img.shields.io/badge/Oct.%202025-00FF00) I received an offer of *MSc. Cyber Security* from the University of Edinburgh!🥰
