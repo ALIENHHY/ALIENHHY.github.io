@@ -19,7 +19,7 @@ Research Interests
 * **AI for Everything:** Exploring data-driven methods to enhance decision-making processes.
 * **Intelligent Robotics:** I have won Gold Award at the VEX Robotics World Championship.
 
-As an undergraduate student, I am still actively exploring and shaping my research interests. My past research experience spans projects in ***machine learning***, ***computer vision***, ***federated learning*** and ***cryptography***, all of which I find deeply fascinating too.
+As an undergraduate student, I am still actively exploring and shaping my research interests. My past research experience spans projects in ***machine learning***, ***computer vision***, ***cryptography*** and ***federated learning***, all of which I find deeply fascinating too.
 
 Currently, I am leading a project on ***the security of LLMs***, developing a black-box jailbreaking attack toolkit, which is also my graduation thesis. I am also contributing to a project on ***AI application in the pharmaceutical industry***, which is nearing implementation.
 
