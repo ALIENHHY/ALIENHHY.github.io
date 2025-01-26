@@ -9,9 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-* I love traveling, fishing, hiking and any other outdoor activities!
+* I enjoy traveling and fishing, as well as indoor games like billiards, mahjong, chess and go!
 * I love sports! I am a member of school basketball & badminton teams, and I’m also a beginner in table tennis!
-* I enjoy table games, such as billiards, mahjong, chess and go!
 * I enjoy music, especially folk songs, but I'm not good at singing.
 
 Documenting my Fall 2025 Master's Applications
