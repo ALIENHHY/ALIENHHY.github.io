@@ -28,7 +28,7 @@ As an undergraduate student, I am still actively exploring and shaping my resear
 News
 ---
 * ![](https://img.shields.io/badge/Jan.%202025-00FF00) I received an offer of *MSc. CIE* from CUHKSZ, with a scholarship of RMB 30,000!🤑
-* ![](https://img.shields.io/badge/Jan.%202025-00FF00) I accepted the offer from HKU, thanks to everyone! **<span style="color: red;">See you in Hong Kong</span>**!😘
+* ![](https://img.shields.io/badge/Jan.%202025-00FF00) I accepted the offer from HKU, thanks to everyone!😘 **<span style="color: red;">See you in Hong Kong!</span>**🤗
 * ![](https://img.shields.io/badge/Dec.%202024-00FF00) I received an offer of *MSc. CS* from HKU!🤤
 * ![](https://img.shields.io/badge/Dec.%202024-00FF00) I completed my internship at Tencent, thanks to my mentor, thanks to everyone!
 * ![](https://img.shields.io/badge/Nov.%202024-00FF00) I presented our work at the CyberSciTech 2024 conference!
