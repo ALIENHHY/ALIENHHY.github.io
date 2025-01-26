@@ -40,6 +40,7 @@ News
 
 Experiences
 ---
+* ![](https://img.shields.io/badge/Nov.%202024--Current-000000) Co-founder, Nanjing Nebulorix Co., Ltd.
 * ![](https://img.shields.io/badge/Sep.%202024--Dec.%202024-000000) Intern, ESG Coordination Office (ECO LAB), Tencent
 * ![](https://img.shields.io/badge/Jan.%202024--Feb.%202024-000000) Intern, Cloud Network Maintenance Center, China Telecom
 * ![](https://img.shields.io/badge/Jul.%202023--Aug.%202023-000000) Intern, Judicial Appraisal Institute, CINGHOO
