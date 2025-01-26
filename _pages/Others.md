@@ -60,11 +60,4 @@ Students’ Activities
 * ![](https://img.shields.io/badge/2022%20&%202023-A020F0) Summer Social Practice Activity (Provincial Core Project)
   * Team Leader
 
-Certifications
----
-* ![](https://img.shields.io/badge/2024-FFC0CB0) Advanced Certified Data Analyst, China Financial Analysis Institute
-* ![](https://img.shields.io/badge/2023-FFC0CB0) Junior Industrial Internet platform development engineer, Talent Exchange Centre of MIIT
-* ![](https://img.shields.io/badge/2023-FFC0CB0) VRC Spin Up Head Referee Certification, REC Foundation
-* ![](https://img.shields.io/badge/2023-FFC0CB0) Judge Certification, REC Foundation
-
 [//]: # (![Asia-Pacific Robotics Championship](/images/asia championship.png))
