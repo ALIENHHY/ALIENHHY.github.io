@@ -33,7 +33,7 @@ News
 * ![](https://img.shields.io/badge/Dec.%202024-00FF00) I completed my internship at Tencent, thanks to my mentor, thanks to everyone!
 * ![](https://img.shields.io/badge/Nov.%202024-00FF00) I presented our work at the CyberSciTech 2024 conference!
 * ![](https://img.shields.io/badge/Oct.%202025-00FF00) I received an offer of *MSc. Cyber Security* from the University of Edinburgh!🥰
-* ![](https://img.shields.io/badge/Oct.%202025-00FF00) I received my first offer for Fall 2025 intake from the University of Bristol with *MSc. Robotics*!😍
+* ![](https://img.shields.io/badge/Oct.%202025-00FF00) I received my first offer from the University of Bristol with *MSc. Robotics*!😍
 * ![](https://img.shields.io/badge/Sep.%202024-00FF00) Our work about ***"IDS"*** was accepted by the CyberSciTech 2024 conference!
 * ![](https://img.shields.io/badge/Sep.%202024-00FF00) I started my internship at *ESG Coordination Office (ECO Lab), Tencent*!😊
 * ![](https://img.shields.io/badge/Jul.%202024-00FF00) My work about ***"Smart Guide Cane"*** was granted as an invention patent!
