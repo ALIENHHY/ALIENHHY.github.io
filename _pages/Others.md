@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-* I enjoy traveling and fishing, as well as indoor games like billiards, mahjong, chess and go!😊
-* I love sports! I am a member of school basketball & badminton teams, and I’m also a beginner in table tennis!😂
+* I enjoy traveling🌏 and fishing🎣, as well as indoor games like billiards🎱, mahjong🀄, card games🃏, chess and go!😊
+* I love sports! I am a member of school basketball🏀 & badminton teams🏸, and I’m also a beginner in table tennis🏓!
 * I am a fan of the Chinese national football team, Argentina, FCB, PSG, Inter Miami, Cavaliers, and Lakers!😘
-* I enjoy music, especially folk songs, but I'm not good at singing.😢
+* I enjoy music🎶, especially folk songs🎸, but I'm not good at singing.😢
 
 Documenting my Fall 2025 Master's Applications
 ---
