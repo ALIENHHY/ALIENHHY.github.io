@@ -40,11 +40,11 @@ News
 
 Experiences
 ---
-* ![](https://img.shields.io/badge/Nov.%202024--Current-000000) Co-founder, Nanjing Nebulorix Co., Ltd.
-* ![](https://img.shields.io/badge/Sep.%202024--Dec.%202024-000000) Intern, ESG Coordination Office (ECO Lab), Tencent <a href="https://alienhhy.github.io/internships/" target="_blank">[Link]</a>
-* ![](https://img.shields.io/badge/Jan.%202024--Feb.%202024-000000) Intern, Cloud Network Maintenance Center, China Telecom
-* ![](https://img.shields.io/badge/Jul.%202023--Aug.%202023-000000) Intern, Judicial Appraisal Institute, CINGHOO
-* ![](https://img.shields.io/badge/Jul.%202022--Aug.%202022-000000) Intern, DarkArmor Lab, MoreSec
+* ![](https://img.shields.io/badge/Nov.%202024%20--%20Current-000000) Co-founder, Nanjing Nebulorix Co., Ltd.
+* ![](https://img.shields.io/badge/Sep.%202024%20--%20Dec.%202024-000000) Intern, *ESG Coordination Office (ECO Lab)*, Tencent <a href="https://alienhhy.github.io/internships/" target="_blank">[Link]</a>
+* ![](https://img.shields.io/badge/Jan.%202024%20--%20Feb.%202024-000000) Intern, *Cloud Network Maintenance Center*, China Telecom
+* ![](https://img.shields.io/badge/Jul.%202023%20--%20Aug.%202023-000000) Intern, *Judicial Appraisal Institute*, CINGHOO
+* ![](https://img.shields.io/badge/Jul.%202022%20--%20Aug.%202022-000000) Intern, *DarkArmor Lab*, MoreSec
 
 ---
 
