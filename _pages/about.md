@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Haoyang, a fourth-year undergraduate student in [the School of Cyberspace Security at Nanjing University of Science and Technology (NJUST)](https://scs.njust.edu.cn/), where I am fortunate to be supervised by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and *Dr. Shuangquan Zhang*.😎 Previously, I had a wonderful time at [Tencent](https://www.tencent.com/zh-cn/) mentored by senior expert *Elmer Peng*. Starting Sept. 2025, I will further my studies in [the Department of Computer Science at the University of Hong Kong (HKU)](https://www.cs.hku.hk/), see you in 🇭🇰!🤪
+Hi, I am Haoyang, a fourth-year undergraduate student in [the School of Cyberspace Security at Nanjing University of Science and Technology (NJUST)](https://scs.njust.edu.cn/), where I am fortunate to be supervised by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and *Dr. Shuangquan Zhang*.😎 Previously, I had a wonderful time at [Tencent](https://www.tencent.com/zh-cn/) mentored by senior expert *Elmer Peng*. Starting September 2025, I will further my studies in [the Department of Computer Science at the University of Hong Kong (HKU)](https://www.cs.hku.hk/), see you in HK!🤪
 
 I am seeking <span style="color: red;">Research Assistant, Intern, or Visiting Student</span> positions available <span style="color: red;">from Feb. to Aug. 2025</span>, as well as <span style="color: red;">PhD or MPhil/MRes</span> opportunities starting in <span style="color: red;">Fall 2026 or Spring/Fall 2027</span>.🥺
 
