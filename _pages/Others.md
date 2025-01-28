@@ -14,7 +14,7 @@ redirect_from:
 * I am a fan of the Chinese national football team, Argentina, FCB, PSG, Inter Miami, Cavaliers, and Lakers!😘
 * I enjoy music🎶, especially folk songs🎸, but I'm not good at singing.😢
 
-Documenting my Fall 2025 Master's Applications
+📝 Documenting my Fall 2025 Master's Applications
 ---
 I have received offers from the following programs for Fall 2025:
 * ![](https://img.shields.io/badge/Jan.%202025-FF00FF) MSc. CIE at CUHKSZ, *with a scholarship of 30,000 RMB*! <a href="https://sse.cuhk.edu.cn/en/page/1727" target="_blank">[Link]</a>
@@ -22,11 +22,11 @@ I have received offers from the following programs for Fall 2025:
 * ![](https://img.shields.io/badge/Oct.%202024-FF00FF) MSc. Cyber Security, Privacy and Trust at the University of Edinburgh! <a href="https://postgraduate.degrees.ed.ac.uk/index.php?r=site/view&edition=2025&id=971" target="_blank">[Link]</a>
 * ![](https://img.shields.io/badge/Dec.%202024-FF00FF) MSc. Robotics at the University of Bristol! <a href="https://www.bristol.ac.uk/study/postgraduate/taught/msc-robotics/" target="_blank">[Link]</a>
 
-Startup Experience
+👨‍💻 Startup Experience
 ---
 I co-founded *Nanjing Nebulorix Co., Ltd.* with my friends, looking forward to bring our interesting ideas to fruition!
 
-Robotics
+🤖 Robotics
 ---
 * I have participated in 8 seasons of VEX-EDR (now known as [VEX-V5](https://www.vexrobotics.com/v5)) robotics competitions since elementary school.
   * The cities I've visited for competitions:
@@ -39,15 +39,15 @@ Robotics
     * (Took my high school entrance exam in 2017)
     * ![](https://img.shields.io/badge/2018-0000FF) Beijing and Hangzhou
   * Selected awards:
-    * ![](https://img.shields.io/badge/2018-Beijing,%20China-blue) **First Prize** at *RoboCom World Robotics Competition Final*.
-    * ![](https://img.shields.io/badge/2018-Beijing,%20China-blue) **Second Runner-up** at *RoboCom World Robotics Competition Final*.
-    * ![](https://img.shields.io/badge/2016-Xi'an,%20China-blue) **Runner-up** at *National VEX Robotics Engineering Challenge*.
-    * ![](https://img.shields.io/badge/2016-Louisville,%20USA-blue) **Glod Award** at *VEX World Championship*.
-    * ![](https://img.shields.io/badge/2015-Melbourne,%20Australia-blue) **Glod Award** at *Asia-Pacific Robotics Championship*.
-    * ![](https://img.shields.io/badge/2015-Weihai,%20China-blue) **Champion** at *National VEX Robotics Engineering Challenge*.
-    * ![](https://img.shields.io/badge/2015-Weihai,%20China-blue) **First Prize** at *National VEX Robotics Engineering Challenge*.
+    * ![](https://img.shields.io/badge/2018-Beijing,%20China-blue) **First Prize 🏆** at *RoboCom World Robotics Competition Final*.
+    * ![](https://img.shields.io/badge/2018-Beijing,%20China-blue) **Second Runner-up 🥉** at *RoboCom World Robotics Competition Final*.
+    * ![](https://img.shields.io/badge/2016-Xi'an,%20China-blue) **Runner-up 🥈** at *National VEX Robotics Engineering Challenge*.
+    * ![](https://img.shields.io/badge/2016-Louisville,%20USA-blue) **Glod Award 🏆** at *VEX World Championship*.
+    * ![](https://img.shields.io/badge/2015-Melbourne,%20Australia-blue) **Glod Award 🏆** at *Asia-Pacific Robotics Championship*.
+    * ![](https://img.shields.io/badge/2015-Weihai,%20China-blue) **Champion 🥇** at *National VEX Robotics Engineering Challenge*.
+    * ![](https://img.shields.io/badge/2015-Weihai,%20China-blue) **First Prize 🏆** at *National VEX Robotics Engineering Challenge*.
 
-Students’ Activities
+🌠 Students’ Activities
 ---
 * ![](https://img.shields.io/badge/2024--Current-A020F0) Student Congress, NJUST
   * Permanent Representatives
