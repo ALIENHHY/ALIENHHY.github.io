@@ -27,13 +27,13 @@ As an undergraduate student, I am still actively exploring and shaping my resear
 
 News
 ---
-* ![](https://img.shields.io/badge/Jan.%202025-00FF00) I received an offer of *MSc. CIE* from CUHKSZ, with a scholarship of RMB 30,000!🤑
+* ![](https://img.shields.io/badge/Jan.%202025-00FF00) I received an offer of *MSc. CIE* from CUHKSZ<img src="https://ALIENHHY.github.io/_pages/CUHKSZ.png" align="center" style="vertical-align: middle; width: 19px;">, with a scholarship of RMB 30,000!
 * ![](https://img.shields.io/badge/Jan.%202025-00FF00) I accepted the offer from HKU, thanks to everyone!😘 **<span style="color: red;">See you in Hong Kong!</span>**🤗
 * ![](https://img.shields.io/badge/Dec.%202024-00FF00) I received an offer of *MSc. CS* from HKU!🤤
 * ![](https://img.shields.io/badge/Dec.%202024-00FF00) I completed my internship at Tencent, thanks to my mentor, thanks to everyone!
 * ![](https://img.shields.io/badge/Nov.%202024-00FF00) I presented our work at the CyberSciTech 2024 conference!
-* ![](https://img.shields.io/badge/Oct.%202025-00FF00) I received an offer of *MSc. Cyber Security* from the University of Edinburgh!🥰
-* ![](https://img.shields.io/badge/Oct.%202025-00FF00) I received my first offer for *MSc. Robotics* from the University of Bristol!😍
+* ![](https://img.shields.io/badge/Oct.%202025-00FF00) I received an offer of *MSc. Cyber Security* from the University of Edinburgh!<img src="https://ALIENHHY.github.io/_pages/Edinburgh.png" align="center" style="vertical-align: middle; width: 19px;">
+* ![](https://img.shields.io/badge/Oct.%202025-00FF00) I received my first offer for *MSc. Robotics* from the University of Bristol!<img src="https://ALIENHHY.github.io/_pages/Bristol.png" align="center" style="vertical-align: middle; width: 19px;">
 * ![](https://img.shields.io/badge/Sep.%202024-00FF00) Our work about ***"IDS"*** was accepted by the CyberSciTech 2024 conference!
 * ![](https://img.shields.io/badge/Sep.%202024-00FF00) I started my internship at *ESG Coordination Office (ECO Lab)*, Tencent!😊
 * ![](https://img.shields.io/badge/Jul.%202024-00FF00) My work about ***"Smart Guide Cane"*** was granted as an invention patent!
