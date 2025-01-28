@@ -11,7 +11,7 @@ Hi, I am Haoyang, a fourth-year undergraduate student in [the School of Cyberspa
 
 I am seeking <span style="color: red;">Research Assistant, Intern, or Visiting Student</span> positions available <span style="color: red;">from Feb. to Aug. 2025</span>, as well as <span style="color: red;">PhD or MPhil/MRes</span> opportunities starting in <span style="color: red;">Fall 2026 or Spring/Fall 2027</span>.🥺
 
-Here are my <a href="https://ALIENHHY.github.io/_pages/CV_Haoyang_Hu_NJUST.pdf" target="_blank">[CV-PDF]</a>, <a href="https://ALIENHHY.github.io/_pages/胡皓阳中文学术简历.pdf" target="_blank">[中文简历]</a> and <a href="https://ALIENHHY.github.io/_pages/Transcripts-Haoyang Hu.pdf" target="_blank">[Transcripts]</a>, last updated in January 2025.
+Here are my <a href="https://ALIENHHY.github.io/_pages/CV_Haoyang_Hu_NJUST.pdf" target="_blank">[CV-PDF]</a>, <a href="https://ALIENHHY.github.io/_pages/胡皓阳中文学术简历.pdf" target="_blank">[中文简历]</a> and <a href="https://ALIENHHY.github.io/_pages/Transcripts-Haoyang Hu.pdf" target="_blank">[Transcripts]</a>, last updated in January 2025.🤓
 
 🎇 Research Interests
 ---
