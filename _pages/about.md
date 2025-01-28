@@ -42,7 +42,7 @@ As an undergraduate student, I am still actively exploring and shaping my resear
 ---
 * ![](https://img.shields.io/badge/Nov.%202024%20--%20Current-000000) Co-founder, Nanjing Nebulorix Co., Ltd.
 * ![](https://img.shields.io/badge/Sep.%202024%20--%20Dec.%202024-000000) Intern, *ESG Coordination Office (ECO Lab)*, Tencent <img src="https://ALIENHHY.github.io/_pages/Tencent.png" align="center" style="vertical-align: middle; width: 100px;"> <a href="https://alienhhy.github.io/internships/" target="_blank">[Link]</a>
-* ![](https://img.shields.io/badge/Jan.%202024%20--%20Feb.%202024-000000) Intern, *Cloud Network Maintenance Center*, China Telecom <img src="https://ALIENHHY.github.io/_pages/China Telecom.jpg" align="center" style="vertical-align: middle; width: 60px;">
+* ![](https://img.shields.io/badge/Jan.%202024%20--%20Feb.%202024-000000) Intern, *Cloud Network Maintenance Center*, China Telecom <img src="https://ALIENHHY.github.io/_pages/China Telecom.jpg" align="center" style="vertical-align: middle; width: 70px;">
 * ![](https://img.shields.io/badge/Jul.%202023%20--%20Aug.%202023-000000) Intern, *Judicial Appraisal Institute*, CINGHOO <img src="https://ALIENHHY.github.io/_pages/CINGHOO.png" align="center" style="vertical-align: middle; width: 120px;">
 * ![](https://img.shields.io/badge/Jul.%202022%20--%20Aug.%202022-000000) Intern, *DarkArmor Lab*, MoreSec <img src="https://ALIENHHY.github.io/_pages/MoreSec.png" align="center" style="vertical-align: middle; width: 80px;">
 
