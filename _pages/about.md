@@ -13,7 +13,7 @@ I am seeking <span style="color: red;">Research Assistant, Intern, or Visiting S
 
 Here are my <a href="https://ALIENHHY.github.io/_pages/CV_Haoyang_Hu_NJUST.pdf" target="_blank">[CV-PDF]</a>, <a href="https://ALIENHHY.github.io/_pages/胡皓阳中文学术简历.pdf" target="_blank">[中文简历]</a> and <a href="https://ALIENHHY.github.io/_pages/Transcripts-Haoyang Hu.pdf" target="_blank">[Transcripts]</a>, last updated in January 2025.
 
-Research Interests
+🎇 Research Interests
 ---
 * **Trustworthy AI:** Particularly focus on the security of LLMs, like jailbreaking attacks.
 * **AI for Everything:** Exploring data-driven methods to enhance decision-making processes.
@@ -25,7 +25,7 @@ As an undergraduate student, I am still actively exploring and shaping my resear
 
 <span style="color: blue;">While I am still in the early stages of gaining a deeper understanding of these fields, I am confident in my abilities and deeply passionate about broadening my expertise.</span>
 
-News
+📢 News
 ---
 * ![](https://img.shields.io/badge/Jan.%202025-00FF00) I received an offer of *MSc. CIE* from CUHKSZ<img src="https://ALIENHHY.github.io/_pages/CUHKSZ.png" align="center" style="vertical-align: middle; width: 19px;">, with a scholarship of RMB 30,000!
 * ![](https://img.shields.io/badge/Jan.%202025-00FF00) I accepted the offer from HKU, thanks to everyone!😘 **<span style="color: red;">See you in Hong Kong!</span>**🤗
@@ -38,7 +38,7 @@ News
 * ![](https://img.shields.io/badge/Sep.%202024-00FF00) I started my internship at *ESG Coordination Office (ECO Lab)*, Tencent!😊
 * ![](https://img.shields.io/badge/Jul.%202024-00FF00) My work about ***"Smart Guide Cane"*** was granted as an invention patent!
 
-Experiences
+📽 Experiences
 ---
 * ![](https://img.shields.io/badge/Nov.%202024%20--%20Current-000000) Co-founder, Nanjing Nebulorix Co., Ltd.
 * ![](https://img.shields.io/badge/Sep.%202024%20--%20Dec.%202024-000000) Intern, *ESG Coordination Office (ECO Lab)*, Tencent <img src="https://ALIENHHY.github.io/_pages/Tencent.png" align="center" style="vertical-align: middle; width: 19px;"> <a href="https://alienhhy.github.io/internships/" target="_blank">[Link]</a>
