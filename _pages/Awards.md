@@ -15,7 +15,7 @@ Competitions (Selected Awards)
 ---
 * ![](https://img.shields.io/badge/Dec.%202023-Online-blue) **First Prize** at *National College Student Data Analysis Competition*
 * ![](https://img.shields.io/badge/Nov.%202023-Urumqi,%20China-blue) **Third Prize** at *National Cryptography Technology Competition*
-* ![](https://img.shields.io/badge/Jun.%202023-Online-blue) **Third Prize** at *“TIPDM CUP” Data Mining Challenge*
+* ![](https://img.shields.io/badge/Jun.%202023-Online-blue) **Third Prize** at *“TIPDM CUP” National Data Mining Challenge*
 
 
 School Honours
