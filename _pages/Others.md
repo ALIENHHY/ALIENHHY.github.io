@@ -29,6 +29,10 @@ I co-founded *Nanjing Nebulorix Co., Ltd.* with my friends, looking forward to b
 🤖 Robotics
 ---
 * I have participated in 8 seasons of VEX-EDR (now known as [VEX-V5](https://www.vexrobotics.com/v5)) robotics competitions since elementary school.
+<figure style="text-align: center;">
+  <img src="https://ALIENHHY.github.io/_pages/VEX-World.png" alt="VEX-World" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <figcaption>The cities I've visited for competitions</figcaption>
+</figure>
   * The cities I've visited for competitions:
     * ![](https://img.shields.io/badge/2011-0000FF) Ningbo
     * ![](https://img.shields.io/badge/2012-0000FF) Mianyang and Suzhou
@@ -59,5 +63,3 @@ I co-founded *Nanjing Nebulorix Co., Ltd.* with my friends, looking forward to b
   * Team Member
 * ![](https://img.shields.io/badge/2022%20&%202023-A020F0) Summer Social Practice Activity (Provincial Core Project)
   * Team Leader
-
-![Asia-Pacific Robotics Championship](https://ALIENHHY.github.io/_pages/VEX-World.html)
