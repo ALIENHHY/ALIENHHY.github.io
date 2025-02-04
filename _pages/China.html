@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>旅行足迹地图</title>
+  <!-- 引入 ECharts 和 jQuery -->
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5.3.1/dist/echarts.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+</head>
+<body id="page">
+  <!-- 定义地图容器尺寸 -->
+  <div id="main" style="width:2000px; height:1200px;"></div>
+  <script type="text/javascript">
+    // 定义两套配色方案
+    let blackStyle = [
+      "#343233",  // （原用于背景和省份颜色，不再直接使用）
+      "#2be4f3",  // 省份边界线颜色
+      "#5aae5c",  // 点亮省份的颜色（高亮颜色）
+      "#fff",     // 标签字体的颜色
+      "#ffff00"   // 城市圆点的颜色
+    ];
+    let grayStyle = [
+      "#dedfde",  // 原本作为背景色
+      "#6e6e6d",  // 省份边界线颜色
+      "#d5e5f1",  // 点亮省份的颜色
+      "#000",     // 标签字体的颜色
+      "#fe7e3a",  // 城市圆点的颜色
+    ];
+    
+    // 选择使用灰色风格
+    let style = grayStyle;
+    
+    // 定义单独的背景和省份填充颜色（使二者区分开）
+    let pageBackgroundColor = "#dedfde";  // 整个页面背景色
+    let provinceFillColor   = "#ffffff";  // 省份的默认填充色（与背景区分）
+    
+    // 设置页面背景颜色
+    document.getElementById("page").style.background = pageBackgroundColor;
+    
+    // 初始化 ECharts 实例
+    var myChart = echarts.init(document.getElementById('main'));
+    myChart.showLoading();
+    
+    // 加载中国地图 GeoJSON 数据
+    $.get('https://geo.datav.aliyun.com/areas_v3/bound/100000_full.json', function (geoJson) {
+      myChart.hideLoading();
+      echarts.registerMap('china', geoJson);
+      myChart.setOption({
+        title: {
+          text: '旅行足迹'
+        },
+        geo: {
+          name: '旅行足迹',
+          type: 'map',
+          map: 'china',
+          selectedMode: 'multiple',
+          zoom: 1,
+          roam: true,
+          animation: false,
+          // 配置省份样式：边界线及填充色
+          itemStyle: {
+            normal: {
+              borderWidth: 1,              // 省份边界线宽度
+              borderColor: style[1],         // 省份边界线颜色
+              areaColor: provinceFillColor   // 省份填充颜色（与页面背景不同）
+            }
+          },
+          // 设置省份标签：默认不显示，鼠标经过时显示
+          label: {
+            normal: {
+              show: false
+            },
+            emphasis: {
+              show: true
+            }
+          },
+          // 指定需要高亮显示（填充为点亮颜色）的省份
+          regions: [
+            { name: ["北京市"], itemStyle: { normal: { areaColor: style[2] } } },
+            { name: ["陕西省"], itemStyle: { normal: { areaColor: style[2] } } },
+            { name: ["四川省"], itemStyle: { normal: { areaColor: style[2] } } },
+            { name: ["上海市"], itemStyle: { normal: { areaColor: style[2] } } },
+            { name: ["广东省"], itemStyle: { normal: { areaColor: style[2] } } },
+            { name: ["浙江省"], itemStyle: { normal: { areaColor: style[2] } } },
+            { name: ["山东省"], itemStyle: { normal: { areaColor: style[2] } } },
+            { name: ["江苏省"], itemStyle: { normal: { areaColor: style[2] } } },
+            { name: ["香港特别行政区"], itemStyle: { normal: { areaColor: style[2] } } }
+          ]
+        },
+        series: {
+          name: '标记点',
+          type: 'scatter',
+          coordinateSystem: 'geo',
+          // 定义各城市的经纬度数据
+          data: [
+            { name: '北京', value: [116.40, 39.90] },
+            { name: '上海', value: [121.473701, 31.230416] },
+            { name: '深圳', value: [114.057868, 22.543099] },
+            { name: '香港', value: [114.173355, 22.320048] },
+            { name: '威海', value: [122.1152, 37.5125] },
+            { name: '宁波', value: [121.549792, 29.868388] },
+            { name: '嘉兴', value: [120.755486, 30.746129] },
+            { name: '绵阳', value: [104.679114, 31.467450] },
+            { name: '济南', value: [117.000923, 36.675807] },
+            { name: '苏州', value: [120.619585, 31.299379] },
+            { name: '东莞', value: [113.760234, 23.048884] },
+            { name: '杭州', value: [120.153576, 30.287459] },
+            { name: '西安', value: [108.948024, 34.263161] }
+          ],
+          symbolSize: 5,
+          // 配置城市标签：默认不显示，鼠标经过时显示
+          label: {
+            normal: {
+              show: false,  // 平时不显示标签
+              formatter: '{b}',
+              position: 'bottom',
+              color: style[3],
+              fontSize: 12,
+              fontWeight: 'bold',
+              fontFamily: 'sans-serif'
+            },
+            emphasis: {
+              show: true  // 鼠标经过时显示标签
+            }
+          },
+          itemStyle: {
+            color: style[4],   // 城市标记点的颜色
+            borderWidth: 2,    // 标记点边框宽度
+            borderColor: style[4]  // 标记点边框颜色
+          }
+        }
+      });
+    });
+    
+    // 点击地图时在控制台打印对应数据
+    myChart.on('click', function (params) {
+      console.log(params);
+    });
+  </script>
+</body>
+</html>
