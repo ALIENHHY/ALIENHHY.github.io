@@ -60,4 +60,4 @@ I co-founded *Nanjing Nebulorix Co., Ltd.* with my friends, looking forward to b
 * ![](https://img.shields.io/badge/2022%20&%202023-A020F0) Summer Social Practice Activity (Provincial Core Project)
   * Team Leader
 
-![Asia-Pacific Robotics Championship](https://ALIENHHY.github.io/_pages/China.html)
+![Asia-Pacific Robotics Championship](https://ALIENHHY.github.io/_pages/VEX-World.html)
