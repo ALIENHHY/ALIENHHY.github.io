@@ -42,7 +42,7 @@ I co-founded *Nanjing Nebulorix Co., Ltd.* with my friends, looking forward to b
     <img src="https://ALIENHHY.github.io/_pages/VEX-China.png" alt="VEX-China" style="height: 300px; width: auto;">
   </div>
   <figcaption style="text-align: center;">
-    * The cities I've visited for competitions, created using the tool: @<a href="https://github.com/ALIENHHY/MAP-DIY" target="_blank">MAP-DIY</a>.
+    * The cities I've visited for competitions, created using the tool: @<a href="https://github.com/ALIENHHY/MAP-DIY" target="_blank">FootPrinter</a>.
   </figcaption>
 </figure>
 
