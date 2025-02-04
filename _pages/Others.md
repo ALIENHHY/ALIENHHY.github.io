@@ -28,18 +28,17 @@ I co-founded *Nanjing Nebulorix Co., Ltd.* with my friends, looking forward to b
 
 🤖 Robotics
 ---
-* I have participated in 8 seasons of VEX-EDR (now known as [VEX-V5](https://www.vexrobotics.com/v5)) robotics competitions since elementary school.
-  * Selected awards:
-    * ![](https://img.shields.io/badge/2018-Beijing,%20China-blue) **First Prize 🏆** at *RoboCom World Robotics Competition Final*.
-    * ![](https://img.shields.io/badge/2018-Beijing,%20China-blue) **Second Runner-up 🥉** at *RoboCom World Robotics Competition Final*.
-    * ![](https://img.shields.io/badge/2016-Xi'an,%20China-blue) **Runner-up 🥈** at *National VEX Robotics Engineering Challenge*.
-    * ![](https://img.shields.io/badge/2016-Louisville,%20USA-blue) **Glod Award 🏆** at *VEX World Championship*.
-    * ![](https://img.shields.io/badge/2015-Melbourne,%20Australia-blue) **Glod Award 🏆** at *Asia-Pacific Robotics Championship*.
-    * ![](https://img.shields.io/badge/2015-Weihai,%20China-blue) **Champion 🥇** at *National VEX Robotics Engineering Challenge*.
-    * ![](https://img.shields.io/badge/2015-Weihai,%20China-blue) **First Prize 🏆** at *National VEX Robotics Engineering Challenge*.
+* I have participated in 8 seasons of VEX-EDR (now known as [VEX-V5](https://www.vexrobotics.com/v5)) robotics competitions since elementary school, selected awards:
+  * ![](https://img.shields.io/badge/2018-Beijing,%20China-blue) **First Prize 🏆** at *RoboCom World Robotics Competition Final*.
+  * ![](https://img.shields.io/badge/2018-Beijing,%20China-blue) **Second Runner-up 🥉** at *RoboCom World Robotics Competition Final*.
+  * ![](https://img.shields.io/badge/2016-Xi'an,%20China-blue) **Runner-up 🥈** at *National VEX Robotics Engineering Challenge*.
+  * ![](https://img.shields.io/badge/2016-Louisville,%20USA-blue) **Glod Award 🏆** at *VEX World Championship*.
+  * ![](https://img.shields.io/badge/2015-Melbourne,%20Australia-blue) **Glod Award 🏆** at *Asia-Pacific Robotics Championship*.
+  * ![](https://img.shields.io/badge/2015-Weihai,%20China-blue) **Champion 🥇** at *National VEX Robotics Engineering Challenge*.
+  * ![](https://img.shields.io/badge/2015-Weihai,%20China-blue) **First Prize 🏆** at *National VEX Robotics Engineering Challenge*.
 <figure style="text-align: center;">
   <img src="https://ALIENHHY.github.io/_pages/VEX-World.png" alt="VEX-World" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption>The cities I've visited for competitions, created using the tool @ </figcaption>
+  <figcaption style="text-align: center;">\* The cities I've visited for competitions, created using the tool @ </figcaption>
 </figure>
 
 🌠 Students’ Activities
