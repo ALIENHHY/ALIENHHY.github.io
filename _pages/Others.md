@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Beyond Works & Studies"
-permalink: /other/
+permalink: /panorama/
 author_profile: true
 redirect_from:
   - /resume
