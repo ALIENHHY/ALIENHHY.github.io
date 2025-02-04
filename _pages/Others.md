@@ -37,8 +37,7 @@ I co-founded *Nanjing Nebulorix Co., Ltd.* with my friends, looking forward to b
   * ![](https://img.shields.io/badge/2015-Weihai,%20China-blue) **Champion 🥇** at *National VEX Robotics Engineering Challenge*.
   * ![](https://img.shields.io/badge/2015-Weihai,%20China-blue) **First Prize 🏆** at *National VEX Robotics Engineering Challenge*.
 <figure style="text-align: center;">
-  <img src="https://ALIENHHY.github.io/_pages/VEX-World.png" align="center" alt="VEX-World" style="vertical-align: middle; width: 500px;">
-  <img src="https://ALIENHHY.github.io/_pages/VEX-China.png" align="center" alt="VEX-China" style="vertical-align: middle; width: 500px;">
+  <img src="https://ALIENHHY.github.io/_pages/VEX-World.png" align="center" alt="VEX-World" style="vertical-align: middle; width: 500px;"><img src="https://ALIENHHY.github.io/_pages/VEX-China.png" align="center" alt="VEX-China" style="vertical-align: middle; width: 500px;">
   <figcaption style="text-align: center;">* The cities I've visited for competitions, created using the tool: <a href="https://github.com/ALIENHHY/MAP-DIY" target="_blank">@ MAP-DIY</a>.</figcaption>
 </figure>
 
