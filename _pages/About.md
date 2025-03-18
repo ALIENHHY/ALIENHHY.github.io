@@ -16,7 +16,7 @@ redirect_from:
 
 🎇 Research Interests
 ---
-* **Large Language Model:** Especially LLMs applications, optimization and security.
+* **Large Language Model:** Especially LLMs application, optimization and security.
 * **Machine Learning:** Particularly focus on its application and optimization.
 
 As an undergraduate student, I am still actively exploring and shaping my research interests. My past research experience spans projects in ***computer vision***, ***cryptography*** and ***federated learning***, all of which I find deeply fascinating too.
