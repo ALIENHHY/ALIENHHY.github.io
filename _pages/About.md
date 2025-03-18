@@ -16,11 +16,10 @@ redirect_from:
 
 🎇 Research Interests
 ---
-* **Trustworthy AI:** Particularly focus on the security of LLMs and its applications.
-* **AI for Everything:** Exploring data-driven methods to enhance decision-making processes.
-* **Intelligent Robotics:** I have won Gold Award at the VEX Robotics World Championship.
+* **Large Language Model:** Especially LLMs applications, optimization and security.
+* **Machine Learning:** Particularly focus on its application and optimization.
 
-As an undergraduate student, I am still actively exploring and shaping my research interests. My past research experience spans projects in ***machine learning***, ***computer vision***, ***cryptography*** and ***federated learning***, all of which I find deeply fascinating too.
+As an undergraduate student, I am still actively exploring and shaping my research interests. My past research experience spans projects in ***computer vision***, ***cryptography*** and ***federated learning***, all of which I find deeply fascinating too.
 
 [//]: # (Currently, I am leading a project on ***the security of LLMs***, developing a black-box jailbreaking attack toolkit, which is also my graduation thesis. I am also contributing to a project on ***AI application in the pharmaceutical industry***, which is nearing implementation.)
 
