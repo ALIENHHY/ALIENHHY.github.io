@@ -18,6 +18,7 @@ redirect_from:
 ---
 * **Large Language Model:** Particularly focus on its application, optimization and security.
 * **Machine Learning:** Exploring data-driven methods to enhance decision-making processes.
+* **Intelligent Robotics:** I have won Gold Award at the VEX Robotics World Championship.
 
 As an undergraduate student, I am still actively exploring and shaping my research interests. My past research experience spans projects in ***computer vision***, ***cryptography*** and ***federated learning***, all of which I find deeply fascinating too.
 
