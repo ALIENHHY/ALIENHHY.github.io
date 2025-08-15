@@ -7,18 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi, I am Haoyang, a fourth-year undergraduate student in [the School of Cyberspace Security](https://scs.njust.edu.cn/) at Nanjing University of Science and Technology [<img src="https://ALIENHHY.github.io/_pages/NJUST.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.njust.edu.cn/), where I am fortunate to be supervised by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [*Dr. Shuangquan Zhang*](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp). Previously, I had a wonderful time at [<img src="https://ALIENHHY.github.io/_pages/Tencent.png" align="center" style="vertical-align: middle; width: 100px;">](https://www.tencent.com/zh-cn/) mentored by senior expert *Elmer Peng*. Starting Sept. 2025, I will pursue my Master's degree in [the Department of Computer Science](https://www.cs.hku.hk/) at the University of Hong Kong [<img src="https://ALIENHHY.github.io/_pages/HKU.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.hku.hk/), see you in <img src="https://ALIENHHY.github.io/_pages/Hong Kong.png" align="center" style="vertical-align: middle; width: 25px;">!
+👋 Hi, I am Haoyang, a master student at [the Department of Computer Science](https://www.cs.hku.hk/), the University of Hong Kong [<img src="https://ALIENHHY.github.io/_pages/HKU.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.hku.hk/) as well as a visiting student at NJU-PR group, Nanjing University [<img src="https://ALIENHHY.github.io/_pages/NJU.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.nju.edu.cn/) supervised by [*Prof. Yueming Lyu*](https://yueming6568.github.io/) and [*Dr. Yi Liu*](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate). Before that, I obtained my B.Eng degree at [the School of Cyber Science and Engineering](https://scs.njust.edu.cn/), Nanjing University of Science and Technology [<img src="https://ALIENHHY.github.io/_pages/NJUST.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.njust.edu.cn/) supervised by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [*Dr. Shuangquan Zhang*](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp). In addition, I had a wonderful time at ECO, [<img src="https://ALIENHHY.github.io/_pages/Tencent.png" align="center" style="vertical-align: middle; width: 100px;">](https://www.tencent.com/zh-cn/) mentored by senior expert *Elmer Peng* to explore AI governance.
 
-📣 I am seeking a position as <span style="color: red;">RA, Intern or Visiting Student from Feb. to Aug. 2025</span>, as well as <span style="color: red;">PhD or MPhil/MRes</span> opportunities starting in <span style="color: red;">Fall 2026 or Spring/Fall 2027</span>.🥺
+📣 I am seeking a position as <span style="color: red;">RA, Intern or Visiting Student from Sep. 2025 to Nov. 2026</span>, as well as <span style="color: red;">PhD</span> opportunities starting in <span style="color: red;">Fall 2026 or Spring/Fall 2027</span>.🥺
 
   
-📌 Here are my <a href="https://ALIENHHY.github.io/_pages/CV_Haoyang_Hu_NJUST.pdf" target="_blank">[CV-PDF]</a> and <a href="https://ALIENHHY.github.io/_pages/胡皓阳中文学术简历.pdf" target="_blank">[中文简历]</a> for your reference, last updated in Jan. 2025.🤩
+📌 Here are my <a href="https://www.overleaf.com/read/cccdwmtnrkqv#2e6b5c" target="_blank">[CV-PDF]</a> and <a href="https://www.overleaf.com/read/nfwvytrpdgyf#bf0c70" target="_blank">[中文简历]</a> for your reference, last updated in Jan. 2025.🤩
 
 🎇 Research Interests
 ---
-* **Large Language Model:** Particularly focus on its application, optimization and security.
-* **Machine Learning:** Exploring data-driven methods to enhance decision-making processes.
-* **Intelligent Robotics:** I have won Gold Award at the VEX Robotics World Championship.
+* **Trustworthy LLM:** Exploring data-driven methods to enhance decision-making processes.
+* **LLM Application:** LLM4Interview
+* **AI for Security:** I have won Gold Award at the VEX Robotics World Championship.
 
 As an undergraduate student, I am still actively exploring and shaping my research interests. My past research experience also spans projects in ***AI Governance***, ***Cryptography***, ***Computer Vision*** and ***Federated Learning***, all of which I find deeply fascinating too.
 
