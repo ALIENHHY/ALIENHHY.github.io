@@ -8,9 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-*\* : Equal contribution.*
-
-*† : Coresponding Author.*
+*\* : Equal contribution. &nbsp;&nbsp;&nbsp; † : Coresponding Author.*
 
 Conference Papers
 ---
