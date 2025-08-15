@@ -33,7 +33,7 @@ I am still actively exploring other interests, my past experience spans in ***AI
 * ![](https://img.shields.io/badge/Jun.%202025-00FF00) My undergraduate thesis passed and was rated as ***Excellent***!
 * ![](https://img.shields.io/badge/Jan.%202025-00FF00) I received an offer of *MSc. CIE* from CUHKSZ [<img src="https://ALIENHHY.github.io/_pages/CUHKSZ.png" align="center" style="vertical-align: middle; width: 25px;">](https://sse.cuhk.edu.cn/en/page/1727), with a scholarship of RMB 30,000!
 * ![](https://img.shields.io/badge/Jan.%202025-00FF00) I accepted the offer from HKU, thanks to everyone!😘 **<span style="color: red;">See you in Hong Kong!</span>**🤗
-* ![](https://img.shields.io/badge/Dec.%202024-00FF00) I completed my internship at Tencent, thanks to my mentor, thanks to everyone!😘
+* ![](https://img.shields.io/badge/Dec.%202024-00FF00) I completed my internship at Tencent, thanks to my mentor, thanks to everyone!
 * ![](https://img.shields.io/badge/Sep.%202024-00FF00) Our work about ***"IDS"*** was accepted by the CyberSciTech 2024!
 * ![](https://img.shields.io/badge/Sep.%202024-00FF00) I started my internship at *ESG Coordination Office (ECO Lab)*, Tencent!😊
 * ![](https://img.shields.io/badge/Jul.%202024-00FF00) My work about ***"Smart Guide Cane"*** was granted as an invention patent!
