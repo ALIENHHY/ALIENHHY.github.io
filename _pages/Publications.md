@@ -18,7 +18,7 @@ Conference Papers
 
 [2] Yican Geng\*, **Haoyang Hu\***, Zhaoxuan Ge and Zhichao Lian. *"Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization."* In the 2024 IEEE Cyber Science and Technology Congress (CyberSciTech 2024) <a href="https://ieeexplore.ieee.org/abstract/document/10795674" target="_blank">[paper]</a> [code]
 
-Journal Articles
+Journal Papers
 ---
 *Waiting...*
 
