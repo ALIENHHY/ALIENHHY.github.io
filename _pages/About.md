@@ -63,7 +63,7 @@ Currently, I am leading a project on ***the security of LLMs***, developing a bl
   * Supervisor: [Prof. Yueming Lyu](https://yueming6568.github.io/) and [Dr. Yi Liu](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate)
   * Research: LLM security, particularly focus on privacy issues in RAG systems.
 
-* B.Eng, [School of Cyber Science and Engineering](https://scs.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/)
+* B.Eng in Cyber Science and Engineering, [Nanjing University of Science and Technology](https://www.njust.edu.cn/)
   * Sep. 2021 - June. 2025
   * Supervisor: [Prof. Zhichao Lian](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [Dr. Shuangquan Zhang](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp)
   * GPA: 85.63/100 (ranked 6/70, top 10%)
