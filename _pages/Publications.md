@@ -8,15 +8,21 @@ redirect_from:
 
 {% include base_path %}
 
-*\* : These authors contributed equally to this work.*
+*\* : Equal contribution.        \† : Coresponding Author.*
 
 Conference Papers
 ---
-[1] Yican Geng\*, **Haoyang Hu\***, Zhaoxuan Ge and Zhichao Lian. *"Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization."* 2024 IEEE Cyber Science and Technology Congress (CyberSciTech), 2024. DOI: 10.1109/CyberSciTech64112.2024.00021. <a href="https://ALIENHHY.github.io/_pages/CyberSciTech2024.pdf" target="_blank">[PDF]</a>
+[1] Shiwen Liu, Xu Dong, **Haoyang Hu\†**, Di Wu\†. *"MirrorMind: A Dual-Agent AI Interview Simulator Powered by LLMs."* In the 21st International Conference on Advanced Data Mining and Applications 2025 (ADMA 2025). <a href="" target="_blank">[paper]</a> <a href="" target="_blank">[code]</a>
+
+[2] Yican Geng\*, **Haoyang Hu\***, Zhaoxuan Ge and Zhichao Lian. *"Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization."* In the 2024 IEEE Cyber Science and Technology Congress (CyberSciTech 2024) <a href="https://ALIENHHY.github.io/_pages/CyberSciTech2024.pdf" target="_blank">[paper]</a> <a href="" target="_blank">[code]</a>
 
 Journal Articles
 ---
 *Waiting...*
+
+Preprints
+---
+[1] **Haoyang Hu\***, Xun Huang\*, Chenyu Wu, Shiwen Liu, Zhichao Lian, Shuangquan Zhang. *"BERTector: Intrusion Detection Based on Joint-Dataset Learning."* arXiv.2508.10327. <a href="https://arxiv.org/abs/2508.10327" target="_blank">[paper]</a> <a href="" target="_blank">[code]</a>
 
 Patents
 ---
