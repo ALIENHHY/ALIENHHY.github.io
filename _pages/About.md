@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+👋 Hi, I am Haoyang, currently a master student at [the Department of Computer Science](https://www.cs.hku.hk/), the University of Hong Kong [<img src="https://ALIENHHY.github.io/_pages/HKU.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.hku.hk/). Before that, I obtained my B.Eng degree at [the School of Cyber Science and Engineering](https://scs.njust.edu.cn/), Nanjing University of Science and Technology [<img src="https://ALIENHHY.github.io/_pages/NJUST.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.njust.edu.cn/) supervised by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [*Dr. Shuangquan Zhang*](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp). In addition, I had wonderful time at ECO, Tencent and NJU-PR group, NJU.
+
+<!--
 👋 Hi, I am Haoyang, currently a master student at [the Department of Computer Science](https://www.cs.hku.hk/), the University of Hong Kong [<img src="https://ALIENHHY.github.io/_pages/HKU.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.hku.hk/), as well as a visiting student at NJU-PR group, Nanjing University [<img src="https://ALIENHHY.github.io/_pages/NJU.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.nju.edu.cn/) supervised by [*Prof. Yueming Lyu*](https://yueming6568.github.io/) and [*Dr. Yi Liu*](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate). Before that, I obtained my B.Eng degree at [the School of Cyber Science and Engineering](https://scs.njust.edu.cn/), Nanjing University of Science and Technology [<img src="https://ALIENHHY.github.io/_pages/NJUST.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.njust.edu.cn/) supervised by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [*Dr. Shuangquan Zhang*](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp). In addition, I had a wonderful time at ECO, Tencent [<img src="https://ALIENHHY.github.io/_pages/Tencent.png" align="center" style="vertical-align: middle; width: 100px;">](https://www.tencent.com/zh-cn/) mentored by senior expert *Elmer Peng* exploring AI governance.
+-->
 
 📣 I am seeking a position as <span style="color: red;">RA, Intern or Visiting Student from Sep. 2025 to Nov. 2026</span>, as well as <span style="color: red;">PhD</span> opportunities starting in <span style="color: red;">Fall 2026 or Spring/Fall 2027</span>.🥺
 
@@ -26,7 +30,7 @@ I am still actively exploring other interests, my past experience spans in ***AI
 
 <span style="color: blue;">While I am still in the early stages of gaining a deeper understanding of these fields, I am confident in my abilities and deeply passionate about broadening my expertise.</span>
 
-📢 News
+🎉 News
 ---
 * ![](https://img.shields.io/badge/Aug.%202025-00FF00) Our work ***"MirrorMind"*** was accepted by the ADMA 2025!
 * ![](https://img.shields.io/badge/Jun.%202025-00FF00) I graduated from NJUST, and was honored with ***Outstanding Graduate***!
@@ -46,14 +50,32 @@ I am still actively exploring other interests, my past experience spans in ***AI
 * ![](https://img.shields.io/badge/Nov.%202024-00FF00) I presented our work at the CyberSciTech 2024 conference!
 -->
 
-🎥 Experiences <a href="https://alienhhy.github.io/internships/" target="_blank" style="text-decoration: none; font-size: smaller;">🔗</a>
+
+🏫 Education
+---
+* M.Sc in Computer Science, [Department of Computer Science](https://www.cs.hku.hk/), [the University of Hong Kong](https://www.hku.hk/)
+  * Sep. 2025 - Current
+
+* Visiting Student, PR-group, [Nanjing University](https://www.nju.edu.cn/)
+  * Mar. 2025 - Current
+  * Supervisor: [Prof. Yueming Lyu](https://yueming6568.github.io/) and [Dr. Yi Liu](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate)
+  * Research: LLM security, particularly focus on privacy issues in RAG systems.
+
+* B.Eng, [School of Cyber Science and Engineering](https://scs.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/)
+  * Sep. 2021 - June. 2025
+  * Supervisor: [Prof. Zhichao Lian](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [Dr. Shuangquan Zhang](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp)
+  * GPA: 85.63/100 (ranked 6/70, top 10%)
+
+🏢 Internship <a href="https://alienhhy.github.io/internships/" target="_blank" style="text-decoration: none; font-size: smaller;">🔗</a>
 ---
 
-<!--* ![](https://img.shields.io/badge/Nov.%202024%20--%20Current-000000) Co-founder, Nanjing Nebulorix Co., Ltd.)-->
-
+<!--
+* ![](https://img.shields.io/badge/Nov.%202024%20--%20Current-000000) Co-founder, Nanjing Nebulorix Co., Ltd.)
 * ![](https://img.shields.io/badge/Sep.%202025%20--%20Current-000000) M.Sc., Department of Computer Science, HKU [<img src="https://ALIENHHY.github.io/_pages/HKU.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.njust.edu.cn/)
-* ![](https://img.shields.io/badge/Mar.%202025%20--%20Current-000000) Visiting Student, PR-group, NJU [<img src="https://ALIENHHY.github.io/_pages/NJU.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.nju.edu.cn/)
 * ![](https://img.shields.io/badge/Sep.%202021%20--%20Apr.%202025-000000) B.Eng., School of Cyberspace Security, NJUST [<img src="https://ALIENHHY.github.io/_pages/NJUST.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.njust.edu.cn/)
+-->
+
+* ![](https://img.shields.io/badge/Mar.%202025%20--%20Current-000000) Visiting Student, PR-group, NJU [<img src="https://ALIENHHY.github.io/_pages/NJU.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.nju.edu.cn/)
 * ![](https://img.shields.io/badge/Sept.%202024%20--%20Dec.%202024-000000) Intern, *ESG Coordination Office (ECO Lab)*, Tencent [<img src="https://ALIENHHY.github.io/_pages/Tencent.png" align="center" style="vertical-align: middle; width: 100px;">](https://www.tencent.com/zh-cn/)
 * ![](https://img.shields.io/badge/Jan.%202024%20--%20Feb.%202024-000000) Intern, *Cloud Network Maintenance Center*, China Telecom [<img src="https://ALIENHHY.github.io/_pages/China Telecom.jpg" align="center" style="vertical-align: middle; width: 70px;">](http://www.chinatelecom.com.cn/)
 * ![](https://img.shields.io/badge/Jul.%202023%20--%20Aug.%202023-000000) Intern, *Judicial Appraisal Institute*, CINGHOO [<img src="https://ALIENHHY.github.io/_pages/CINGHOO.png" align="center" style="vertical-align: middle; width: 120px;">](http://www.cinghoo.com/)
