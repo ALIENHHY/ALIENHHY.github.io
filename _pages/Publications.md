@@ -8,11 +8,11 @@ redirect_from:
 
 {% include base_path %}
 
-*\* : Equal contribution.        \† : Coresponding Author.*
+*\* : Equal contribution.        † : Coresponding Author.*
 
 Conference Papers
 ---
-[1] Shiwen Liu, Xu Dong, **Haoyang Hu\†**, Di Wu\†. *"MirrorMind: A Dual-Agent AI Interview Simulator Powered by LLMs."* In the 21st International Conference on Advanced Data Mining and Applications 2025 (ADMA 2025). <a href="" target="_blank">[paper]</a> <a href="" target="_blank">[code]</a>
+[1] Shiwen Liu, Xu Dong, **Haoyang Hu†**, Di Wu†. *"MirrorMind: A Dual-Agent AI Interview Simulator Powered by LLMs."* In the 21st International Conference on Advanced Data Mining and Applications 2025 (ADMA 2025). <a href="" target="_blank">[paper]</a> <a href="" target="_blank">[code]</a>
 
 [2] Yican Geng\*, **Haoyang Hu\***, Zhaoxuan Ge and Zhichao Lian. *"Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization."* In the 2024 IEEE Cyber Science and Technology Congress (CyberSciTech 2024) <a href="https://ALIENHHY.github.io/_pages/CyberSciTech2024.pdf" target="_blank">[paper]</a> <a href="" target="_blank">[code]</a>
 
