@@ -55,7 +55,7 @@ Currently, I am leading a project on ***the security of LLMs***, developing a bl
 
 🏫 Education
 ---
-* M.Sc in Computer Science, [Department of Computer Science](https://www.cs.hku.hk/), [the University of Hong Kong](https://www.hku.hk/)
+* M.Sc in Computer Science, [the University of Hong Kong](https://www.hku.hk/)
   * Sep. 2025 - Current
 
 * Visiting Student, PR-group, [Nanjing University](https://www.nju.edu.cn/)
