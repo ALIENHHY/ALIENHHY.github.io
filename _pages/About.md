@@ -35,7 +35,7 @@ Currently, I am leading a project on ***the security of LLMs***, developing a bl
 News
 ---
 * ![](https://img.shields.io/badge/Aug.%202025-00FF00) Preprint of ***BERTector***, a joint-data learning method for IDS is released on arXiv!
-* ![](https://img.shields.io/badge/Aug.%202025-00FF00) Our work ***"MirrorMind"*** was accepted by the ADMA 2025!
+* ![](https://img.shields.io/badge/Aug.%202025-00FF00) Our work ***MirrorMind*** was accepted by the ADMA 2025!
 * ![](https://img.shields.io/badge/Jun.%202025-00FF00) I graduated from NJUST, and was honored with ***Outstanding Graduate***!
 * ![](https://img.shields.io/badge/Jun.%202025-00FF00) My undergraduate thesis passed and was rated as ***Excellent***!
 * ![](https://img.shields.io/badge/Jan.%202025-00FF00) I received an offer from CUHKSZ, with a ***scholarship of RMB 30,000***!
