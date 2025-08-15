@@ -21,20 +21,20 @@ Competitions (Selected Awards)
 School Honours
 ---
 * ![](https://img.shields.io/badge/Apr.%202025-FF0000) **Outstanding Graduates**, NJUST (4/70)
-* ![](https://img.shields.io/badge/Mar.%202025-FF0000) **First Prize** at *Outstanding Student Scholarship*, NJUST (Top 5%)
+* ![](https://img.shields.io/badge/Mar.%202025-FF0000) **First Prize** at *Outstanding Student Scholarship*, NJUST (top 5%)
 * ![](https://img.shields.io/badge/Mar.%202025-FF0000) **Success Scholarship**, NJUST
-* ![](https://img.shields.io/badge/Sep.%202024-FF0000) **First Prize** at *Outstanding Student Scholarship*, NJUST (Top 5%)
+* ![](https://img.shields.io/badge/Sep.%202024-FF0000) **First Prize** at *Outstanding Student Scholarship*, NJUST (top 5%)
 * ![](https://img.shields.io/badge/Sep.%202024-FF0000) **Success Scholarship**, NJUST
 * ![](https://img.shields.io/badge/Sep.%202024-FF0000) **Outstanding Class Cadre**, NJUST (2/70)
 * ![](https://img.shields.io/badge/Apr.%202024-FF0000) **Outstanding Reunion Branch Officer**, NJUST (1/70)
-* ![](https://img.shields.io/badge/Mar.%202024-FF0000) **First Prize** at *Outstanding Student Scholarship*, NJUST (Top 5%)
+* ![](https://img.shields.io/badge/Mar.%202024-FF0000) **First Prize** at *Outstanding Student Scholarship*, NJUST (top 5%)
 * ![](https://img.shields.io/badge/Mar.%202024-FF0000) **Beyond Scholarship**, NJUST
 * ![](https://img.shields.io/badge/Nov.%202023-FF0000) **Merit Student**, NJUST (6/70)
-* ![](https://img.shields.io/badge/Sep.%202023-FF0000) **Third Prize** at *Outstanding Student Scholarship*, NJUST (Top 30%)
-* ![](https://img.shields.io/badge/Mar.%202023-FF0000) **Third Prize** at *Outstanding Student Scholarship*, NJUST (Top 30%)
+* ![](https://img.shields.io/badge/Sep.%202023-FF0000) **Third Prize** at *Outstanding Student Scholarship*, NJUST (top 30%)
+* ![](https://img.shields.io/badge/Mar.%202023-FF0000) **Third Prize** at *Outstanding Student Scholarship*, NJUST (top 30%)
 * ![](https://img.shields.io/badge/Nov.%202022-FF0000) **Sports activists**, NJUST (1/70)
 * ![](https://img.shields.io/badge/Nov.%202022-FF0000) **Runner-up** at *Badminton Team Championships 2022*, NJUST
-* ![](https://img.shields.io/badge/Sep.%202022-FF0000) **Third Prize** at *Outstanding Student Scholarship*, NJUST (Top 30%)
+* ![](https://img.shields.io/badge/Sep.%202022-FF0000) **Third Prize** at *Outstanding Student Scholarship*, NJUST (top 30%)
 
 
 Certifications
