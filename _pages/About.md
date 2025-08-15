@@ -34,11 +34,11 @@ Currently, I am leading a project on ***the security of LLMs***, developing a bl
 
 News
 ---
-* ![](https://img.shields.io/badge/Aug.%202025-00FF00) A preprint on joint-data learning for IDS is released on arXiv!
+* ![](https://img.shields.io/badge/Aug.%202025-00FF00) A preprint on joint-data learning for IDS ***BERTector*** is released on arXiv!
 * ![](https://img.shields.io/badge/Aug.%202025-00FF00) Our work ***"MirrorMind"*** was accepted by the ADMA 2025!
 * ![](https://img.shields.io/badge/Jun.%202025-00FF00) I graduated from NJUST, and was honored with ***Outstanding Graduate***!
 * ![](https://img.shields.io/badge/Jun.%202025-00FF00) My undergraduate thesis passed and was rated as ***Excellent***!
-* ![](https://img.shields.io/badge/Jan.%202025-00FF00) I received an offer of *MSc. CIE* from CUHKSZ, with a ***scholarship of RMB 30,000***!
+* ![](https://img.shields.io/badge/Jan.%202025-00FF00) I received an offer from CUHKSZ, with a ***scholarship of RMB 30,000***!
 * ![](https://img.shields.io/badge/Jan.%202025-00FF00) I accepted the offer from HKU, thanks to everyone! **<span style="color: red;">See you in Hong Kong!</span>**
 * ![](https://img.shields.io/badge/Dec.%202024-00FF00) I completed my internship at Tencent, thanks to my mentor, thanks to everyone!
 * ![](https://img.shields.io/badge/Sep.%202024-00FF00) Our work about ***"IDS"*** was accepted by the CyberSciTech 2024!
