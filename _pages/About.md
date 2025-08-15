@@ -7,20 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi, I am Haoyang, currently a master student at [the Department of Computer Science](https://www.cs.hku.hk/), the University of Hong Kong [<img src="https://ALIENHHY.github.io/_pages/HKU.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.hku.hk/), as well as a visiting student at NJU-PR group, Nanjing University [<img src="https://ALIENHHY.github.io/_pages/NJU.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.nju.edu.cn/) supervised by [*Prof. Yueming Lyu*](https://yueming6568.github.io/) and [*Dr. Yi Liu*](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate). Before that, I obtained my B.Eng degree at [the School of Cyber Science and Engineering](https://scs.njust.edu.cn/), Nanjing University of Science and Technology [<img src="https://ALIENHHY.github.io/_pages/NJUST.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.njust.edu.cn/) supervised by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [*Dr. Shuangquan Zhang*](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp). In addition, I had a wonderful time at ECO, Tencent [<img src="https://ALIENHHY.github.io/_pages/Tencent.png" align="center" style="vertical-align: middle; width: 100px;">](https://www.tencent.com/zh-cn/) mentored by senior expert *Elmer Peng* to explore AI governance.
+👋 Hi, I am Haoyang, currently a master student at [the Department of Computer Science](https://www.cs.hku.hk/), the University of Hong Kong [<img src="https://ALIENHHY.github.io/_pages/HKU.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.hku.hk/), as well as a visiting student at NJU-PR group, Nanjing University [<img src="https://ALIENHHY.github.io/_pages/NJU.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.nju.edu.cn/) supervised by [*Prof. Yueming Lyu*](https://yueming6568.github.io/) and [*Dr. Yi Liu*](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate). Before that, I obtained my B.Eng degree at [the School of Cyber Science and Engineering](https://scs.njust.edu.cn/), Nanjing University of Science and Technology [<img src="https://ALIENHHY.github.io/_pages/NJUST.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.njust.edu.cn/) supervised by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [*Dr. Shuangquan Zhang*](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp). In addition, I had a wonderful time at ECO, Tencent [<img src="https://ALIENHHY.github.io/_pages/Tencent.png" align="center" style="vertical-align: middle; width: 100px;">](https://www.tencent.com/zh-cn/) mentored by senior expert *Elmer Peng* exploring AI governance.
 
 📣 I am seeking a position as <span style="color: red;">RA, Intern or Visiting Student from Sep. 2025 to Nov. 2026</span>, as well as <span style="color: red;">PhD</span> opportunities starting in <span style="color: red;">Fall 2026 or Spring/Fall 2027</span>.🥺
 
   
-📌 Here are my <a href="https://www.overleaf.com/read/cccdwmtnrkqv#2e6b5c" target="_blank">[CV-PDF]</a> and <a href="https://www.overleaf.com/read/nfwvytrpdgyf#bf0c70" target="_blank">[中文简历]</a> for your reference, last updated in Jan. 2025.🤩
+📌 Here are my <a href="https://www.overleaf.com/read/cccdwmtnrkqv#2e6b5c" target="_blank">[CV-PDF]</a> and <a href="https://www.overleaf.com/read/nfwvytrpdgyf#bf0c70" target="_blank">[中文简历]</a> for your reference, last updated in Aug. 2025.🤩
 
 🎇 Research Interests
 ---
-* **Trustworthy LLM:** RAG Safety, Jailbreak, Adversarial Attack and Defense, Data Privacy...
-* **AI for Security:** Intrusion Detection Syetem (IDS)...
-* **LLM Application:** LLM for Interview...
+* **Trustworthy LLM:** jailbreak, adversarial attack and defense, data privacy, RAG safety...
+* **AI for Security:** intrusion detection syetem (IDS)...
+* **LLM Application:** LLM for interview...
 
-I am still actively exploring and shaping my research interests, my past research experience also spans projects in ***AI Governance***, ***Cryptography***, ***Computer Vision*** and ***Federated Learning***, all of which I find deeply fascinating too.
+I am still actively exploring other interests, my past experience spans projects in ***AI Governance***, ***Cryptography***, ***Computer Vision*** and ***Federated Learning***, all of which I find deeply fascinating too.
 
 [//]: # (Currently, I am leading a project on ***the security of LLMs***, developing a black-box jailbreaking attack toolkit, which is also my graduation thesis. I am also contributing to a project on ***AI application in the pharmaceutical industry***, which is nearing implementation.)
 
@@ -29,17 +29,18 @@ I am still actively exploring and shaping my research interests, my past researc
 📢 News
 ---
 * ![](https://img.shields.io/badge/Aug.%202025-00FF00) Our work ***"MirrorMind"*** was accepted by the ADMA 2025!
-[//]: # (* ![](https://img.shields.io/badge/Feb.%202025-00FF00) I became a member of the Chinese Football Association of Team Dragon <img src="https://ALIENHHY.github.io/_pages/国足.png" align="center" style="vertical-align: middle; width: 15px;">! ✌✌✌)
 * ![](https://img.shields.io/badge/Jan.%202025-00FF00) I received an offer of *MSc. CIE* from CUHKSZ [<img src="https://ALIENHHY.github.io/_pages/CUHKSZ.png" align="center" style="vertical-align: middle; width: 25px;">](https://sse.cuhk.edu.cn/en/page/1727), with a scholarship of RMB 30,000!
 * ![](https://img.shields.io/badge/Jan.%202025-00FF00) I accepted the offer from HKU, thanks to everyone!😘 **<span style="color: red;">See you in Hong Kong!</span>**🤗
 * ![](https://img.shields.io/badge/Dec.%202024-00FF00) I received an offer of *MSc. CS* from the University of Hong Kong [<img src="https://ALIENHHY.github.io/_pages/HKU.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.msc-cs.hku.hk/)!
 * ![](https://img.shields.io/badge/Dec.%202024-00FF00) I completed my internship at Tencent, thanks to my mentor, thanks to everyone!
-[//]: # (* ![](https://img.shields.io/badge/Nov.%202024-00FF00) I presented our work at the CyberSciTech 2024 conference!)
 * ![](https://img.shields.io/badge/Oct.%202025-00FF00) I received an offer of *MSc. Cyber Security* from the University of Edinburgh [<img src="https://ALIENHHY.github.io/_pages/Edinburgh.png" align="center" style="vertical-align: middle; width: 22px;">](https://postgraduate.degrees.ed.ac.uk/index.php?r=site/view&edition=2025&id=971)!
 * ![](https://img.shields.io/badge/Oct.%202025-00FF00) I received my first offer for *MSc. Robotics* from the University of Bristol [<img src="https://ALIENHHY.github.io/_pages/Bristol.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.bristol.ac.uk/study/postgraduate/taught/msc-robotics/)!
 * ![](https://img.shields.io/badge/Sep.%202024-00FF00) Our work about ***"IDS"*** was accepted by the CyberSciTech 2024!
 * ![](https://img.shields.io/badge/Sep.%202024-00FF00) I started my internship at *ESG Coordination Office (ECO Lab)*, Tencent!😊
 * ![](https://img.shields.io/badge/Jul.%202024-00FF00) My work about ***"Smart Guide Cane"*** was granted as an invention patent!
+
+[//]: # (* ![](https://img.shields.io/badge/Feb.%202025-00FF00) I became a member of the Chinese Football Association of Team Dragon <img src="https://ALIENHHY.github.io/_pages/国足.png" align="center" style="vertical-align: middle; width: 15px;">! ✌✌✌)
+[//]: # (* ![](https://img.shields.io/badge/Nov.%202024-00FF00) I presented our work at the CyberSciTech 2024 conference!)
 
 🎥 Experiences <a href="https://alienhhy.github.io/internships/" target="_blank" style="text-decoration: none; font-size: smaller;">🔗</a>
 ---
