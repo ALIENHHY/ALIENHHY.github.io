@@ -16,11 +16,11 @@ redirect_from:
 
 🎇 Research Interests
 ---
-* **Trustworthy LLM:** Exploring data-driven methods to enhance decision-making processes.
-* **LLM Application:** LLM4Interview
-* **AI for Security:** I have won Gold Award at the VEX Robotics World Championship.
+* **Trustworthy LLM:** RAG Safety, LLM Jailbreak, adversarial attack and defense, privacy and data protection.
+* **AI for Security:** Intrusion Detection Syetem (IDS).
+* **LLM Application:** LLM for Interview.
 
-As an undergraduate student, I am still actively exploring and shaping my research interests. My past research experience also spans projects in ***AI Governance***, ***Cryptography***, ***Computer Vision*** and ***Federated Learning***, all of which I find deeply fascinating too.
+I am still actively exploring and shaping my research interests, my past research experience also spans projects in ***AI Governance***, ***Cryptography***, ***Computer Vision*** and ***Federated Learning***, all of which I find deeply fascinating too.
 
 [//]: # (Currently, I am leading a project on ***the security of LLMs***, developing a black-box jailbreaking attack toolkit, which is also my graduation thesis. I am also contributing to a project on ***AI application in the pharmaceutical industry***, which is nearing implementation.)
 
