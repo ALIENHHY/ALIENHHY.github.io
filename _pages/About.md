@@ -73,12 +73,12 @@ News
 
 <!--
 <a href="https://alienhhy.github.io/internships/" target="_blank" style="text-decoration: none; font-size: smaller;">🔗</a>
+* ![](https://img.shields.io/badge/Mar.%202025%20--%20Current-000000) Visiting Student, PR-group, NJU [<img src="https://ALIENHHY.github.io/_pages/NJU.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.nju.edu.cn/)
 * ![](https://img.shields.io/badge/Nov.%202024%20--%20Current-000000) Co-founder, Nanjing Nebulorix Co., Ltd.)
 * ![](https://img.shields.io/badge/Sep.%202025%20--%20Current-000000) M.Sc., Department of Computer Science, HKU [<img src="https://ALIENHHY.github.io/_pages/HKU.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.njust.edu.cn/)
 * ![](https://img.shields.io/badge/Sep.%202021%20--%20Apr.%202025-000000) B.Eng., School of Cyberspace Security, NJUST [<img src="https://ALIENHHY.github.io/_pages/NJUST.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.njust.edu.cn/)
 -->
 
-* ![](https://img.shields.io/badge/Mar.%202025%20--%20Current-000000) Visiting Student, PR-group, NJU [<img src="https://ALIENHHY.github.io/_pages/NJU.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.nju.edu.cn/)
 * ![](https://img.shields.io/badge/Sept.%202024%20--%20Dec.%202024-000000) Intern, *ESG Coordination Office (ECO Lab)*, Tencent [<img src="https://ALIENHHY.github.io/_pages/Tencent.png" align="center" style="vertical-align: middle; width: 100px;">](https://www.tencent.com/zh-cn/)
 * ![](https://img.shields.io/badge/Jan.%202024%20--%20Feb.%202024-000000) Intern, *Cloud Network Maintenance Center*, China Telecom [<img src="https://ALIENHHY.github.io/_pages/China Telecom.jpg" align="center" style="vertical-align: middle; width: 70px;">](http://www.chinatelecom.com.cn/)
 * ![](https://img.shields.io/badge/Jul.%202023%20--%20Aug.%202023-000000) Intern, *Judicial Appraisal Institute*, CINGHOO [<img src="https://ALIENHHY.github.io/_pages/CINGHOO.png" align="center" style="vertical-align: middle; width: 120px;">](http://www.cinghoo.com/)
