@@ -24,7 +24,7 @@ redirect_from:
 * **AI for Security:** intrusion detection syetem (IDS)...
 * **LLM Application:** LLM for interview...
 
-I am still actively exploring other interests, my past experience spans in ***AI Governance***, ***Cryptography***, ***Computer Vision*** and ***Federated Learning***, all of which I find deeply fascinating too.
+I am still actively exploring my interests, past experience spans in ***AI Governance***, ***Cryptography***, ***Computer Vision*** and ***Federated Learning***, all of which I find deeply fascinating too.
 
 [//]: # (Currently, I am leading a project on ***the security of LLMs***, developing a black-box jailbreaking attack toolkit, which is also my graduation thesis. I am also contributing to a project on ***AI application in the pharmaceutical industry***, which is nearing implementation.)
 
