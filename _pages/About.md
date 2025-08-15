@@ -29,7 +29,7 @@ I am still actively exploring other interests, my past experience spans in ***AI
 📢 News
 ---
 * ![](https://img.shields.io/badge/Aug.%202025-00FF00) Our work ***"MirrorMind"*** was accepted by the ADMA 2025!
-* ![](https://img.shields.io/badge/Jun.%202025-00FF00) I graduated from NJUST (ranked 6/70), and was honored with Oustanding Graduate!
+* ![](https://img.shields.io/badge/Jun.%202025-00FF00) I graduated from NJUST (ranked 6/70), and was honored with ***Oustanding Graduate***!
 * ![](https://img.shields.io/badge/Jun.%202025-00FF00) My undergraduate thesis passed and was rated as ***Excellent***!
 * ![](https://img.shields.io/badge/Jan.%202025-00FF00) I received an offer of *MSc. CIE* from CUHKSZ [<img src="https://ALIENHHY.github.io/_pages/CUHKSZ.png" align="center" style="vertical-align: middle; width: 25px;">](https://sse.cuhk.edu.cn/en/page/1727), with a scholarship of RMB 30,000!
 * ![](https://img.shields.io/badge/Jan.%202025-00FF00) I accepted the offer from HKU, thanks to everyone!😘 **<span style="color: red;">See you in Hong Kong!</span>**🤗
