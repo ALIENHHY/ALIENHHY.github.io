@@ -18,7 +18,7 @@ redirect_from:
   
 📌 Here are my <a href="https://www.overleaf.com/read/cccdwmtnrkqv#2e6b5c" target="_blank">[CV-PDF]</a> and <a href="https://www.overleaf.com/read/nfwvytrpdgyf#bf0c70" target="_blank">[中文简历]</a> for your reference, last updated in Aug. 2025.🤩
 
-🎇 Research Interests
+Research Interests
 ---
 * **Trustworthy LLM:** jailbreak, adversarial attack and defense, data privacy, RAG safety...
 * **AI for Security:** intrusion detection syetem (IDS)...
@@ -32,7 +32,7 @@ Currently, I am leading a project on ***the security of LLMs***, developing a bl
 <span style="color: blue;">While I am still in the early stages of gaining a deeper understanding of these fields, I am confident in my abilities and deeply passionate about broadening my expertise.</span>
 -->
 
-🎉 News
+News
 ---
 * ![](https://img.shields.io/badge/Aug.%202025-00FF00) Our work ***"MirrorMind"*** was accepted by the ADMA 2025!
 * ![](https://img.shields.io/badge/Jun.%202025-00FF00) I graduated from NJUST, and was honored with ***Outstanding Graduate***!
