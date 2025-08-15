@@ -20,7 +20,7 @@ Competitions (Selected Awards)
 
 School Honours
 ---
-* ![](https://img.shields.io/badge/Mar.%202025-FF0000) **Outstanding Graduates**, NJUST (4/70)
+* ![](https://img.shields.io/badge/Apr.%202025-FF0000) **Outstanding Graduates**, NJUST (4/70)
 * ![](https://img.shields.io/badge/Mar.%202025-FF0000) **First Prize** at *Outstanding Student Scholarship*, NJUST (Top 5%)
 * ![](https://img.shields.io/badge/Mar.%202025-FF0000) **Success Scholarship**, NJUST
 * ![](https://img.shields.io/badge/Sep.%202024-FF0000) **First Prize** at *Outstanding Student Scholarship*, NJUST (Top 5%)
