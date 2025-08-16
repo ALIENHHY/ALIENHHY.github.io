@@ -67,7 +67,7 @@ News
 * B.Eng in Cyber Science and Engineering, [Nanjing University of Science and Technology](https://www.njust.edu.cn/)
   * Sep. 2021 - June. 2025
   * Supervisor: [Prof. Zhichao Lian](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [Dr. Shuangquan Zhang](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp)
-  * GPA: 85.63/100 (ranked 6/70, top 10%), honored as *Outstanding Graduate*.
+  * GPA: 85.63/100 (ranked 6/70), honored as *Outstanding Graduate, Merit Student*...
   * Undergraduate Thesis: LLM Jailbreak Attacks.
 
 🏢 Working Experiences
