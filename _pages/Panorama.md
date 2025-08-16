@@ -14,7 +14,7 @@ redirect_from:
 📝 Documenting my Fall 2025 Master's Applications
 ---
 I have received offers from the following programs for Fall 2025:
-* ![](https://img.shields.io/badge/Jan.%202025-FF00FF) MSc. CIE at CUHKSZ, *with a scholarship of 30,000 RMB*! <a href="https://sse.cuhk.edu.cn/en/page/1727" target="_blank">[Link]</a>
+* ![](https://img.shields.io/badge/Jan.%202025-FF00FF) MSc. CIE at CUHK-SZ, *with a scholarship of 30,000 RMB*! <a href="https://sse.cuhk.edu.cn/en/page/1727" target="_blank">[Link]</a>
 * ![](https://img.shields.io/badge/Dec.%202024-FF00FF) MSc. CS at The University of Hong Kong! **<span style="color: red;">(Final Choice)</span>** <a href="https://www.msc-cs.hku.hk/" target="_blank">[Link]</a>
 * ![](https://img.shields.io/badge/Oct.%202024-FF00FF) MSc. Cyber Security, Privacy and Trust at the University of Edinburgh! <a href="https://postgraduate.degrees.ed.ac.uk/index.php?r=site/view&edition=2025&id=971" target="_blank">[Link]</a>
 * ![](https://img.shields.io/badge/Dec.%202024-FF00FF) MSc. Robotics at the University of Bristol! <a href="https://www.bristol.ac.uk/study/postgraduate/taught/msc-robotics/" target="_blank">[Link]</a>
@@ -25,7 +25,7 @@ I co-founded *Nanjing Nebulorix Co., Ltd.* with my friends, looking forward to b
 
 🤖 Robotics
 ---
-I have participated in 8 seasons of VEX-EDR (now known as [VEX-V5](https://www.vexrobotics.com/v5)) robotics competitions, selected awards:
+I have participated in 8 seasons of VEX-EDR (now known as [VEX-V5](https://www.vexrobotics.com/v5)) robotics competitions, selected awards including:
 * ![](https://img.shields.io/badge/2018-Beijing,%20China-blue) **First Prize 🏆** at *World Robot Conference Contest (WRCC 2018)*.
 * ![](https://img.shields.io/badge/2018-Beijing,%20China-blue) **Second Runner-up 🥉** at *World Robot Conference Contest (WRCC 2018)*.
 * ![](https://img.shields.io/badge/2016-Xi'an,%20China-blue) **Runner-up 🥈** at *National VEX Robotics Engineering Challenge*.
