@@ -14,7 +14,7 @@ Papers
 ---
 [1] **Haoyang Hu**, Xun Huang, Chenyu Wu, Shiwen Liu, Zhichao Lian, Shuangquan Zhang. *"BERTector: Intrusion Detection Based on Joint-Dataset Learning."* arXiv.2508.10327. <a href="https://arxiv.org/abs/2508.10327" target="_blank">[paper]</a> [code]
 
-[2] Shiwen Liu, Xu Dong, **Haoyang Hu†**, Di Wu†. *"MirrorMind: A Dual-Agent AI Interview Simulator Powered by LLMs."* In the 21st International Conference on Advanced Data Mining and Applications 2025 (ADMA 2025). <a href="" target="_blank">[paper]</a> [code]
+[2] Shiwen Liu, Xu Dong, **Haoyang Hu†**, Di Wu†. *"MirrorMind: A Dual-Agent AI Interview Simulator Powered by LLMs."* In the 21st International Conference on Advanced Data Mining and Applications 2025 (ADMA 2025). [paper] [code]
 
 [3] Yican Geng\*, **Haoyang Hu\***, Zhaoxuan Ge and Zhichao Lian. *"Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization."* In the 2024 IEEE Cyber Science and Technology Congress (CyberSciTech 2024) <a href="https://ieeexplore.ieee.org/abstract/document/10795674" target="_blank">[paper]</a> [code]
 
