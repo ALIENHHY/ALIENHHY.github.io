@@ -21,7 +21,7 @@ Papers
 
 Patents
 ---
-[1] Chanying Huang, Changji Yao, **Haoyang Hu**, Kedong Yan. *"News recommendation method and system based on national secret algorithm and federated learning."* CN118094008A. (Pending) <a href="https://patents.google.com/patent/CN118094008A" target="_blank">[Link]</a>
+[1] Chanying Huang, Changji Yao, **Haoyang Hu**, Kedong Yan. *"News Recommendation Method and System Based on National Secret Algorithm and Federated Learning."* CN118094008A. (Pending) <a href="https://patents.google.com/patent/CN118094008A" target="_blank">[Link]</a>
 
 [2] **Haoyang Hu**. *"A Guide Cane and its Control Method."* CN111110531A. (Active) <a href="https://patents.google.com/patent/CN111110531A" target="_blank">[Link]</a>
 
