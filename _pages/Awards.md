@@ -11,7 +11,7 @@ redirect_from:
 
 革命尚未成功，同志仍需努力...
 
-Competitions (Selected Awards)
+Competitions
 ---
 * ![](https://img.shields.io/badge/Dec.%202023-Online-blue) **First Prize** at *National College Student Data Analysis Competition*
 * ![](https://img.shields.io/badge/Nov.%202023-Urumqi,%20China-blue) **Third Prize** at *National Cryptography Technology Competition*
