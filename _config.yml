@@ -24,17 +24,17 @@ author:
   avatar           : "rose.png"
   name             : "Haoyang Hu"
   pronouns         : # "he/his"
-  bio              : "Contact: hhyoffer@163.com"
+  bio              : "Contact: haoyanghu@connect.hku.hk"
   location         : "Earth"
   employer         : "CDS@HKU"
   uri              : # URL
-  email            : # "hhynb@njust.edu.cn" 
+  email            : "haoyanghu@connect.hku.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com.tw/citations?hl=zh-CN&user=mgaj14oAAAAJ"
   impactstory      : # URL
-  orcid            : # "https://orcid.org/0009-0006-4728-847X"
+  orcid            : "https://orcid.org/0009-0006-4728-847X"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
