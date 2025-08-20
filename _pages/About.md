@@ -56,7 +56,7 @@ News
 
 🏫 Education
 ---
-* M.Sc in Computer Science, [the University of Hong Kong](https://www.hku.hk/)
+* M.Sc in Computer Science, [The University of Hong Kong](https://www.hku.hk/)
   * Sep. 2025 - Current
 
 * Visiting Student, PR-group, [Nanjing University](https://www.nju.edu.cn/)
