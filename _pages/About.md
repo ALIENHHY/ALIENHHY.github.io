@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Hi!** I am **Haoyang**, currently a master student majoring in Computer Science at [the University of Hong Kong](https://www.hku.hk/)，and doing research at NJU-PR Group, [Nanjing University](https://www.nju.edu.cn/) supervised by [*Prof. Yueming Lyu*](https://yueming6568.github.io/) and [*Dr. Yi Liu*](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate). Before that, I obtained my B.Eng degree at [the School of Cyber Science and Engineering](https://scs.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/) supervised by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [*Dr. Shuangquan Zhang*](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp). In addition, I had a wonderful time at ECO@Tencent exploring AI governance mentored by senior expert *Elmer Peng*.
+**Hi!** I am **Haoyang**, currently a master student majoring in Computer Science at [the University of Hong Kong](https://www.hku.hk/)，and doing research at NJU-PR Group, [Nanjing University](https://www.nju.edu.cn/) supervised by [*Prof. Yueming Lyu*](https://yueming6568.github.io/) and [*Dr. Yi Liu (CityU)*](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate). Before that, I obtained my B.Eng degree at [the School of Cyber Science and Engineering](https://scs.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/) supervised by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [*Dr. Shuangquan Zhang*](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp). In addition, I had a wonderful time at ECO@Tencent exploring AI governance mentored by senior expert *Elmer Peng*.
 
 <!--
 👋 Hi, I am Haoyang, currently a master student at [the Department of Computer Science](https://www.cs.hku.hk/), the University of Hong Kong [<img src="https://ALIENHHY.github.io/_pages/HKU.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.hku.hk/), as well as a visiting student at NJU-PR group, Nanjing University [<img src="https://ALIENHHY.github.io/_pages/NJU.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.nju.edu.cn/) supervised by [*Prof. Yueming Lyu*](https://yueming6568.github.io/) and [*Dr. Yi Liu*](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate). Before that, I obtained my B.Eng degree at [the School of Cyber Science and Engineering](https://scs.njust.edu.cn/), Nanjing University of Science and Technology [<img src="https://ALIENHHY.github.io/_pages/NJUST.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.njust.edu.cn/) supervised by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [*Dr. Shuangquan Zhang*](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp). In addition, I had a wonderful time at ECO, Tencent [<img src="https://ALIENHHY.github.io/_pages/Tencent.png" align="center" style="vertical-align: middle; width: 100px;">](https://www.tencent.com/zh-cn/) mentored by senior expert *Elmer Peng* exploring AI governance.
@@ -34,6 +34,7 @@ Currently, I am leading a project on ***the security of LLMs***, developing a bl
 
 News
 ---
+* ![](https://img.shields.io/badge/Sep.%202025-00FF00) I started my journey at HKU, have a great time!
 * ![](https://img.shields.io/badge/Aug.%202025-00FF00) Preprint of ***BERTector***, a joint-data learning method for IDS was released on arXiv!
 * ![](https://img.shields.io/badge/Aug.%202025-00FF00) Our work ***MirrorMind*** was accepted by the ADMA 2025!
 * ![](https://img.shields.io/badge/Jun.%202025-00FF00) I graduated from NJUST, and was honored with ***Outstanding Graduate***!
@@ -59,9 +60,9 @@ News
 * M.Sc in Computer Science, [The University of Hong Kong](https://www.hku.hk/)
   * Sep. 2025 - Current
 
-* Visiting Student, PR-group, [Nanjing University](https://www.nju.edu.cn/)
+* Research Assistant, PR-group, [Nanjing University](https://www.nju.edu.cn/)
   * Mar. 2025 - Current
-  * Supervisor: [Prof. Yueming Lyu](https://yueming6568.github.io/) and [Dr. Yi Liu](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate)
+  * Supervisor: [Prof. Yueming Lyu](https://yueming6568.github.io/) and [Dr. Yi Liu (CityU)](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate)
   * Research: LLM security, particularly focus on data privacy in RAG systems.
 
 * B.Eng in Cyber Science and Engineering, [Nanjing University of Science and Technology](https://www.njust.edu.cn/)
