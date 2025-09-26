@@ -34,24 +34,24 @@ Currently, I am leading a project on ***the security of LLMs***, developing a bl
 
 News
 ---
-* ![](https://img.shields.io/badge/Sep.%202025-00FF00) I started my journey at HKU, have a great time!
 * ![](https://img.shields.io/badge/Aug.%202025-00FF00) Preprint of ***BERTector***, a joint-data learning method for IDS was released on arXiv!
 * ![](https://img.shields.io/badge/Aug.%202025-00FF00) Our work ***MirrorMind*** was accepted by the ADMA 2025!
 * ![](https://img.shields.io/badge/Jun.%202025-00FF00) I graduated from NJUST, and was honored with ***Outstanding Graduate***!
 * ![](https://img.shields.io/badge/Jun.%202025-00FF00) My undergraduate thesis passed and was rated as ***Excellent***!
-* ![](https://img.shields.io/badge/Jan.%202025-00FF00) I received an offer from CUHK-SZ, with a ***scholarship of RMB 30,000***!
+* ![](https://img.shields.io/badge/Jan.%202025-00FF00) I received the offer with a *scholarship of RMB 30,000* from CUHK-SZ!
 * ![](https://img.shields.io/badge/Jan.%202025-00FF00) I accepted the offer from HKU, thanks to everyone! **<span style="color: red;">See you in Hong Kong!</span>**
 * ![](https://img.shields.io/badge/Dec.%202024-00FF00) I completed my internship at Tencent, thanks to my mentor, thanks to everyone!
-* ![](https://img.shields.io/badge/Sep.%202024-00FF00) Our work about ***"IDS"*** was accepted by the CyberSciTech 2024!
-* ![](https://img.shields.io/badge/Sep.%202024-00FF00) I started my internship at *ESG Coordination Office (ECO Lab)*, Tencent!
-* ![](https://img.shields.io/badge/Jul.%202024-00FF00) My work about ***"Smart Guide Cane"*** was granted as an invention patent!
 
 <!--
+* ![](https://img.shields.io/badge/Sep.%202025-00FF00) I started my journey at HKU, have a great time!
 * ![](https://img.shields.io/badge/Feb.%202025-00FF00) I became a member of the Chinese Football Association of Team Dragon <img src="https://ALIENHHY.github.io/_pages/国足.png" align="center" style="vertical-align: middle; width: 15px;">! ✌✌✌)
 * ![](https://img.shields.io/badge/Dec.%202024-00FF00) I received an offer of *MSc. CS* from the University of Hong Kong [<img src="https://ALIENHHY.github.io/_pages/HKU.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.msc-cs.hku.hk/)!
 * ![](https://img.shields.io/badge/Oct.%202025-00FF00) I received an offer of *MSc. Cyber Security* from the University of Edinburgh [<img src="https://ALIENHHY.github.io/_pages/Edinburgh.png" align="center" style="vertical-align: middle; width: 22px;">](https://postgraduate.degrees.ed.ac.uk/index.php?r=site/view&edition=2025&id=971)!
 * ![](https://img.shields.io/badge/Oct.%202025-00FF00) I received my first offer for *MSc. Robotics* from the University of Bristol [<img src="https://ALIENHHY.github.io/_pages/Bristol.png" align="center" style="vertical-align: middle; width: 20px;">](https://www.bristol.ac.uk/study/postgraduate/taught/msc-robotics/)!
 * ![](https://img.shields.io/badge/Nov.%202024-00FF00) I presented our work at the CyberSciTech 2024 conference!
+* ![](https://img.shields.io/badge/Sep.%202024-00FF00) Our work about ***"IDS"*** was accepted by the CyberSciTech 2024!
+* ![](https://img.shields.io/badge/Sep.%202024-00FF00) I started my internship at *ESG Coordination Office (ECO Lab)*, Tencent!
+* ![](https://img.shields.io/badge/Jul.%202024-00FF00) My work about ***"Smart Guide Cane"*** was granted as an invention patent!
 -->
 
 
@@ -69,7 +69,7 @@ News
   * Sep. 2021 - June. 2025
   * Supervisor: [Prof. Zhichao Lian](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [Dr. Shuangquan Zhang](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp)
   * GPA: 85.63/100 (ranked 6/70), honored as *Outstanding Graduate, Merit Student*...
-  * Undergraduate Thesis: LLM Jailbreak Attacks.
+  * Undergraduate Thesis: LLM Jailbreak Attacks (rated as *Excellent*).
 
 🏢 Working Experiences
 ---
