@@ -58,8 +58,9 @@ News
 🏫 Education
 ---
 * M.Sc in Computer Science, [The University of Hong Kong](https://www.hku.hk/)
-  * Supervisor: [Ka-Ho Chow](https://khchow.com/)
   * Sep. 2025 - Current
+  * Supervisor: [Ka-Ho Chow](https://khchow.com/)
+  * Research: LLM security.
 
 * Research Assistant, NJU-PR Group, [Nanjing University](https://www.nju.edu.cn/)
   * Mar. 2025 - Current
