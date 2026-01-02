@@ -65,7 +65,7 @@ News
 * Research Assistant, NJU-PR Group, [Nanjing University](https://www.nju.edu.cn/)
   * Mar. 2025 - Current
   * Supervisor: [Prof. Yueming Lyu (NJU)](https://yueming6568.github.io/) and [Dr. Yi Liu (CityU)](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate)
-  * Research: LLM security, particularly focus on data privacy in RAG systems.
+  * Research: LLM security.
 
 * B.Eng in Cyber Science and Engineering, [Nanjing University of Science and Technology](https://www.njust.edu.cn/)
   * Sep. 2021 - June. 2025
