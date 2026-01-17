@@ -16,7 +16,7 @@ redirect_from:
 📣 I am seeking a <span style="color: red;">PhD</span> opportunity starting in Fall 2026 or Spring/Fall 2027. 🥺
 
   
-📌 Here are my <a href="https://www.overleaf.com/read/cccdwmtnrkqv#2e6b5c" target="_blank">[CV]</a> and <a href="https://www.overleaf.com/read/nfwvytrpdgyf#bf0c70" target="_blank">[中文简历]</a> for your reference, last updated in Aug. 2025. 🤩
+📌 Here are my <a href="https://www.overleaf.com/read/cccdwmtnrkqv#2e6b5c" target="_blank">[CV]</a> and <a href="https://www.overleaf.com/read/nfwvytrpdgyf#bf0c70" target="_blank">[中文简历]</a> for your reference, last updated in Dec. 2025. 🤩
 
 Research Interests
 ---
