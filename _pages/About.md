@@ -88,8 +88,8 @@ News
 * ![](https://img.shields.io/badge/Jul.%202022%20--%20Aug.%202022-000000) Intern, *DarkArmor Lab*, MoreSec [<img src="https://ALIENHHY.github.io/_pages/MoreSec.png" align="center" style="vertical-align: middle; width: 80px;">](https://www.moresec.cn/)
 -->
 
-* ![](https://img.shields.io/badge/Sept.%202025%20--%20Current-000000) Research Assistant, TASR-Lab, HKU.
-* ![](https://img.shields.io/badge/Mar.%202025%20--%20Current-000000) Research Assistant, PR-Lab, NJU.
+* ![](https://img.shields.io/badge/Sept.%202025%20--%20Current-000000) Research Assistant, [TASR-Lab](https://github.com/HKU-TASR), HKU.
+* ![](https://img.shields.io/badge/Mar.%202025%20--%20Current-000000) Research Assistant, [PR-Lab](https://prlab-nju.com/), NJU.
 * ![](https://img.shields.io/badge/Sept.%202024%20--%20Dec.%202024-000000) Intern, *ESG Coordination Office (ECO Lab)*, Tencent.
 * ![](https://img.shields.io/badge/Jan.%202024%20--%20Feb.%202024-000000) Intern, *Cloud Network Maintenance Center*, China Telecom.
 * ![](https://img.shields.io/badge/Jul.%202023%20--%20Aug.%202023-000000) Intern, *Judicial Appraisal Institute*, CINGHOO.
