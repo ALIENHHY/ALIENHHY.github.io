@@ -57,12 +57,12 @@ News
 
 🏫 Education
 ---
-* M.Sc in Computer Science & Research Assistant, [The University of Hong Kong](https://www.hku.hk/)
+* M.Sc in Computer Science & Research Assistant, [TASR-Lab](https://github.com/HKU-TASR), [The University of Hong Kong](https://www.hku.hk/)
   * Sep. 2025 - Current
   * Supervisor: [Prof. Ka-Ho Chow](https://khchow.com/)
   * Research: LLM security.
 
-* Research Assistant, NJU-PR Group, [Nanjing University](https://www.nju.edu.cn/)
+* Research Assistant, [PR-Lab](https://prlab-nju.com/), [Nanjing University](https://www.nju.edu.cn/)
   * Mar. 2025 - Current
   * Supervisor: [Prof. Yueming Lyu (NJU)](https://yueming6568.github.io/) and [Dr. Yi Liu (CityU)](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate)
   * Research: LLM security.
