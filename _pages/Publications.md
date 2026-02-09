@@ -12,23 +12,24 @@ redirect_from:
 
 Papers
 ---
-[1] **Haoyang Hu**, Xun Huang, Chenyu Wu, Shiwen Liu, Zhichao Lian, Shuangquan Zhang. *"BERTector: An Intrusion Detection Framework Constructed via Joint-dataset Learning Based on Language Model."* arXiv.2508.10327. <a href="https://arxiv.org/abs/2508.10327" target="_blank">[paper]</a> <a href="https://github.com/ALIENHHY/BERTector" target="_blank">[code]</a>
+* **Haoyang Hu**, Zhejun Jiang, Yueming Lyu, Junyuan Zhang, Yi Liu, and Ka-Ho Chow, *"Confundo: Learning to Generate Robust Poison for Practical RAG Systems."* arXiv preprint arXiv:2602.06616. <a href="https://arxiv.org/abs/2602.06616" target="_blank">[paper]</a>
+* **Haoyang Hu**, Xun Huang, Chenyu Wu, Shiwen Liu, Zhichao Lian, and Shuangquan Zhang. *"BERTector: An Intrusion Detection Framework Constructed via Joint-dataset Learning Based on Language Model."* arXiv preprint arXiv:2508.10327. <a href="https://arxiv.org/abs/2508.10327" target="_blank">[paper]</a> <a href="https://github.com/ALIENHHY/BERTector" target="_blank">[code]</a>
 
-[2] Shiwen Liu, Xu Dong, **Haoyang Hu†**, Di Wu. *"MirrorMind: A Dual-Agent AI Interview Simulator Powered by LLMs."* In the 21st International Conference on Advanced Data Mining and Applications 2025 (ADMA 2025). <a href="https://dl.acm.org/doi/10.1007/978-981-95-3456-2_26" target="_blank">[paper]</a> <a href="https://github.com/ShvenLyons/MirrorMind" target="_blank">[code]</a>
+* Shiwen Liu, Xu Dong, **Haoyang Hu†**, and Di Wu. *"MirrorMind: A Dual-Agent AI Interview Simulator Powered by LLMs."* In the 21st International Conference on Advanced Data Mining and Applications 2025 (ADMA 2025). <a href="https://dl.acm.org/doi/10.1007/978-981-95-3456-2_26" target="_blank">[paper]</a> <a href="https://github.com/ShvenLyons/MirrorMind" target="_blank">[code]</a>
 
-[3] Yican Geng\*, **Haoyang Hu\***, Zhaoxuan Ge and Zhichao Lian. *"Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization."* In the 2024 IEEE Cyber Science and Technology Congress (CyberSciTech 2024) <a href="https://ieeexplore.ieee.org/abstract/document/10795674" target="_blank">[paper]</a> [code]
+* Yican Geng\*, **Haoyang Hu\***, Zhaoxuan Ge, and Zhichao Lian. *"Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization."* In the 2024 IEEE Cyber Science and Technology Congress (CyberSciTech 2024) <a href="https://ieeexplore.ieee.org/abstract/document/10795674" target="_blank">[paper]</a> [code]
 
 
 Patents
 ---
-[1] Chanying Huang, Changji Yao, **Haoyang Hu**, Kedong Yan. *"News Recommendation Method and System Based on National Secret Algorithm and Federated Learning."* CN118094008A. (Pending) <a href="https://patents.google.com/patent/CN118094008A" target="_blank">[Link]</a>
+* Chanying Huang, Changji Yao, **Haoyang Hu**, and Kedong Yan. *"News Recommendation Method and System Based on National Secret Algorithm and Federated Learning."* CN118094008A. (Pending) <a href="https://patents.google.com/patent/CN118094008A" target="_blank">[Link]</a>
 
-[2] **Haoyang Hu**. *"A Guide Cane and its Control Method."* CN111110531A. (Active) <a href="https://patents.google.com/patent/CN111110531A" target="_blank">[Link]</a>
+* **Haoyang Hu**. *"A Guide Cane and its Control Method."* CN111110531A. (Active) <a href="https://patents.google.com/patent/CN111110531A" target="_blank">[Link]</a>
 
-[3] **Haoyang Hu**. *"A Guide Cane."* CN212235240U. (Active) <a href="https://patents.google.com/patent/CN212235240U" target="_blank">[Link]</a>
+* **Haoyang Hu**. *"A Guide Cane."* CN212235240U. (Active) <a href="https://patents.google.com/patent/CN212235240U" target="_blank">[Link]</a>
 
 Other Articles
 ---
-[1] **Haoyang Hu** and Zhen Peng. *"ESG Risks and Opportunities in the Development of Artificial Intelligence."* Tencent Knowledge Management, Dec. 2024. <a href="https://ALIENHHY.github.io/_pages/人工智能发展的ESG风险与机遇【终】.pdf" target="_blank">[PDF]</a>
+* **Haoyang Hu**, and Zhen Peng. *"ESG Risks and Opportunities in the Development of Artificial Intelligence."* Tencent Knowledge Management, Dec. 2024. <a href="https://ALIENHHY.github.io/_pages/人工智能发展的ESG风险与机遇【终】.pdf" target="_blank">[PDF]</a>
 
-[2] **Haoyang Hu** and Zhen Peng. *"Observations on the Global Governance Landscape of Artificial Intelligence Governance."* Tencent Knowledge Management, Nov. 2024. (Awarded as **'KM Good Article'**) <a href="https://ALIENHHY.github.io/_pages/人工智能治理全球治理态势观察.pdf" target="_blank">[PDF]</a>
+* **Haoyang Hu**, and Zhen Peng. *"Observations on the Global Governance Landscape of Artificial Intelligence Governance."* Tencent Knowledge Management, Nov. 2024. (Awarded as **'KM Good Article'**) <a href="https://ALIENHHY.github.io/_pages/人工智能治理全球治理态势观察.pdf" target="_blank">[PDF]</a>
