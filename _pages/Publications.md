@@ -10,7 +10,7 @@ redirect_from:
 
 *\* : Equal contribution. &nbsp;&nbsp;&nbsp; † : Coresponding Author.*
 
-Papers
+Papers & Manuscripts
 ---
 * **Haoyang Hu**, Zhejun Jiang, Yueming Lyu, Junyuan Zhang, Yi Liu, and Ka-Ho Chow, *"Confundo: Learning to Generate Robust Poison for Practical RAG Systems."* arXiv preprint arXiv:2602.06616. <a href="https://arxiv.org/abs/2602.06616" target="_blank">[paper]</a> [code] (submitted to USENIX Security 2026)
 
