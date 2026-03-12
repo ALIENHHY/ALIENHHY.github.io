@@ -17,7 +17,7 @@ I have received offers from the following programs for Fall 2025:
 * ![](https://img.shields.io/badge/Jan.%202025-FF00FF) MSc. CIE at CUHK-SZ, *with a scholarship of 30,000 RMB*!
 * ![](https://img.shields.io/badge/Dec.%202024-FF00FF) MSc. CS at The University of Hong Kong! **<span style="color: red;">(Final Choice)</span>**
 * ![](https://img.shields.io/badge/Oct.%202024-FF00FF) MSc. Cyber Security, Privacy and Trust at the University of Edinburgh!
-* ![](https://img.shields.io/badge/Dec.%202024-FF00FF) MSc. Robotics at the University of Bristol!
+* ![](https://img.shields.io/badge/Oct.%202024-FF00FF) MSc. Robotics at the University of Bristol!
 
 👨‍💻 Startup Experience
 ---
