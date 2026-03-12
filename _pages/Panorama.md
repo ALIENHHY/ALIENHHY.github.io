@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* I enjoy traveling🌏, basketball🏀, badminton🏸, billiards🎱, mahjong🀄, and many other card games🃏!
+* I enjoy traveling 🌏, tasting delicious food 🍽️, hiking 🚶, basketball 🏀, badminton 🏸, soccer ⚽, billiards 🎱, mahjong 🀄, and many other card games 🃏!
 
 📝 Documenting my Fall 2025 Master's Applications
 ---
