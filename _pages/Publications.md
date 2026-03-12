@@ -16,6 +16,8 @@ Papers
 
 * **Haoyang Hu**, Yi Liu, Yueming Lyu, Hao Sun, Wenqiang Jin, Jing Dong, Caifeng Shan, *"GhostRAG: Auto-constructed Prompt Injection Attack Against Retrieval-Augmented Generation for Data Extraction."* [paper] [code] (submitted to T-IFS)
 
+* Xun Huang, Shiwen Liu, **Haoyang Hu**, and Di Wu, *"Classifier Follows Embedder: A Lightweight Semantic Packet-level Intrusion Detection System for Drone Devices."* [paper] [code] (submitted to ACM MM 2026)
+
 * **Haoyang Hu**, Xun Huang, Chenyu Wu, Shiwen Liu, Zhichao Lian, and Shuangquan Zhang. *"BERTector: An Intrusion Detection Framework Constructed via Joint-dataset Learning Based on Language Model."* arXiv preprint arXiv:2508.10327. <a href="https://arxiv.org/abs/2508.10327" target="_blank">[paper]</a> <a href="https://github.com/ALIENHHY/BERTector" target="_blank">[code]</a>
 
 * Shiwen Liu, Xu Dong, **Haoyang Hu†**, and Di Wu. *"MirrorMind: A Dual-Agent AI Interview Simulator Powered by LLMs."* In the 21st International Conference on Advanced Data Mining and Applications 2025 (ADMA 2025). <a href="https://dl.acm.org/doi/10.1007/978-981-95-3456-2_26" target="_blank">[paper]</a> <a href="https://github.com/ShvenLyons/MirrorMind" target="_blank">[code]</a>
