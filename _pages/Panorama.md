@@ -45,13 +45,13 @@ I have participated in 8 seasons of VEX-EDR (now known as [VEX-V5](https://www.v
 
 🌠 Students’ Activities
 ---
-* ![](https://img.shields.io/badge/2024--Current-A020F0) Student Congress, NJUST
+* ![](https://img.shields.io/badge/2024--2025-A020F0) Student Congress, NJUST
   * Permanent Representatives
-* ![](https://img.shields.io/badge/2021--Current-A020F0) Major of 2021 in Cyberspace Security, NJUST
+* ![](https://img.shields.io/badge/2021--2025-A020F0) Major of 2021 in Cyberspace Security, NJUST
   * Secretary of the Reunion Branch
-* ![](https://img.shields.io/badge/2021--Current-A020F0) Basketball Team of the School of Cyberspace Security, NJUST
+* ![](https://img.shields.io/badge/2021--2025-A020F0) Basketball Team of the School of Cyberspace Security, NJUST
   * Team Member
-* ![](https://img.shields.io/badge/2021--Current-A020F0) Badminton Team of the School of Cyberspace Security, NJUST
+* ![](https://img.shields.io/badge/2021--2025-A020F0) Badminton Team of the School of Cyberspace Security, NJUST
   * Team Member
 * ![](https://img.shields.io/badge/2022%20&%202023-A020F0) Summer Social Practice Activity (Provincial Core Project)
   * Team Leader
