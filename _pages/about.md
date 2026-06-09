@@ -42,7 +42,7 @@ $$\underline{\text{Name}}$$: co-first author; $\dagger$: coresponding author*
 
 ![](https://img.shields.io/badge/ADMA%2725-green) Shiwen Liu, Xu Dong, **Haoyang Hu$^\dagger$**, and Di Wu. *"MirrorMind: A Dual-Agent AI Interview Simulator Powered by LLMs."* The 21st International Conference on Advanced Data Mining and Applications (ADMA 2025), Kyoto, Japan, Oct. 22-24, 2025. <a href="https://dl.acm.org/doi/10.1007/978-981-95-3456-2_26" target="_blank">[paper]</a> <a href="https://github.com/ShvenLyons/MirrorMind" target="_blank">[code]</a>
 
-![](https://img.shields.io/badge/CyberSciTech%2724-green) Yican Geng, <u>**Haoyang Hu**</u>, Zhaoxuan Ge, and Zhichao Lian. *"Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization."* The 9th IEEE Cyber Science and Technology Congress (CyberSciTech 2024), Boracay Island, Malay, Philippines, Nov. 5-8, 2024.
+![](https://img.shields.io/badge/CyberSciTech%2724-green) Yican Geng, **<u>Haoyang Hu</u>**, Zhaoxuan Ge, and Zhichao Lian. *"Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization."* The 9th IEEE Cyber Science and Technology Congress (CyberSciTech 2024), Boracay Island, Malay, Philippines, Nov. 5-8, 2024.
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
