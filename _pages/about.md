@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Hi!** I am **Haoyang**, a master student majoring in computer science & research assistant at [TASR-Lab@HKU](https://github.com/HKU-TASR) supervised by [*Prof. Ka-Ho Chow*](https://khchow.com/). Before that, I was a visiting student at [PR-Lab@NJU](https://prlab-nju.com/) under the supervision of [*Prof. Yueming Lyu (NJU)*](https://yueming6568.github.io/) and [*Dr. Yi Liu (CityU)*](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate). I obtained my B.Eng degree at [the School of Cyber Science and Engineering](https://scs.njust.edu.cn/), [Nanjing University of Science and Technology (NJUST)](https://www.njust.edu.cn/) adviced by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [*Dr. Shuangquan Zhang*](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp). In addition, I had a wonderful time at [Tencent](https://www.tencent.com/zh-cn/) exploring AI governance.
+**Hi!** I am **Haoyang**, a master student majoring in computer science & research assistant at [TASR-Lab@HKU](https://github.com/HKU-TASR) supervised by [*Prof. Ka-Ho Chow*](https://khchow.com/). Before that, I was a visiting student at [PR-Lab@NJU](https://prlab-nju.com/) under the supervision of [*Prof. Yueming Lyu*](https://yueming6568.github.io/) and [*Dr. Yi Liu*](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate). I obtained my B.Eng. degree at [the School of Cyber Science and Engineering](https://scs.njust.edu.cn/), [Nanjing University of Science and Technology (NJUST)](https://www.njust.edu.cn/) adviced by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [*Dr. Shuangquan Zhang*](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp). In addition, I had a wonderful time at [Tencent](https://www.tencent.com/zh-cn/) exploring AI governance.
 
 My research interests mainly focus on trustworthy large models, including jailbreaking, poisoning, member inference, data extraction (...) attacks and defeses on LLM, RAG, Agents, and so on.
 
@@ -73,7 +73,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 - *2025.09 - present*, M.Sc. in Computer Science, [TASR-Lab](https://github.com/HKU-TASR), [HKU](https://www.hku.hk/), supervised by [Prof. Ka-Ho Chow](https://khchow.com/).
-- *2025.03 - 2025.08*, Visiting Student, [PR-Lab](https://prlab-nju.com/), [NJU](https://www.nju.edu.cn/), supervised by [Prof. Yueming Lyu (NJU)](https://yueming6568.github.io/) and [Dr. Yi Liu (CityU)](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate).
+- *2025.03 - 2025.08*, Visiting Student, [PR-Lab](https://prlab-nju.com/), [NJU](https://www.nju.edu.cn/), supervised by [Prof. Yueming Lyu](https://yueming6568.github.io/) and [Dr. Yi Liu](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate).
 - *2021.09 - 2025.06*, B.Eng. in Cyber Science and Engineering, [NJUST](https://www.njust.edu.cn/), supervised by [Prof. Zhichao Lian](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [Dr. Shuangquan Zhang](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp).
 
 <!--
