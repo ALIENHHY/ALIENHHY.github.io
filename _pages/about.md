@@ -17,17 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+**Hi!** I am **Haoyang**, a master student majoring in computer science & RA at [TASR-Lab@HKU](https://github.com/HKU-TASR) supervised by [*Prof. Ka-Ho Chow*](https://khchow.com/). Before that, I was a RA at [PR-Lab@NJU](https://prlab-nju.com/) under the supervision of [*Prof. Yueming Lyu (NJU)*](https://yueming6568.github.io/) and [*Dr. Yi Liu (CityU)*](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate). I obtained my B.Eng degree at [the School of Cyber Science and Engineering](https://scs.njust.edu.cn/), [Nanjing University of Science and Technology (NJUST)](https://www.njust.edu.cn/) adviced by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [*Dr. Shuangquan Zhang*](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp). In addition, I had a wonderful time at [Tencent](https://www.tencent.com/zh-cn/) exploring AI governance.
 
+My research interests mainly focus on trustworthy large models, including jailbreaking, poisoning, member inference, data extraction (...) attacks on LLM, RAG, Agents, and so on.
+
+<!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+-->
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.06*: &nbsp;🎉🎉 *Confundo*, a RL-based RAG poisoning attack, was accepted by **USENIX Security'26**!
+- *2025.08*: &nbsp;🎉🎉 *MirrorMind*, an Agentic interview simulator, was accepted by **ADMA'25**!
+- *2025.06*: &nbsp; I graduated from NJUST, and was honored with *Outstanding Graduate*!
+- *2025.06*: &nbsp; My undergraduate thesis passed and was rated as *Excellent*!
+- *2025.01*: &nbsp; I received the offer with a *scholarship of RMB 30,000* from CUHK-SZ!
+- *2024.12*: &nbsp; I completed my internship at Tencent, thanks to my mentor and colleagues!
 
-# 📝 Publications 
+# 📝 Publications
 
+* ![](https://img.shields.io/badge/Security%2726-green) **Haoyang Hu**, Zhejun Jiang, Yueming Lyu, Junyuan Zhang, Yi Liu, and Ka-Ho Chow, *"Confundo: Learning to Generate Robust Poison for Practical RAG Systems."* In Proc. of USENIX Security 2026. <a href="https://arxiv.org/abs/2602.06616" target="_blank">[paper]</a> <a href="https://github.com/HKU-TASR/Confundo" target="_blank">[code]</a> <a href="https://www.promptfoo.dev/lm-security-db/vuln/context-robust-rag-poisoning-90c112bc" target="_blank">[promptfoo]</a>
+
+* ![](https://img.shields.io/badge/ADMA%2725-green)* Shiwen Liu, Xu Dong, **Haoyang Hu†**, and Di Wu. *"MirrorMind: A Dual-Agent AI Interview Simulator Powered by LLMs."* In Proc. of ADMA 2025. <a href="https://dl.acm.org/doi/10.1007/978-981-95-3456-2_26" target="_blank">[paper]</a> <a href="https://github.com/ShvenLyons/MirrorMind" target="_blank">[code]</a>
+
+* ![](https://img.shields.io/badge/CyberSciTech%2724-green)* Yican Geng\*, **Haoyang Hu\***, Zhaoxuan Ge, and Zhichao Lian. *"Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization."* In Proc. of CyberSciTech 2024.
+
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,18 +55,34 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.04* *Outstanding Graduates*, NJUST
+- *2025.03 & 2024.09 & 2024.03* *First Prize* at Outstanding Student Scholarship, NJUST
+- *2025.03 & 2024.09* *Success Scholarship*, NJUST
+- *2024.09 & 2024.04* *Outstanding Class Cadre*, NJUST
+- *2024.03* *Beyond Scholarship*, NJUST
+- *2023.11* *Merit Student*, NJUST
+- *2023.09 & 2023.03 & 2022.09* *Third Prize* at Outstanding Student Scholarship, NJUST
+- *2022.11* *Sports activists*, NJUST
+- *2022.11* *Runner-up* at Badminton Team Championships, NJUST
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - present*, M.Sc. in Computer Science, [TASR-Lab](https://github.com/HKU-TASR), [The University of Hong Kong](https://www.hku.hk/), supervised by [Prof. Ka-Ho Chow](https://khchow.com/).
+- *2025.03 - 2025.08*, Visiting Student, [PR-Lab](https://prlab-nju.com/), [Nanjing University](https://www.nju.edu.cn/), supervised by [Prof. Yueming Lyu (NJU)](https://yueming6568.github.io/) and [Dr. Yi Liu (CityU)](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate).
+- *2021.09 - 2025.06*, B.Eng. in Cyber Science and Engineering, [Nanjing University of Science and Technology](https://www.njust.edu.cn/), supervised by [Prof. Zhichao Lian](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [Dr. Shuangquan Zhang](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp).
 
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.09 - present*, *[TASR-Lab](https://github.com/HKU-TASR)*, HKU.
+- *2025.03 - 2025.08*, *[PR-Lab](https://prlab-nju.com/)*, NJU.
+- *2024.09 - 2024.12*, *ESG Coordination Office (ECO Lab)*, Tencent.
+- *2024.01 - 2024.02*, *Cloud Network Maintenance Center*, China Telecom.
+- *2023.07 - 2023.08*, *Judicial Appraisal Institute*, CINGHOO.
+- *2022.07 - 2022.08*, *DarkArmor Lab*, MoreSec.
