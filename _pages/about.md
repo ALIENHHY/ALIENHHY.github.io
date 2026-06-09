@@ -32,7 +32,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.08*: &nbsp;🎉🎉 *MirrorMind*, an Agentic interview simulator, was accepted by **ADMA'25**!
 - *2025.06*: &nbsp; I graduated from NJUST, and was honored with *Outstanding Graduate*!
 - *2025.06*: &nbsp; My undergraduate thesis passed and was rated as *Excellent*!
-- *2025.01*: &nbsp; I received the offer with a *scholarship of RMB 30,000* from CUHK-SZ!
+- *2025.01*: &nbsp; I received an M.Sc. offer with a *scholarship of RMB 30,000* from CUHK-SZ!
 - *2024.12*: &nbsp; I completed my internship at Tencent, thanks to my mentor and colleagues!
 
 # 📝 Publications
