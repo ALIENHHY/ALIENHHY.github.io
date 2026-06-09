@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Hi!** I am **Haoyang**, a M.Sc. student in Computer Science and research assistant at [TASR-Lab@HKU](https://github.com/HKU-TASR) supervised by [*Prof. Ka-Ho Chow*](https://khchow.com/). Before that, I was a visiting student at [PR-Lab@NJU](https://prlab-nju.com/) under the supervision of [*Prof. Yueming Lyu*](https://yueming6568.github.io/) and [*Dr. Yi Liu*](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate). I obtained my B.Eng. degree at [Nanjing University of Science and Technology (NJUST)](https://www.njust.edu.cn/) adviced by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [*Dr. Shuangquan Zhang*](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp). In addition, I had a wonderful time at [Tencent](https://www.tencent.com/zh-cn/) exploring AI governance.
+**Hi!** I am **Haoyang**, a M.Sc. student in Computer Science and research assistant at [TASR-Lab@HKU](https://github.com/HKU-TASR) supervised by [*Prof. Ka-Ho Chow*](https://khchow.com/). Before that, I was a visiting student at [PR-Lab@NJU](https://prlab-nju.com/) under the supervision of [*Prof. Yueming Lyu*](https://yueming6568.github.io/) and [*Dr. Yi Liu*](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate). I obtained my B.Eng. degree at [School of Cyber Science and Engineering](https://scs.njust.edu.cn/), [Nanjing University of Science and Technology (NJUST)](https://www.njust.edu.cn/) adviced by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [*Dr. Shuangquan Zhang*](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp). In addition, I had a wonderful time at [Tencent](https://www.tencent.com/zh-cn/) exploring AI governance.
 
 My research interests mainly focus on the security and privacy of trustworthy large models, including jailbreaking, poisoning, member inference, data extraction (...) attacks and developing effective defenses to secure LLM, RAG, Agent systems, etc.
 
@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 *Confundo*, a RL-based RAG poisoning attack, was accepted by **USENIX Security'26**!
+- *2026.06*: &nbsp;🎉🎉 *Confundo*, a RL-based RAG poisoning attack, was accepted by **USENIX Security'26**! (cycle 2 accept rate ~ 12.6%)
 - *2025.08*: &nbsp;🎉🎉 *MirrorMind*, an Agentic interview simulator, was accepted by **ADMA'25**!
 - *2025.06*: &nbsp; I graduated from NJUST, and was honored with *Outstanding Graduate*!
 - *2025.06*: &nbsp; My undergraduate thesis passed and was rated as *Excellent*!
