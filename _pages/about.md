@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 *Confundo*, a RL-based RAG poisoning attack, was accepted by **USENIX Security'26**! (cycle 2 accept rate ~ 12.6%)
+- *2026.06*: &nbsp;🎉🎉 *Confundo*, a RL-based RAG poisoning attack, was accepted by **USENIX Security'26**! *(cycle 2 accept rate ~ 12.6%)*
 - *2025.08*: &nbsp;🎉🎉 *MirrorMind*, an Agentic interview simulator, was accepted by **ADMA'25**!
 - *2025.06*: &nbsp; I graduated from NJUST, and was honored with *Outstanding Graduate*!
 - *2025.06*: &nbsp; My undergraduate thesis passed and was rated as *Excellent*!
