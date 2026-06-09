@@ -21,6 +21,8 @@ redirect_from:
 
 My research interests mainly focus on trustworthy large models, including jailbreaking, poisoning, member inference, data extraction (...) attacks on LLM, RAG, Agents, and so on.
 
+📣 I am seeking a <span style="color: red;">PhD</span> opportunity starting in Fall 2026 or Spring/Fall 2027. 🥺
+
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
@@ -35,11 +37,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications
 
-* ![](https://img.shields.io/badge/Security%2726-green) **Haoyang Hu**, Zhejun Jiang, Yueming Lyu, Junyuan Zhang, Yi Liu, and Ka-Ho Chow, *"Confundo: Learning to Generate Robust Poison for Practical RAG Systems."* In Proc. of USENIX Security 2026. <a href="https://arxiv.org/abs/2602.06616" target="_blank">[paper]</a> <a href="https://github.com/HKU-TASR/Confundo" target="_blank">[code]</a> <a href="https://www.promptfoo.dev/lm-security-db/vuln/context-robust-rag-poisoning-90c112bc" target="_blank">[promptfoo]</a>
+![](https://img.shields.io/badge/Security%2726-green) **Haoyang Hu**, Zhejun Jiang, Yueming Lyu, Junyuan Zhang, Yi Liu, and Ka-Ho Chow, *"Confundo: Learning to Generate Robust Poison for Practical RAG Systems."* In Proc. of USENIX Security 2026. <a href="https://arxiv.org/abs/2602.06616" target="_blank">[paper]</a> <a href="https://github.com/HKU-TASR/Confundo" target="_blank">[code]</a> <a href="https://www.promptfoo.dev/lm-security-db/vuln/context-robust-rag-poisoning-90c112bc" target="_blank">[promptfoo]</a>
 
-* ![](https://img.shields.io/badge/ADMA%2725-green)* Shiwen Liu, Xu Dong, **Haoyang Hu†**, and Di Wu. *"MirrorMind: A Dual-Agent AI Interview Simulator Powered by LLMs."* In Proc. of ADMA 2025. <a href="https://dl.acm.org/doi/10.1007/978-981-95-3456-2_26" target="_blank">[paper]</a> <a href="https://github.com/ShvenLyons/MirrorMind" target="_blank">[code]</a>
+![](https://img.shields.io/badge/ADMA%2725-green) Shiwen Liu, Xu Dong, **Haoyang Hu†**, and Di Wu. *"MirrorMind: A Dual-Agent AI Interview Simulator Powered by LLMs."* In Proc. of ADMA 2025. *(coresponding author)* <a href="https://dl.acm.org/doi/10.1007/978-981-95-3456-2_26" target="_blank">[paper]</a> <a href="https://github.com/ShvenLyons/MirrorMind" target="_blank">[code]</a>
 
-* ![](https://img.shields.io/badge/CyberSciTech%2724-green)* Yican Geng\*, **Haoyang Hu\***, Zhaoxuan Ge, and Zhichao Lian. *"Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization."* In Proc. of CyberSciTech 2024.
+![](https://img.shields.io/badge/CyberSciTech%2724-green) Yican Geng, **Haoyang Hu**, Zhaoxuan Ge, and Zhichao Lian. *"Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization."* In Proc. of CyberSciTech 2024.
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -58,20 +60,20 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🎖 Honors and Awards
-- *2025.04* *Outstanding Graduates*, NJUST
-- *2025.03 & 2024.09 & 2024.03* *First Prize* at Outstanding Student Scholarship, NJUST
-- *2025.03 & 2024.09* *Success Scholarship*, NJUST
-- *2024.09 & 2024.04* *Outstanding Class Cadre*, NJUST
-- *2024.03* *Beyond Scholarship*, NJUST
-- *2023.11* *Merit Student*, NJUST
-- *2023.09 & 2023.03 & 2022.09* *Third Prize* at Outstanding Student Scholarship, NJUST
-- *2022.11* *Sports activists*, NJUST
-- *2022.11* *Runner-up* at Badminton Team Championships, NJUST
+- *2025.04* ***Outstanding Graduates***, NJUST
+- *2025.03 & 2024.09 & 2024.03* ***First Prize*** at Outstanding Student Scholarship, NJUST
+- *2025.03 & 2024.09* ***Success Scholarship***, NJUST
+- *2024.09 & 2024.04* ***Outstanding Class Cadre***, NJUST
+- *2024.03* ***Beyond Scholarship***, NJUST
+- *2023.11* ***Merit Student***, NJUST
+- *2023.09 & 2023.03 & 2022.09* ***Third Prize*** at Outstanding Student Scholarship, NJUST
+- *2022.11* ***Sports activists***, NJUST
+- *2022.11* ***Runner-up*** at Badminton Team Championships, NJUST
 
 # 📖 Educations
-- *2025.09 - present*, M.Sc. in Computer Science, [TASR-Lab](https://github.com/HKU-TASR), [The University of Hong Kong](https://www.hku.hk/), supervised by [Prof. Ka-Ho Chow](https://khchow.com/).
-- *2025.03 - 2025.08*, Visiting Student, [PR-Lab](https://prlab-nju.com/), [Nanjing University](https://www.nju.edu.cn/), supervised by [Prof. Yueming Lyu (NJU)](https://yueming6568.github.io/) and [Dr. Yi Liu (CityU)](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate).
-- *2021.09 - 2025.06*, B.Eng. in Cyber Science and Engineering, [Nanjing University of Science and Technology](https://www.njust.edu.cn/), supervised by [Prof. Zhichao Lian](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [Dr. Shuangquan Zhang](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp).
+- *2025.09 - present*, M.Sc. in Computer Science, [TASR-Lab](https://github.com/HKU-TASR), [HKU](https://www.hku.hk/), supervised by [Prof. Ka-Ho Chow](https://khchow.com/).
+- *2025.03 - 2025.08*, Visiting Student, [PR-Lab](https://prlab-nju.com/), [NJU](https://www.nju.edu.cn/), supervised by [Prof. Yueming Lyu (NJU)](https://yueming6568.github.io/) and [Dr. Yi Liu (CityU)](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate).
+- *2021.09 - 2025.06*, B.Eng. in Cyber Science and Engineering, [NJUST](https://www.njust.edu.cn/), supervised by [Prof. Zhichao Lian](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [Dr. Shuangquan Zhang](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp).
 
 <!--
 # 💬 Invited Talks
