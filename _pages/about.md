@@ -83,12 +83,12 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 💻 Internships
-- *2025.09 - present*, *[TASR-Lab](https://github.com/HKU-TASR)*, HKU.
-- *2025.03 - 2025.08*, *[PR-Lab](https://prlab-nju.com/)*, NJU.
-- *2024.09 - 2024.12*, *ESG Coordination Office (ECO Lab)*, Tencent.
-- *2024.01 - 2024.02*, *Cloud Network Maintenance Center*, China Telecom.
-- *2023.07 - 2023.08*, *Judicial Appraisal Institute*, CINGHOO.
-- *2022.07 - 2022.08*, *DarkArmor Lab*, MoreSec.
+- *2025.09 - present*, *[TASR-Lab](https://github.com/HKU-TASR)*, HKU
+- *2025.03 - 2025.08*, *[PR-Lab](https://prlab-nju.com/)*, NJU
+- *2024.09 - 2024.12*, *ESG Coordination Office (ECO Lab)*, Tencent
+- *2024.01 - 2024.02*, *Cloud Network Maintenance Center*, China Telecom
+- *2023.07 - 2023.08*, *Judicial Appraisal Institute*, CINGHOO
+- *2022.07 - 2022.08*, *DarkArmor Lab*, MoreSec
 
 # 🛠️ Misc
 ### 🤖 Robotics
@@ -102,13 +102,8 @@ I have participated in 8 seasons of VEX-EDR (now known as [VEX-V5](https://www.v
 * ![](https://img.shields.io/badge/2015-Weihai,%20China-blue) **First Prize 🏆** at *National VEX Robotics Engineering Challenge*.
 
 ### 🌠 Students’ Activities
-* ![](https://img.shields.io/badge/2024--2025-A020F0) Student Congress, NJUST
-  * Permanent Representatives
-* ![](https://img.shields.io/badge/2021--2025-A020F0) Major of 2021 in Cyberspace Security, NJUST
-  * Secretary of the Reunion Branch
-* ![](https://img.shields.io/badge/2021--2025-A020F0) Basketball Team of the School of Cyberspace Security, NJUST
-  * Team Member
-* ![](https://img.shields.io/badge/2021--2025-A020F0) Badminton Team of the School of Cyberspace Security, NJUST
-  * Team Member
-* ![](https://img.shields.io/badge/2022%20&%202023-A020F0) Summer Social Practice Activity (Provincial Core Project)
-  * Team Leader
+- *2024 - 2025* Permanent Representatives, Student Congress, NJUST
+- *2021 - 2025* Secretary of the Reunion Branch, Major of 2021 in Cyberspace Security, NJUST
+- *2021 - 2025* Team Member, Basketball Team of the School of Cyberspace Security, NJUST
+- *2021 - 2025* Team Member, Badminton Team of the School of Cyberspace Security, NJUST
+- *2022 & 2023* Team Leader, Summer Social Practice Activity (Provincial Core Project)
