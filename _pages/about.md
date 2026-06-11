@@ -91,7 +91,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.07 - 2022.08*, *DarkArmor Lab*, MoreSec.
 
 # 🛠️ Misc
-## 🤖 Robotics
+#### 🤖 Robotics
 I have participated in 8 seasons of VEX-EDR (now known as [VEX-V5](https://www.vexrobotics.com/v5)) robotics competitions, selected awards including:
 * ![](https://img.shields.io/badge/2018-Beijing,%20China-blue) **First Prize 🏆** at *World Robot Conference Contest (WRCC 2018)*.
 * ![](https://img.shields.io/badge/2018-Beijing,%20China-blue) **Second Runner-up 🥉** at *World Robot Conference Contest (WRCC 2018)*.
@@ -101,7 +101,7 @@ I have participated in 8 seasons of VEX-EDR (now known as [VEX-V5](https://www.v
 * ![](https://img.shields.io/badge/2015-Weihai,%20China-blue) **Champion 🥇** at *National VEX Robotics Engineering Challenge*.
 * ![](https://img.shields.io/badge/2015-Weihai,%20China-blue) **First Prize 🏆** at *National VEX Robotics Engineering Challenge*.
 
-## 🌠 Students’ Activities
+#### 🌠 Students’ Activities
 * ![](https://img.shields.io/badge/2024--2025-A020F0) Student Congress, NJUST
   * Permanent Representatives
 * ![](https://img.shields.io/badge/2021--2025-A020F0) Major of 2021 in Cyberspace Security, NJUST
