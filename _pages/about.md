@@ -102,8 +102,8 @@ I have participated in 8 seasons of VEX-EDR (now known as [VEX-V5](https://www.v
 * ![](https://img.shields.io/badge/2015-Weihai,%20China-blue) **First Prize 🏆** at *National VEX Robotics Engineering Challenge*.
 
 ### 🌠 Students’ Activities
-- *2024 - 2025* Permanent Representatives, Student Congress, NJUST
-- *2021 - 2025* Secretary of the Reunion Branch, Major of 2021 in Cyberspace Security, NJUST
-- *2021 - 2025* Team Member, Basketball Team of the School of Cyberspace Security, NJUST
-- *2021 - 2025* Team Member, Badminton Team of the School of Cyberspace Security, NJUST
-- *2022 & 2023* Team Leader, Summer Social Practice Activity (Provincial Core Project)
+- *2024 - 2025*, Permanent Representatives, Student Congress, NJUST
+- *2021 - 2025*, Secretary of the Reunion Branch, Major of 2021 in Cyberspace Security, NJUST
+- *2021 - 2025*, Team Member, Basketball Team of the School of Cyberspace Security, NJUST
+- *2021 - 2025*, Team Member, Badminton Team of the School of Cyberspace Security, NJUST
+- *2022 & 2023*, Team Leader, Summer Social Practice Activity (Provincial Core Project)
