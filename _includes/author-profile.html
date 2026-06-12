@@ -216,12 +216,20 @@
     </div>
 
     <hr style="margin: 1.5em 0 1em 0; border: 0; border-top: 1px solid #eaeaea;">
-    <div class="visitor-map" style="text-align: center; width: 100%;">
+    <div class="visitor-map" style="text-align: center; width: 100%; display: flex; flex-direction: column; align-items: center;">
       <p style="font-size: 0.85em; color: #555; font-weight: bold; margin-bottom: 0.5em;">
         <i class="fas fa-fw fa-globe-americas" aria-hidden="true"></i> Visitors
       </p>
       
-      <iframe src="https://revolvermaps2.com/widget/2788fc02-4343-45f7-bde7-299368af2d41" width="320" height="320" style="border:0;" loading="lazy"></iframe>
+      <div style="width: 220px; height: 220px; overflow: hidden; position: relative; border-radius: 8px;">
+        <iframe 
+          src="https://revolvermaps2.com/widget/2788fc02-4343-45f7-bde7-299368af2d41" 
+          width="320" 
+          height="320" 
+          style="border:0; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) scale(0.68);" 
+          loading="lazy">
+        </iframe>
+      </div>
     </div>
     </div>
 </div>
