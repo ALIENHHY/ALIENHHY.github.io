@@ -61,15 +61,15 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🎖 Honors and Awards
-- *2025.04* ***Outstanding Graduates***, NJUST
-- *2025.03 & 2024.09 & 2024.03* ***First Prize*** at Outstanding Student Scholarship, NJUST
-- *2025.03 & 2024.09* ***Success Scholarship***, NJUST
-- *2024.09 & 2024.04* ***Outstanding Class Cadre***, NJUST
-- *2024.03* ***Beyond Scholarship***, NJUST
-- *2023.11* ***Merit Student***, NJUST
-- *2023.09 & 2023.03 & 2022.09* ***Third Prize*** at Outstanding Student Scholarship, NJUST
-- *2022.11* ***Sports activists***, NJUST
-- *2022.11* ***Runner-up*** at Badminton Team Championships, NJUST
+- *2025.04*: ***Outstanding Graduates***, NJUST
+- *2025.03 & 2024.09 & 2024.03*: ***First Prize*** at Outstanding Student Scholarship, NJUST
+- *2025.03 & 2024.09*: ***Success Scholarship***, NJUST
+- *2024.09 & 2024.04*: ***Outstanding Class Cadre***, NJUST
+- *2024.03*: ***Beyond Scholarship***, NJUST
+- *2023.11*: ***Merit Student***, NJUST
+- *2023.09 & 2023.03 & 2022.09*: ***Third Prize*** at Outstanding Student Scholarship, NJUST
+- *2022.11*: ***Sports activists***, NJUST
+- *2022.11*: ***Runner-up*** at Badminton Team Championships, NJUST
 
 # 📖 Educations
 - *2025.09 - present*, M.Sc. in Computer Science, [TASR-Lab](https://github.com/HKU-TASR), [HKU](https://www.hku.hk/), supervised by [Prof. Ka-Ho Chow](https://khchow.com/).
@@ -83,12 +83,12 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 💻 Internships
-- *2025.09 - present*, *[TASR-Lab](https://github.com/HKU-TASR)*, HKU
-- *2025.03 - 2025.08*, *[PR-Lab](https://prlab-nju.com/)*, NJU
-- *2024.09 - 2024.12*, *ESG Coordination Office (ECO Lab)*, Tencent
-- *2024.01 - 2024.02*, *Cloud Network Maintenance Center*, China Telecom
-- *2023.07 - 2023.08*, *Judicial Appraisal Institute*, CINGHOO
-- *2022.07 - 2022.08*, *DarkArmor Lab*, MoreSec
+- *2025.09 - present*: *[TASR-Lab](https://github.com/HKU-TASR)*, HKU
+- *2025.03 - 2025.08*: *[PR-Lab](https://prlab-nju.com/)*, NJU
+- *2024.09 - 2024.12*: *ESG Coordination Office (ECO Lab)*, Tencent
+- *2024.01 - 2024.02*: *Cloud Network Maintenance Center*, China Telecom
+- *2023.07 - 2023.08*: *Judicial Appraisal Institute*, CINGHOO
+- *2022.07 - 2022.08*: *DarkArmor Lab*, MoreSec
 
 # 🎨 Miscs
 ### 🤖 Robotics
@@ -102,8 +102,8 @@ I have participated in 8 seasons of VEX-EDR (now known as [VEX-V5](https://www.v
 * ![](https://img.shields.io/badge/2015-Weihai,%20China-blue) **First Prize 🏆** at *National VEX Robotics Engineering Challenge*.
 
 ### 🌠 Students’ Activities
-- *2024 - 2025*, Permanent Representatives, Student Congress, NJUST
-- *2021 - 2025*, Secretary of the Reunion Branch, Major of 2021 in Cyberspace Security, NJUST
-- *2021 - 2025*, Team Member, Basketball Team of the School of Cyberspace Security, NJUST
-- *2021 - 2025*, Team Member, Badminton Team of the School of Cyberspace Security, NJUST
-- *2022 & 2023*, Team Leader, Summer Social Practice Activity (Provincial Core Project)
+- *2024 - 2025*: Permanent Representatives, Student Congress, NJUST
+- *2021 - 2025*: Secretary of the Reunion Branch, Major of 2021 in Cyberspace Security, NJUST
+- *2021 - 2025*: Team Member, Basketball Team of the School of Cyberspace Security, NJUST
+- *2021 - 2025*: Team Member, Badminton Team of the School of Cyberspace Security, NJUST
+- *2022 & 2023*: Team Leader, Summer Social Practice Activity (Provincial Core Project)
