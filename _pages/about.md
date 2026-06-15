@@ -36,13 +36,13 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.12*: &nbsp; I completed my internship at Tencent, thanks to my mentor and colleagues!
 
 # 📝 Publications
-*$$\underline{\text{name}}$$: co-first author; $\dagger$: coresponding author*
+*$\dagger$: co-first author; $$\underline{\text{name}}$$: coresponding author*.
 
 ![](https://img.shields.io/badge/Security%2726-green) **Haoyang Hu**, Zhejun Jiang, Yueming Lyu, Junyuan Zhang, Yi Liu, and Ka-Ho Chow, *"Confundo: Learning to Generate Robust Poison for Practical RAG Systems."* The 35th USENIX Security Symposium (Security 2026), Baltimore, MD, USA, Aug. 12-14, 2026. <a href="https://arxiv.org/abs/2602.06616" target="_blank">[paper]</a> <a href="https://github.com/HKU-TASR/Confundo" target="_blank">[code]</a> <a href="https://www.promptfoo.dev/lm-security-db/vuln/context-robust-rag-poisoning-90c112bc" target="_blank">[promptfoo]</a>
 
-![](https://img.shields.io/badge/ADMA%2725-green) Shiwen Liu, Xu Dong, **Haoyang Hu$^\dagger$**, and Di Wu. *"MirrorMind: A Dual-Agent AI Interview Simulator Powered by LLMs."* The 21st International Conference on Advanced Data Mining and Applications (ADMA 2025), Kyoto, Japan, Oct. 22-24, 2025. <a href="https://dl.acm.org/doi/10.1007/978-981-95-3456-2_26" target="_blank">[paper]</a> <a href="https://github.com/ShvenLyons/MirrorMind" target="_blank">[code]</a>
+![](https://img.shields.io/badge/ADMA%2725-green) Shiwen Liu, Xu Dong, **<u>Haoyang Hu</u>**, and Di Wu. *"MirrorMind: A Dual-Agent AI Interview Simulator Powered by LLMs."* The 21st International Conference on Advanced Data Mining and Applications (ADMA 2025), Kyoto, Japan, Oct. 22-24, 2025. <a href="https://dl.acm.org/doi/10.1007/978-981-95-3456-2_26" target="_blank">[paper]</a> <a href="https://github.com/ShvenLyons/MirrorMind" target="_blank">[code]</a>
 
-![](https://img.shields.io/badge/CyberSciTech%2724-green) Yican Geng, **<u>Haoyang Hu</u>**, Zhaoxuan Ge, and Zhichao Lian. *"Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization."* The 9th IEEE Cyber Science and Technology Congress (CyberSciTech 2024), Boracay Island, Malay, Philippines, Nov. 5-8, 2024.
+![](https://img.shields.io/badge/CyberSciTech%2724-green) Yican Geng, **Haoyang Hu$^\dagger$**, Zhaoxuan Ge, and Zhichao Lian. *"Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization."* The 9th IEEE Cyber Science and Technology Congress (CyberSciTech 2024), Boracay Island, Malay, Philippines, Nov. 5-8, 2024.
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
