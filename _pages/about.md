@@ -66,6 +66,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.03 & 2024.09*: ***Success Scholarship***, NJUST
 - *2024.09 & 2024.04*: ***Outstanding Class Cadre***, NJUST
 - *2024.03*: ***Beyond Scholarship***, NJUST
+- *2023.12*: **First Prize** at National College Student Data Analysis Competition
+- *2023.11*: **Third Prize** at National Cryptography Technology Competition
 - *2023.11*: ***Merit Student***, NJUST
 - *2023.09 & 2023.03 & 2022.09*: ***Third Prize*** at Outstanding Student Scholarship, NJUST
 - *2022.11*: ***Sports activist***, NJUST
