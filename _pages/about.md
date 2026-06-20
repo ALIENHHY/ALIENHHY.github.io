@@ -36,13 +36,13 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.12*: &nbsp; I completed my internship at Tencent, thanks to my mentor and colleagues!
 
 # 📝 Publications
-**Note:** *$\dagger$ means co-first author, and $$\underline{\text{author}}$$ means coresponding author*.
+**Note:** $\dagger$ means *co-first author*, and $$\underline{\text{author}}$$ means *coresponding author*.
 
-![](https://img.shields.io/badge/SEC%2726-green) **Haoyang Hu**, Zhejun Jiang, Yueming Lyu, Junyuan Zhang, Yi Liu, and Ka-Ho Chow, *"Confundo: Learning to Generate Robust Poison for Practical RAG Systems."* The 35th USENIX Security Symposium (Security 2026), Baltimore, MD, USA. (cycle 2 acc rate ~ 12.6%) <a href="https://arxiv.org/abs/2602.06616" target="_blank">[paper]</a> <a href="https://github.com/HKU-TASR/Confundo" target="_blank">[code]</a> <a href="https://www.promptfoo.dev/lm-security-db/vuln/context-robust-rag-poisoning-90c112bc" target="_blank">[promptfoo]</a>
+![](https://img.shields.io/badge/SEC%2726-green) **Haoyang Hu**, Zhejun Jiang, Yueming Lyu, Junyuan Zhang, Yi Liu, and Ka-Ho Chow, *"Confundo: Learning to Generate Robust Poison for Practical RAG Systems."* The 35th USENIX Security Symposium, Baltimore, MD, USA. *(cycle 2 accept rate ~ 12.6%)* <a href="https://arxiv.org/abs/2602.06616" target="_blank">[paper]</a> <a href="https://github.com/HKU-TASR/Confundo" target="_blank">[code]</a> <a href="https://www.promptfoo.dev/lm-security-db/vuln/context-robust-rag-poisoning-90c112bc" target="_blank">[promptfoo]</a>
 
-![](https://img.shields.io/badge/ADMA%2725-green) Shiwen Liu, Xu Dong, **<u>Haoyang Hu</u>**, and Di Wu. *"MirrorMind: A Dual-Agent AI Interview Simulator Powered by LLMs."* The 21st International Conference on Advanced Data Mining and Applications (ADMA 2025), Kyoto, Japan. <a href="https://dl.acm.org/doi/10.1007/978-981-95-3456-2_26" target="_blank">[paper]</a> <a href="https://github.com/ShvenLyons/MirrorMind" target="_blank">[code]</a>
+![](https://img.shields.io/badge/ADMA%2725-green) Shiwen Liu, Xu Dong, **<u>Haoyang Hu</u>**, and Di Wu. *"MirrorMind: A Dual-Agent AI Interview Simulator Powered by LLMs."* The 21st International Conference on Advanced Data Mining and Applications, Kyoto, Japan. <a href="https://dl.acm.org/doi/10.1007/978-981-95-3456-2_26" target="_blank">[paper]</a> <a href="https://github.com/ShvenLyons/MirrorMind" target="_blank">[code]</a>
 
-![](https://img.shields.io/badge/CyberSciTech%2724-green) Yican Geng, **Haoyang Hu$^\dagger$**, Zhaoxuan Ge, and Zhichao Lian. *"Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization."* The 9th IEEE Cyber Science and Technology Congress (CyberSciTech 2024), Boracay Island, Malay, Philippines.
+![](https://img.shields.io/badge/CyberSciTech%2724-green) Yican Geng, **Haoyang Hu$^\dagger$**, Zhaoxuan Ge, and Zhichao Lian. *"Network Intrusion Detection Algorithm Based on LightGBM Model and Improved Particle Swarm Optimization."* The 9th IEEE Cyber Science and Technology Congress, Boracay Island, Malay, Philippines.
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -61,15 +61,15 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🎖 Honors and Awards
-- *2025.04*: ***Outstanding Graduates***, NJUST
+- *2025.04*: ***Outstanding Graduate***, NJUST
 - *2025.03 & 2024.09 & 2024.03*: ***First Prize*** at Outstanding Student Scholarship, NJUST
 - *2025.03 & 2024.09*: ***Success Scholarship***, NJUST
 - *2024.09 & 2024.04*: ***Outstanding Class Cadre***, NJUST
 - *2024.03*: ***Beyond Scholarship***, NJUST
 - *2023.11*: ***Merit Student***, NJUST
 - *2023.09 & 2023.03 & 2022.09*: ***Third Prize*** at Outstanding Student Scholarship, NJUST
-- *2022.11*: ***Sports activists***, NJUST
-- *2022.11*: ***Runner-up*** at Badminton Team Championships, NJUST
+- *2022.11*: ***Sports activist***, NJUST
+- *2022.11*: ***Runner-up*** at Badminton Team Championship, NJUST
 
 # 📖 Educations
 - *2025.09 - present*: M.Sc. in Computer Science, [TASR-Lab](https://github.com/HKU-TASR), [HKU](https://www.hku.hk/), supervised by [Prof. Ka-Ho Chow](https://khchow.com/).
@@ -103,7 +103,7 @@ I have participated in 8 seasons of VEX-EDR (now known as [VEX-V5](https://www.v
 
 ### 🌠 Students’ Activities
 - *2024 - 2025*: Permanent Representatives, Student Congress, NJUST
-- *2021 - 2025*: Secretary of the Reunion Branch, Major of 2021 in Cyberspace Security, NJUST
-- *2021 - 2025*: Team Member, Basketball Team of the School of Cyberspace Security, NJUST
-- *2021 - 2025*: Team Member, Badminton Team of the School of Cyberspace Security, NJUST
-- *2022 & 2023*: Team Leader, Summer Social Practice Activity (Provincial Core Project)
+- *2021 - 2025*: Secretary of the Reunion Branch, Major of 2021 in Cyber Science and Engineering, NJUST
+- *2021 - 2025*: Team Member, Basketball Team of the School of Cyber Science and Engineering, NJUST
+- *2021 - 2025*: Team Member, Badminton Team of the School of Cyber Science and Engineering, NJUST
+- *2022 & 2023*: Team Leader, Summer Social Practice Activity (provincial core project)
