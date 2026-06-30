@@ -21,9 +21,9 @@ redirect_from:
 
 My research interests mainly focus on the security and privacy of trustworthy large models, including jailbreaking, poisoning, member inference, data extraction (...) attacks and developing effective defenses to secure LLM, RAG, Agent systems, etc.
 
+<!--
 🥺 I am seeking a <span style="color: red;">PhD</span> opportunity starting in Fall 2026 or Spring 2027.
 
-<!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
