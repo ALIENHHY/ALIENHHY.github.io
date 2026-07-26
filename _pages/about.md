@@ -87,7 +87,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.11*: ***Runner-up*** at Badminton Team Championship, NJUST
 
 # 🎨 Miscs
-# 💻 Internships
+### 💻 Internships
 - *2025.09 - present*: *[TASR-Lab](https://github.com/HKU-TASR)*, HKU
 - *2025.03 - 2025.08*: *[PR-Lab](https://prlab-nju.com/)*, NJU
 - *2024.09 - 2024.12*: *ESG Coordination Office (ECO Lab)*, Tencent
