@@ -71,14 +71,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
-# 💻 Internships
-- *2025.09 - present*: *[TASR-Lab](https://github.com/HKU-TASR)*, HKU
-- *2025.03 - 2025.08*: *[PR-Lab](https://prlab-nju.com/)*, NJU
-- *2024.09 - 2024.12*: *ESG Coordination Office (ECO Lab)*, Tencent
-- *2024.01 - 2024.02*: *Cloud Network Maintenance Center*, China Telecom
-- *2023.07 - 2023.08*: *Judicial Appraisal Institute*, CINGHOO
-- *2022.07 - 2022.08*: *DarkArmor Lab*, MoreSec
-
 # 🎖 Honors and Awards
 - *2025.04*: ***Outstanding Graduate***, NJUST
 - *2025.03 & 2024.09 & 2024.03*: ***First Prize*** at Outstanding Student Scholarship, NJUST
@@ -93,6 +85,14 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.11*: ***Runner-up*** at Badminton Team Championship, NJUST
 
 # 🎨 Miscs
+# 💻 Internships
+- *2025.09 - present*: *[TASR-Lab](https://github.com/HKU-TASR)*, HKU
+- *2025.03 - 2025.08*: *[PR-Lab](https://prlab-nju.com/)*, NJU
+- *2024.09 - 2024.12*: *ESG Coordination Office (ECO Lab)*, Tencent
+- *2024.01 - 2024.02*: *Cloud Network Maintenance Center*, China Telecom
+- *2023.07 - 2023.08*: *Judicial Appraisal Institute*, CINGHOO
+- *2022.07 - 2022.08*: *DarkArmor Lab*, MoreSec
+
 ### 🤖 Robotics
 I have participated in 8 seasons of VEX-EDR (now known as [VEX-V5](https://www.vexrobotics.com/v5)) robotics competitions, selected awards including:
 * ![](https://img.shields.io/badge/2018-Beijing,%20China-blue) **First Prize 🏆** at *World Robot Conference Contest (WRCC 2018)*.
