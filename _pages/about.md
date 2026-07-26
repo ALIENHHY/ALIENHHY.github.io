@@ -36,7 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.12*: I completed my internship at Tencent, thanks to my mentor and colleagues!
 
 # 📝 Selected Publications
-**Note:** $\dagger$ means *co-first author*, and $$\underline{\text{author}}$$ means *coresponding author*.
+**Note:** $\clubsuit$ means *co-first author*, and $\dagger$ means *coresponding author*.
 
 ![](https://img.shields.io/badge/SEC%2726-green) **Haoyang Hu**, Zhejun Jiang, Yueming Lyu, Junyuan Zhang, Yi Liu, and Ka-Ho Chow, *"Confundo: Learning to Generate Robust Poison for Practical RAG Systems."* The 35th USENIX Security Symposium, Baltimore, MD, USA. *(cycle 2 accept rate ~ 12.6%)* <a href="https://arxiv.org/abs/2602.06616" target="_blank">[paper]</a> <a href="https://github.com/HKU-TASR/Confundo" target="_blank">[code]</a> <a href="https://www.promptfoo.dev/lm-security-db/vuln/context-robust-rag-poisoning-90c112bc" target="_blank">[promptfoo]</a>
 
