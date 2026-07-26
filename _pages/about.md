@@ -19,7 +19,7 @@ redirect_from:
 
 **Hi!** I am **Haoyang**, a M.Sc. student in Computer Science and research assistant at [TASR-Lab@HKU](https://github.com/HKU-TASR) supervised by [*Prof. Ka-Ho Chow*](https://khchow.com/). Before that, I was a visiting student at [PR-Lab@NJU](https://prlab-nju.com/) under the supervision of [*Prof. Yueming Lyu*](https://yueming-ai.top/) and [*Dr. Yi Liu*](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate). I obtained my B.Eng. degree at [School of Cyber Science and Engineering](https://scs.njust.edu.cn/), [Nanjing University of Science and Technology (NJUST)](https://www.njust.edu.cn/) adviced by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [*Dr. Shuangquan Zhang*](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp). In addition, I had a wonderful time at [Tencent](https://www.tencent.com/zh-cn/) exploring AI governance, security, and privacy.
 
-My research interests mainly focus on the security and privacy of trustworthy large models, including jailbreaking, poisoning, member inference, data extraction (...) attacks and developing effective defenses to secure LLM, RAG, Agent systems, etc.
+My research interests mainly focus on the security and privacy of trustworthy large models, including jailbreaking, poisoning, membership inference, data extraction, backdoor (...) attacks and developing effective defenses to secure LLM, RAG, Agent systems, etc.
 
 <!--
 🥺 I am seeking a <span style="color: red;">PhD</span> opportunity starting in Fall 2026 or Spring 2027.
@@ -60,19 +60,6 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
-# 🎖 Honors and Awards
-- *2025.04*: ***Outstanding Graduate***, NJUST
-- *2025.03 & 2024.09 & 2024.03*: ***First Prize*** at Outstanding Student Scholarship, NJUST
-- *2025.03 & 2024.09*: ***Success Scholarship***, NJUST
-- *2024.09 & 2024.04*: ***Outstanding Class Cadre***, NJUST
-- *2024.03*: ***Beyond Scholarship***, NJUST
-- *2023.12*: **First Prize** at National College Student Data Analysis Competition
-- *2023.11*: **Third Prize** at National Cryptography Technology Competition
-- *2023.11*: ***Merit Student***, NJUST
-- *2023.09 & 2023.03 & 2022.09*: ***Third Prize*** at Outstanding Student Scholarship, NJUST
-- *2022.11*: ***Sports activist***, NJUST
-- *2022.11*: ***Runner-up*** at Badminton Team Championship, NJUST
-
 # 📖 Educations
 - *2025.09 - present*: M.Sc. in Computer Science, [TASR-Lab](https://github.com/HKU-TASR), [HKU](https://www.hku.hk/), supervised by [Prof. Ka-Ho Chow](https://khchow.com/).
 - *2025.03 - 2025.08*: Visiting Student, [PR-Lab](https://prlab-nju.com/), [NJU](https://www.nju.edu.cn/), supervised by [Prof. Yueming Lyu](https://yueming-ai.top/) and [Dr. Yi Liu](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate).
@@ -91,6 +78,19 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.01 - 2024.02*: *Cloud Network Maintenance Center*, China Telecom
 - *2023.07 - 2023.08*: *Judicial Appraisal Institute*, CINGHOO
 - *2022.07 - 2022.08*: *DarkArmor Lab*, MoreSec
+
+# 🎖 Honors and Awards
+- *2025.04*: ***Outstanding Graduate***, NJUST
+- *2025.03 & 2024.09 & 2024.03*: ***First Prize*** at Outstanding Student Scholarship, NJUST
+- *2025.03 & 2024.09*: ***Success Scholarship***, NJUST
+- *2024.09 & 2024.04*: ***Outstanding Class Cadre***, NJUST
+- *2024.03*: ***Beyond Scholarship***, NJUST
+- *2023.12*: **First Prize** at National College Student Data Analysis Competition
+- *2023.11*: **Third Prize** at National Cryptography Technology Competition
+- *2023.11*: ***Merit Student***, NJUST
+- *2023.09 & 2023.03 & 2022.09*: ***Third Prize*** at Outstanding Student Scholarship, NJUST
+- *2022.11*: ***Sports activist***, NJUST
+- *2022.11*: ***Runner-up*** at Badminton Team Championship, NJUST
 
 # 🎨 Miscs
 ### 🤖 Robotics
