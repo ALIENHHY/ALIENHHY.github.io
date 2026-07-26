@@ -25,14 +25,17 @@ My research interests mainly focus on the security and privacy of trustworthy la
 🥺 I am seeking a <span style="color: red;">PhD</span> opportunity starting in Fall 2026 or Spring 2027.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+
+- *2025.06*: My undergraduate thesis passed and was rated as *Excellent*!
 -->
 
 # 🔥 News
+- *2026.07*: I received an Ph.D. offer from HKU, will continue my study here!
 - *2026.06*: 🎉🎉 *Confundo*, a RL-based RAG poisoning attack, was accepted by **USENIX Security'26**! *(cycle 2 accept rate ~ 12.6%)*
 - *2025.08*: 🎉🎉 *MirrorMind*, an Agentic interview simulator, was accepted by **ADMA'25**!
 - *2025.06*: I graduated from NJUST, and was honored with *Outstanding Graduate*!
-- *2025.06*: My undergraduate thesis passed and was rated as *Excellent*!
-- *2025.01*: I received an M.Sc. offer with a *scholarship of RMB 30,000* from CUHK-SZ!
+- *2025.01*: I received a scholarship of RMB 30,000 from CUHK-SZ!
 - *2024.12*: I completed my internship at Tencent, thanks to my mentor and colleagues!
 
 # 📝 Selected Publications
@@ -74,6 +77,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🎖 Honors and Awards
+- *2026.06*: ***DeltaX Fellowship***, HKU
 - *2025.04*: ***Outstanding Graduate***, NJUST
 - *2025.03 & 2024.09 & 2024.03*: ***First Prize*** at Outstanding Student Scholarship, NJUST
 - *2025.03 & 2024.09*: ***Success Scholarship***, NJUST
