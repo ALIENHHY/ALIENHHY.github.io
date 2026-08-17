@@ -31,8 +31,8 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
-- *2026.07*: I received an Ph.D. offer from HKU, will continue my study here!
-- *2026.06*: 🎉🎉 *Confundo*, a RL-based RAG poisoning attack, was accepted by **USENIX Security'26**! *(cycle 2 accept rate ~ 12.6%)*
+- *2026.07*: I received Ph.D. offer from HKU, will continue my study here!
+- *2026.06*: 🎉🎉 *Confundo*, a RL-based RAG poisoning attack, was accepted by **USENIX Security'26**! *(accept rate: 362/3028 ≈ 12%)*
 - *2025.08*: 🎉🎉 *MirrorMind*, an Agentic interview simulator, was accepted by **ADMA'25**!
 - *2025.06*: I graduated from NJUST, and was honored with *Outstanding Graduate*!
 - *2025.01*: I received a scholarship of RMB 30,000 from CUHK-SZ!
@@ -41,7 +41,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Selected Publications
 **Note:** $\clubsuit$ means *co-first author*, and $\dagger$ means *coresponding author*.
 
-![](https://img.shields.io/badge/SEC%2726-green) **Haoyang Hu**, Zhejun Jiang, Yueming Lyu, Junyuan Zhang, Yi Liu, and Ka-Ho Chow, *"Confundo: Learning to Generate Robust Poison for Practical RAG Systems."* The 35th USENIX Security Symposium, Baltimore, MD, USA. *(cycle 2 accept rate ~ 12.6%)* <a href="https://arxiv.org/abs/2602.06616" target="_blank">[paper]</a> <a href="https://github.com/HKU-TASR/Confundo" target="_blank">[code]</a> <a href="https://www.promptfoo.dev/lm-security-db/vuln/context-robust-rag-poisoning-90c112bc" target="_blank">[promptfoo]</a>
+![](https://img.shields.io/badge/SEC%2726-green) **Haoyang Hu**, Zhejun Jiang, Yueming Lyu, Junyuan Zhang, Yi Liu, and Ka-Ho Chow, *"Confundo: Learning to Generate Robust Poison for Practical RAG Systems."* The 35th USENIX Security Symposium, Baltimore, MD, USA. *(accept rate: 362/3028 ≈ 12%)* <a href="https://arxiv.org/abs/2602.06616" target="_blank">[paper]</a> <a href="https://github.com/HKU-TASR/Confundo" target="_blank">[code]</a> <a href="https://www.promptfoo.dev/lm-security-db/vuln/context-robust-rag-poisoning-90c112bc" target="_blank">[promptfoo]</a>
 
 ![](https://img.shields.io/badge/ADMA%2725-green) Shiwen Liu, Xu Dong, **Haoyang Hu$^\dagger$**, and Di Wu. *"MirrorMind: A Dual-Agent AI Interview Simulator Powered by LLMs."* The 21st International Conference on Advanced Data Mining and Applications, Kyoto, Japan. <a href="https://dl.acm.org/doi/10.1007/978-981-95-3456-2_26" target="_blank">[paper]</a> <a href="https://github.com/ShvenLyons/MirrorMind" target="_blank">[code]</a>
 
@@ -74,6 +74,13 @@ My research interest includes neural machine translation and computer vision. I 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+
+- *2023.12*: **First Prize** at National College Student Data Analysis Competition
+- *2023.11*: **Third Prize** at National Cryptography Technology Competition
+- *2023.09 & 2023.03 & 2022.09*: ***Third Prize*** at Outstanding Student Scholarship, NJUST
+- *2022.11*: ***Sports activist***, NJUST
+- *2022.11*: ***Runner-up*** at Badminton Team Championship, NJUST
 -->
 
 # 🎖 Honors and Awards
@@ -83,12 +90,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.03 & 2024.09*: ***Success Scholarship***, NJUST
 - *2024.09 & 2024.04*: ***Outstanding Class Cadre***, NJUST
 - *2024.03*: ***Beyond Scholarship***, NJUST
-- *2023.12*: **First Prize** at National College Student Data Analysis Competition
-- *2023.11*: **Third Prize** at National Cryptography Technology Competition
 - *2023.11*: ***Merit Student***, NJUST
-- *2023.09 & 2023.03 & 2022.09*: ***Third Prize*** at Outstanding Student Scholarship, NJUST
-- *2022.11*: ***Sports activist***, NJUST
-- *2022.11*: ***Runner-up*** at Badminton Team Championship, NJUST
 
 # 🎨 Miscs
 ### 💻 Internships
