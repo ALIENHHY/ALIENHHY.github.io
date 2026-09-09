@@ -34,7 +34,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
-- *2026.06*: 🎉🎉 *Confundo*, a RL-based RAG poisoning attack, was accepted by **USENIX Security'26**! *(362/3028 ≈ 12%)*
+- *2026.06*: 🎉🎉 *Confundo*, a RL-based RAG poisoning attack, was accepted by **USENIX Security'26**! *(362/3028 ≈ 12.0%)*
 - *2025.08*: 🎉🎉 *MirrorMind*, an Agentic interview simulator, was accepted by **ADMA'25**!
 - *2025.06*: I graduated from NJUST, and was honored with *Outstanding Graduate*!
 - *2025.01*: I received a scholarship of RMB 30,000 from CUHK-SZ!
@@ -43,7 +43,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Selected Publications
 **Note:** $\clubsuit$ means *co-first author*, and $\dagger$ means *coresponding author*.
 
-![](https://img.shields.io/badge/SEC%2726-green) **Haoyang Hu**, Zhejun Jiang, Yueming Lyu, Junyuan Zhang, Yi Liu, and Ka-Ho Chow, *"Confundo: Learning to Generate Robust Poison for Practical RAG Systems."* The 35th USENIX Security Symposium, Baltimore, MD, USA. *(362/3028 ≈ 12%)* <a href="https://www.usenix.org/system/files/usenixsecurity26-hu-haoyang.pdf" target="_blank">[paper]</a> <a href="https://github.com/HKU-TASR/Confundo" target="_blank">[code]</a> <a href="https://www.promptfoo.dev/lm-security-db/vuln/context-robust-rag-poisoning-90c112bc" target="_blank">[promptfoo]</a>
+![](https://img.shields.io/badge/SEC%2726-green) **Haoyang Hu**, Zhejun Jiang, Yueming Lyu, Junyuan Zhang, Yi Liu, and Ka-Ho Chow, *"Confundo: Learning to Generate Robust Poison for Practical RAG Systems."* The 35th USENIX Security Symposium, Baltimore, MD, USA. *(362/3028 ≈ 12.0%)* <a href="https://www.usenix.org/system/files/usenixsecurity26-hu-haoyang.pdf" target="_blank">[paper]</a> <a href="https://github.com/HKU-TASR/Confundo" target="_blank">[code]</a> <a href="https://www.promptfoo.dev/lm-security-db/vuln/context-robust-rag-poisoning-90c112bc" target="_blank">[promptfoo]</a>
 
 ![](https://img.shields.io/badge/ADMA%2725-green) Shiwen Liu, Xu Dong, **Haoyang Hu$^\dagger$**, and Di Wu. *"MirrorMind: A Dual-Agent AI Interview Simulator Powered by LLMs."* The 21st International Conference on Advanced Data Mining and Applications, Kyoto, Japan. <a href="https://dl.acm.org/doi/10.1007/978-981-95-3456-2_26" target="_blank">[paper]</a> <a href="https://github.com/ShvenLyons/MirrorMind" target="_blank">[code]</a>
 
@@ -68,7 +68,8 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 📖 Educations
-- *2025.09 - present*: M.Sc. in Computer Science, [TASR-Lab](https://github.com/HKU-TASR), [HKU](https://www.hku.hk/), supervised by [Prof. Ka-Ho Chow](https://khchow.com/).
+- *2026.10 - present*: Ph.D. in Computer Science, [TASR-Lab](https://github.com/HKU-TASR), [HKU](https://www.hku.hk/), supervised by [Prof. Ka-Ho Chow](https://khchow.com/) and [Prof. Siu-Ming Yiu](https://www.cs.hku.hk/index.php/people/academic-staff/smyiu).
+- *2025.09 - 2026.12*: M.Sc. in Computer Science, [TASR-Lab](https://github.com/HKU-TASR), [HKU](https://www.hku.hk/), supervised by [Prof. Ka-Ho Chow](https://khchow.com/).
 - *2025.03 - 2025.08*: Visiting Student, [PR-Lab](https://prlab-nju.com/), [NJU](https://www.nju.edu.cn/), supervised by [Prof. Yueming Lyu](https://yueming-ai.top/) and [Dr. Yi Liu](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate).
 - *2021.09 - 2025.06*: B.Eng. in Cyber Science and Engineering, [NJUST](https://www.njust.edu.cn/), supervised by [Prof. Zhichao Lian](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [Dr. Shuangquan Zhang](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp).
 
@@ -95,13 +96,14 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.11*: ***Merit Student***, NJUST
 
 # 🎨 Miscs
-### 💻 Internships
-- *2025.09 - present*: *[TASR-Lab](https://github.com/HKU-TASR)*, HKU
-- *2025.03 - 2025.08*: *[PR-Lab](https://prlab-nju.com/)*, NJU
-- *2024.09 - 2024.12*: *ESG Coordination Office (ECO Lab)*, Tencent
-- *2024.01 - 2024.02*: *Cloud Network Maintenance Center*, China Telecom
-- *2023.07 - 2023.08*: *Judicial Appraisal Institute*, CINGHOO
-- *2022.07 - 2022.08*: *DarkArmor Lab*, MoreSec
+### 💻 Work Experiences
+- *2025.09 - 2026.09*: Research Assistant, *[TASR-Lab](https://github.com/HKU-TASR)*, HKU
+- *2025.03 - 2025.08*: Research Assistant, *[PR-Lab](https://prlab-nju.com/)*, NJU
+- *2024.04 - 2025.08*: Startup, Nebulorix
+- *2024.09 - 2024.12*: Intern, *ESG Coordination Office (ECO Lab)*, Tencent
+- *2024.01 - 2024.02*: Intern, *Cloud Network Maintenance Center*, China Telecom
+- *2023.07 - 2023.08*: Intern, *Judicial Appraisal Institute*, CINGHOO
+- *2022.07 - 2022.08*: Intern, *DarkArmor Lab*, MoreSec
 
 ### 🤖 Robotics
 I have participated in 8 seasons of VEX-EDR (now known as [VEX-V5](https://www.vexrobotics.com/v5)) robotics competitions, selected awards including:
