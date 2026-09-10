@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Hi!** I am **Haoyang**, a Ph.D. student in Computer Science at [TASR-Lab@HKU](https://github.com/HKU-TASR), The University of Hong Kong (HKU), supervised by [*Prof. Ka-Ho Chow*](https://khchow.com/) and [*Prof. Siu-Ming Yiu*](https://www.cs.hku.hk/index.php/people/academic-staff/smyiu). Prior to this, I earned my M.Sc. degree from HKU while working as a Research Assistant in the same lab.
+**Hi!** I am **Haoyang**, a Ph.D. student in Computer Science at [TASR-Lab](https://github.com/HKU-TASR), The University of Hong Kong (HKU), supervised by [*Prof. Ka-Ho Chow*](https://khchow.com/) and [*Prof. Siu-Ming Yiu*](https://www.cs.hku.hk/index.php/people/academic-staff/smyiu). Prior to this, I earned my M.Sc. degree in CS from HKU while working as a Research Assistant in the same lab.
 
 Before joining HKU, I was a visiting student at [PR-Lab@NJU](https://prlab-nju.com/) under the supervision of [*Prof. Yueming Lyu*](https://yueming-ai.top/) and [*Dr. Yi Liu*](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=RNNNv7QAAAAJ&sortby=pubdate). I obtained my B.Eng. degree at [School of Cyber Science and Engineering](https://scs.njust.edu.cn/), [Nanjing University of Science and Technology (NJUST)](https://www.njust.edu.cn/) advised by [*Prof. Zhichao Lian*](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) and [*Dr. Shuangquan Zhang*](https://jszy.njust.edu.cn/wlkjaq/zsq/list.psp). In addition, I had a wonderful time at [Tencent](https://www.tencent.com/zh-cn/) exploring AI governance, security, and privacy.
 
@@ -34,8 +34,8 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
-- *2026.06*: 🎉🎉 *Confundo*, a RL-based RAG poisoning attack, was accepted by **USENIX Security'26**! *(362/3028 ≈ 12.0%)*
-- *2025.08*: 🎉🎉 *MirrorMind*, an Agentic interview simulator, was accepted by **ADMA'25**!
+- *2026.06*: 🎉🎉 *Confundo*, an RL-based RAG poisoning attack, , has been accepted to **USENIX Security'26**! *(362/3028 ≈ 12.0%)*
+- *2025.08*: 🎉🎉 *MirrorMind*, an agentic interview simulator, , has been accepted to **ADMA'25**!
 - *2025.06*: I graduated from NJUST, and was honored with *Outstanding Graduate*!
 - *2025.01*: I received a scholarship of RMB 30,000 from CUHK-SZ!
 - *2024.12*: I completed my internship at Tencent, thanks to my mentor and colleagues!
