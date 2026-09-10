@@ -34,8 +34,8 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
-- *2026.06*: 🎉🎉 *Confundo*, an RL-based RAG poisoning attack, , has been accepted to **USENIX Security'26**! *(362/3028 ≈ 12.0%)*
-- *2025.08*: 🎉🎉 *MirrorMind*, an agentic interview simulator, , has been accepted to **ADMA'25**!
+- *2026.06*: 🎉🎉 *Confundo*, an RL-based RAG poisoning attack, has been accepted to **USENIX Security'26**! *(362/3028 ≈ 12.0%)*
+- *2025.08*: 🎉🎉 *MirrorMind*, an agentic interview simulator, has been accepted to **ADMA'25**!
 - *2025.06*: I graduated from NJUST, and was honored with *Outstanding Graduate*!
 - *2025.01*: I received a scholarship of RMB 30,000 from CUHK-SZ!
 - *2024.12*: I completed my internship at Tencent, thanks to my mentor and colleagues!
